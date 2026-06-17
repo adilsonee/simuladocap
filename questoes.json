@@ -7,267 +7,483 @@
       "questoes": [
         {
           "id": 1,
-          "enunciado": "Qual estilo de liderança é caracterizado pela centralização das decisões no líder, que emite ordens diretas e espera obediência imediata?",
+          "enunciado": "Segundo Peter Guy Northouse (2016), a liderança é definida como um processo pelo qual um indivíduo influencia um grupo de indivíduos para alcançar um objetivo comum. Com base nessa definição, quais são os quatro componentes centrais do fenômeno da liderança?",
           "alternativas": [
-            "A) Liderança Democrática",
-            "B) Liderança Autocrática",
-            "C) Liderança Liberal (Laissez-faire)",
-            "D) Liderança Transformacional"
+            "A) Autoridade legal, hierarquia militar, coerção punitiva e metas de curto prazo.",
+            "B) Traços de personalidade, carisma individual, poder de posição e obediência cega.",
+            "C) Processo contínuo, exercício de influência, grupo de indivíduos e objetivo comum.",
+            "D) Troca transacional, recompensas de desempenho, punição disciplinar e gestão técnica."
           ],
-          "respostaCorreta": 1,
-          "justificativa": "A liderança autocrática foca a autoridade no líder, que toma as decisões sozinho e exige obediência direta e imediata de seus subordinados."
+          "respostaCorreta": 2,
+          "justificativa": "Northouse destaca que a liderança: 1) é um PROCESSO (não é um evento isolado ou traço estático), 2) envolve INFLUÊNCIA (como o líder afeta os liderados), 3) ocorre em um GRUPO de indivíduos e 4) é direcionada para um OBJETIVO COMUM. As demais opções focam em poder formal ou teorias ultrapassadas de traços."
         },
         {
           "id": 2,
-          "enunciado": "A liderança participativa ou democrática caracteriza-se principalmente por:",
+          "enunciado": "A atividade de liderança está estreitamente relacionada com o uso do poder. De forma simplificada, o poder pode ser classificado em dois tipos básicos: o poder de posição e o poder pessoal. Qual é a diferença fundamental entre eles?",
           "alternativas": [
-            "A) Deixar os subordinados totalmente livres sem nenhuma orientação ou feedback.",
-            "B) Centralizar todas as decisões e delegar apenas tarefas burocráticas.",
-            "C) Envolver os subordinados no processo de tomada de decisão, ouvindo suas opiniões e feedbacks.",
-            "D) Basear-se puramente em trocas financeiras e recompensas de curto prazo."
+            "A) O poder de posição decorre da competência técnica e exemplo pessoal, enquanto o poder pessoal vem do cargo formal.",
+            "B) O poder de posição é obtido através do cargo na estrutura hierárquica formal, enquanto o poder pessoal é uma autoridade conquistada pelo exemplo, competência e respeito.",
+            "C) O poder pessoal gera submissão temporária obrigatória, enquanto o poder de posição gera comprometimento voluntário duradouro.",
+            "D) O poder de posição é ilimitado na administração pública, ao passo que o poder pessoal é restrito às relações informais."
           ],
-          "respostaCorreta": 2,
-          "justificativa": "Na liderança democrática ou participativa, o líder incentiva a participação dos subordinados e valoriza suas contribuições nas decisões, embora mantenha a responsabilidade final."
+          "respostaCorreta": 1,
+          "justificativa": "O poder de posição é atribuído pela organização e depende da posição hierárquica do indivíduo (autoridade formal). O poder pessoal é conquistado e oferecido pelos liderados porque eles reconhecem valor, exemplo e competência no líder. A liderança autêntica se baseia fortemente no poder pessoal."
         },
         {
           "id": 3,
-          "enunciado": "Qual estilo de liderança delega total liberdade aos subordinados para tomarem decisões, agindo o líder apenas quando solicitado?",
+          "enunciado": "No contexto da caserna e da liderança militar, costuma-se diferenciar a figura do 'chefe' da figura do 'líder' com base no tipo de poder predominante que utilizam. Como essa distinção é caracterizada?",
           "alternativas": [
-            "A) Liderança Autocrática",
-            "B) Liderança Coercitiva",
-            "C) Liderança Liberal (Laissez-faire)",
-            "D) Liderança Situacional"
+            "A) O chefe orienta e diz 'nós/vamos', enquanto o líder impõe ordens dizendo 'eu/vá' com base no cargo.",
+            "B) O líder depende puramente da coerção e punição, ao passo que o chefe estimula a cooperação espontânea.",
+            "C) O chefe usa do poder da posição para impor suas ordens dizendo 'eu/vá', enquanto o líder usa o poder pessoal e a autoridade conquistada para guiar o grupo dizendo 'nós/vamos'.",
+            "D) O chefe e o líder atuam exatamente da mesma forma, diferenciando-se apenas pela denominação do cargo."
           ],
           "respostaCorreta": 2,
-          "justificativa": "A liderança liberal (ou laissez-faire, 'deixe fazer') dá autonomia total aos subordinados para definir tarefas e tomar decisões, com pouca ou nenhuma interferência do líder."
+          "justificativa": "A chefia militar baseia-se no poder de posição (autoridade formal, comando, imposição de diretrizes), enquanto a liderança militar baseia-se na influência pessoal e autoridade conquistada pelo exemplo (condução humana com base no 'nós/vamos')."
         },
         {
           "id": 4,
-          "enunciado": "A Liderança Transformacional refere-se a um modelo que:",
+          "enunciado": "Gary Yukl (2013) aponta que o sucesso de uma tentativa de influência depende da resposta do liderado. Qual das seguintes alternativas descreve corretamente o resultado denominado 'Compromisso' (Commitment)?",
           "alternativas": [
-            "A) Foca em manter o status quo por meio de punições severas.",
-            "B) Inspira e motiva os subordinados a excederem suas próprias expectativas para atingir objetivos elevados e evoluir pessoalmente.",
-            "C) Utiliza apenas o poder de recompensa imediata após cada tarefa executada.",
-            "D) Evita tomar decisões importantes, deixando que o grupo se auto-organize sem rumo."
+            "A) O liderado concorda internamente com a solicitação do líder, demonstrando grande esforço pessoal, iniciativa, persistência e criatividade para alcançá-la.",
+            "B) O liderado realiza a tarefa de forma apática, com esforço mínimo, procrastinando sempre que possível.",
+            "C) O liderado se opõe ativamente à solicitação, fingindo obediência mas atrasando a entrega deliberadamente.",
+            "D) O liderado aceita a tarefa unicamente em troca de uma recompensa financeira ou folga prometida."
           ],
-          "respostaCorreta": 1,
-          "justificativa": "A liderança transformacional transforma os liderados ao inspirá-los com uma visão clara, estimulando a criatividade e promovendo o desenvolvimento individual."
+          "respostaCorreta": 0,
+          "justificativa": "O compromisso ocorre quando o liderado se identifica com a meta e internaliza o objetivo, agindo com iniciativa, entusiasmo e persistência. É o resultado ideal da liderança autêntica."
         },
         {
           "id": 5,
-          "enunciado": "A Liderança Transacional é baseada essencialmente em:",
+          "enunciado": "Quando o liderado está disposto a realizar o trabalho solicitado pelo líder, mas demonstra apatia, realiza apenas o esforço mínimo necessário e não apresenta iniciativa ou entusiasmo, qual resultado do processo de influência está ocorrendo?",
           "alternativas": [
-            "A) Relações emocionais profundas e inspiração ideológica de longo prazo.",
-            "B) Processos de troca entre o líder e os liderados, onde o bom desempenho é recompensado e os erros são punidos.",
-            "C) Ausência total de controle e anarquia organizacional deliberada.",
-            "D) Uma visão espiritualista de comando sem objetivos práticos definidos."
+            "A) Resistência ativa.",
+            "B) Compromisso voluntário.",
+            "C) Liderança transformacional.",
+            "D) Conformidade (Compliance)."
           ],
-          "respostaCorreta": 1,
-          "justificativa": "A liderança transacional funciona como uma 'transação': o líder define metas e oferece recompensas pelo cumprimento (ou sanções pelo descumprimento), mantendo a estabilidade organizacional."
+          "respostaCorreta": 3,
+          "justificativa": "A conformidade (ou submissão) ocorre quando o liderado realiza a tarefa por obrigação (poder de posição ou recompensa transacional), sem entusiasmo e fazendo apenas o mínimo necessário. Não há engajamento interno com a meta."
         },
         {
           "id": 6,
-          "enunciado": "Qual atributo da liderança militar refere-se à capacidade de colocar-se no lugar do subordinado e compreender seus sentimentos, necessidades e dificuldades?",
+          "enunciado": "Um subordinado que se opõe a uma ordem, tenta convencer o líder a alterá-la, atrasa o trabalho intencionalmente ou finge concordar enquanto sabota o andamento da tarefa está manifestando qual resultado de influência?",
           "alternativas": [
-            "A) Iniciativa",
-            "B) Empatia",
-            "C) Decisão",
-            "D) Coragem moral"
+            "A) Conformidade passiva.",
+            "B) Resistência (Resistance).",
+            "C) Compromisso insatisfeito.",
+            "D) Liderança liberal."
           ],
           "respostaCorreta": 1,
-          "justificativa": "A empatia é a capacidade de compreender e compartilhar os sentimentos e as perspectivas dos outros, fundamental para que o líder conheça seus homens e cuide de seu bem-estar."
+          "justificativa": "A resistência é a oposição ativa ou passiva à tentativa de influência do líder. Manifesta-se por desculpas, atrasos intencionais, fingimentos e recusa de cooperação, sendo comum quando há abuso de poder coercitivo."
         },
         {
           "id": 7,
-          "enunciado": "O atributo da liderança que diz respeito à integridade moral, honestidade, retidão de conduta e cumprimento do dever é definido como:",
+          "enunciado": "Diferentes táticas de persuasão são recomendadas dependendo da direção da influência (superiores, pares ou subordinados). Para influenciar um superior hierárquico, qual tática é a mais recomendada e como ela deve ser empregada?",
           "alternativas": [
-            "A) Caráter",
-            "B) Flexibilidade",
-            "C) Autoconfiança",
-            "D) Entusiasmo"
+            "A) Apelos emocionais, baseando a proposta puramente na intuição pessoal do liderado.",
+            "B) Pressão e coerção, estabelecendo prazos firmes e ameaças veladas de insubordinação.",
+            "C) Persuasão Racional, utilizando explicações lógicas, fatos claros e evidências factuais para provar que a solicitação é viável e relevante.",
+            "D) Lisonja e ingratiação, elogiando o superior excessivamente antes de fazer o pedido."
           ],
-          "respostaCorreta": 0,
-          "justificativa": "O caráter do líder é a base de sua autoridade moral. Reflete sua integridade, retidão e adesão inabalável a princípios éticos e valores militares."
+          "respostaCorreta": 2,
+          "justificativa": "A persuasão racional (apelo lógico) é a tática mais eficaz para influenciar superiores, pois demonstra objetividade, viabilidade técnica e benefícios práticos da proposta com base em dados e argumentos estruturados."
         },
         {
           "id": 8,
-          "enunciado": "Qual estilo de liderança é considerado o mais apropriado em situações de combate ou emergência extrema, onde decisões rápidas e precisas são vitais e o tempo é escasso?",
+          "enunciado": "Para influenciar colegas de trabalho (pares) que estão no mesmo nível hierárquico, recomenda-se o uso de apelos emocionais. Como essa tática de persuasão deve ser aplicada na prática?",
           "alternativas": [
-            "A) Liderança Liberal",
-            "B) Liderança Autocrática (Diretiva)",
-            "C) Liderança Democrática",
-            "D) Liderança Coaching"
+            "A) Apresentando dados estatísticos frios e planilhas orçamentárias complexas.",
+            "B) Associando a proposta a ideais, crenças e valores comuns, descrevendo uma visão inspiradora do projeto com comunicação positiva e otimista.",
+            "C) Prometendo vantagens financeiras diretas ou transferências de responsabilidade.",
+            "D) Cobrando obediência com base no regulamento disciplinar militar."
           ],
           "respostaCorreta": 1,
-          "justificativa": "Em situações críticas ou de combate, a liderança autocrática é vital porque a hesitação pode ser fatal e não há tempo para consultas ou consensos; o comando deve ser centralizado e imediato."
+          "justificativa": "Com os pares, o líder não tem poder de posição. Portanto, conectar o projeto a valores, visões de futuro estimulantes e ideais compartilhados (apelos emocionais) é a forma mais eficaz de motivar cooperação espontânea."
         },
         {
           "id": 9,
-          "enunciado": "Qual a principal diferença conceitual entre 'Chefia' e 'Liderança'?",
+          "enunciado": "Ao tentar influenciar subordinados, o líder pode utilizar apelos colaborativos. Uma das táticas mais eficientes é a 'Consulta'. Em que consiste essa tática?",
           "alternativas": [
-            "A) Chefia é um dom natural e liderança é um cargo atribuído.",
-            "B) Chefia baseia-se na autoridade formal do cargo legal, enquanto Liderança baseia-se na influência pessoal e aceitação voluntária pelos liderados.",
-            "C) Não há diferença; ambos os termos são sinônimos perfeitos em qualquer circunstância.",
-            "D) A chefia é sempre democrática e a liderança é sempre autocrática."
+            "A) Em intimar o subordinado a decidir o rumo de toda a organização de forma isolada.",
+            "B) Em solicitar que a equipe sugira ideias e melhorias para o planejamento ou execução da tarefa, promovendo o comprometimento ativo.",
+            "C) Em interrogar os liderados para identificar falhas individuais do último expediente.",
+            "D) Em submeter todas as ordens de combate a uma votação democrática de maioria simples."
           ],
           "respostaCorreta": 1,
-          "justificativa": "O chefe recebe sua autoridade da estrutura formal da organização (cargo). O líder influencia as pessoas a segui-lo voluntariamente devido à confiança, carisma e exemplo pessoal."
+          "justificativa": "A consulta envolve ativamente o liderado no planejamento de uma tarefa. Quando as pessoas participam da elaboração do plano de ação, elas se sentem ouvidas, o que aumenta drasticamente o comprometimento com o resultado final."
         },
         {
           "id": 10,
-          "enunciado": "A teoria da liderança que defende que a eficácia do líder depende de ajustar seu comportamento à maturidade profissional e psicológica dos subordinados é a:",
+          "enunciado": "A tática de persuasão denominada 'Colaboração' é um apelo colaborativo indicado para liderar subordinados. Ela é caracterizada na prática por:",
           "alternativas": [
-            "A) Teoria dos Traços",
-            "B) Teoria Comportamental clássica",
-            "C) Teoria da Liderança Situacional",
-            "D) Teoria da Grande Personalidade"
+            "A) Deixar o subordinado realizar a tarefa sozinho sem qualquer orientação ou recurso.",
+            "B) Oferecer suporte, recursos adicionais, assistência prática ou conhecimento técnico do próprio líder para ajudar o subordinado a executar a tarefa e superar barreiras.",
+            "C) Trocar favores pessoais fora da organização militar para garantir a obediência interna.",
+            "D) Exigir que o subordinado trabalhe além do expediente sem apoio institucional."
           ],
-          "respostaCorreta": 2,
-          "justificativa": "A Liderança Situacional (desenvolvida por Hersey e Blanchard) propõe que não há um estilo único ideal, mas sim a necessidade de adaptar a liderança conforme o nível de prontidão/maturidade dos liderados."
+          "respostaCorreta": 1,
+          "justificativa": "Na colaboração, o líder atua facilitando o trabalho do subordinado, provendo recursos, eliminando obstáculos e agindo como um facilitador. Isso gera confiança e demonstra apoio real da liderança."
         },
         {
           "id": 11,
-          "enunciado": "No contexto militar, o moral das tropas representa:",
+          "enunciado": "Embora existam táticas ideais baseadas na cooperação, às vezes o líder militar precisa garantir a execução de prazos urgentes quando outras tentativas falharam. Qual tática descreve a cobrança insistente, lembretes frequentes e uso de exigências firmes?",
           "alternativas": [
-            "A) A quantidade de armamentos e munições de última geração em estoque.",
-            "B) O estado de espírito coletivo, traduzido em entusiasmo, disposição para o combate, confiança nos líderes e lealdade.",
-            "C) O conjunto de leis administrativas que regulam as punições de indisciplina.",
-            "D) A capacidade intelectual individual medida por testes psicométricos escritos."
+            "A) Tática de Troca ou Permuta.",
+            "B) Tática de Pressão.",
+            "C) Tática de Ingraciação ou Lisonja.",
+            "D) Tática de Coalizão."
           ],
           "respostaCorreta": 1,
-          "justificativa": "O moral é um estado mental e emocional que reflete o entusiasmo, a coesão, a autoconfiança e a determinação de um grupo em cumprir sua missão."
+          "justificativa": "A tática de pressão utiliza cobranças firmes, lembretes constantes e exigências de cumprimento de prazos. Deve ser usada com cautela, pois o uso excessivo gera conformidade apática ou resistência no longo prazo."
         },
         {
           "id": 12,
-          "enunciado": "O 'Exemplo' na liderança militar é de suma importância porque:",
+          "enunciado": "Chester Barnard formulou a Teoria da Aceitação da Autoridade, essencial para entender a liderança ética. Segundo essa teoria, quais são as quatro condições simultâneas para que uma ordem de um líder seja aceita e executada pelo liderado?",
           "alternativas": [
-            "A) Dispensa o líder de trabalhar, pois a tropa já sabe o que fazer sozinha.",
-            "B) Evita que o líder precise aplicar qualquer tipo de regulamento disciplinar.",
-            "C) É a forma mais poderosa de o líder demonstrar coerência, gerando respeito mútuo, confiança e desejo de emulação nos subordinados.",
-            "D) É apenas uma formalidade burocrática sem impacto prático no rendimento operacional."
+            "A) O liderado deve receber gratificação, temer a punição, estar de folga e possuir estabilidade no cargo.",
+            "B) O liderado deve compreender a ordem, sentir-se capaz de cumpri-la, acreditar que ela atende aos interesses da organização e ver nela consistência com seus valores pessoais.",
+            "C) A ordem deve ser curta, escrita, publicada em Diário Oficial e conter punições explícitas.",
+            "D) O liderado deve ser mais antigo, ter curso de especialização, concordar com a ideologia do líder e receber diárias."
           ],
-          "respostaCorreta": 2,
-          "justificativa": "O exemplo arrasta. A conduta ética, a coragem física e moral e a dedicação do líder legitimam suas ordens e motivam os subordinados a agirem da mesma forma."
+          "respostaCorreta": 1,
+          "justificativa": "Barnard postulou que a autoridade reside no liderado aceitar ou não a ordem. Para que a aceite, a ordem deve passar por quatro filtros morais/cognitivos: compreensão, viabilidade pessoal, alinhamento organizacional e conformidade com valores pessoais."
         },
         {
           "id": 13,
-          "enunciado": "A capacidade de influenciar pessoas para agirem de forma voluntária e entusiasmada em prol dos objetivos da instituição define o conceito de:",
+          "enunciado": "De acordo com John R. Schermerhorn Jr. (2011), o empoderamento (empowerment) é um processo de descentralização do poder nas organizações. Qual princípio define a natureza do poder no empoderamento?",
           "alternativas": [
-            "A) Ditadura militar",
-            "B) Liderança",
-            "C) Gestão de recursos materiais",
-            "D) Subordinação passiva"
+            "A) O poder é um jogo de soma zero: para que um subordinado ganhe poder, o líder precisa necessariamente perder autoridade.",
+            "B) O poder nas organizações de alta performance é concentrado exclusivamente no topo para evitar anarquia.",
+            "C) O poder não é uma soma zero. Quando o líder delega autoridade, informações e recursos, ele aumenta a capacidade de ação coletiva e gera comprometimento voluntário.",
+            "D) O empoderamento dispensa a responsabilidade final do comandante sobre as ações de sua equipe."
           ],
-          "respostaCorreta": 1,
-          "justificativa": "A liderança é, por essência, a arte de influenciar pessoas de forma persuasiva e voluntária, e não pela força bruta ou coerção cega."
+          "respostaCorreta": 2,
+          "justificativa": "O empoderamento amplia o poder da organização como um todo. Delegar autoridade faz com que os subordinados ajam de forma autônoma e responsável, mas o comandante NUNCA delega sua responsabilidade final sobre o que acontece na unidade."
         },
         {
           "id": 14,
-          "enunciado": "Qual dos seguintes comportamentos é considerado prejudicial e incompatível com a liderança militar eficaz?",
+          "enunciado": "Emiliano Gómez (2008) argumenta que o líder militar reflete em seu trabalho o que ele é como indivíduo na vida privada. Qual é a principal consequência prática desse conceito para o desenvolvimento de liderança?",
           "alternativas": [
-            "A) Manter canais de comunicação abertos para ouvir as ideias e feedbacks da tropa.",
-            "B) Assumir a responsabilidade pelas falhas da equipe em vez de culpar subordinados.",
-            "C) Priorizar privilégios pessoais e demonstrar descaso pelo bem-estar e segurança da tropa.",
-            "D) Agir com imparcialidade e justiça na aplicação de elogios ou punições."
+            "A) O líder deve focar apenas em aprender técnicas administrativas, pois sua vida privada não afeta o desempenho profissional.",
+            "B) O líder deve separar rigidamente sua conduta particular de suas atitudes de comando na unidade militar.",
+            "C) Para operar mudanças verdadeiras na organização, o líder deve primeiro iniciar mudando sua própria personalidade, conduta e atitudes individuais.",
+            "D) O caráter do líder é moldado exclusivamente pelo regulamento disciplinar, sem interferência de seus valores morais internos."
           ],
           "respostaCorreta": 2,
-          "justificativa": "O líder militar deve colocar as necessidades de sua tropa acima de seus interesses e privilégios pessoais. O egoísmo destrói a confiança."
+          "justificativa": "Como o líder reflete o que é como indivíduo, a liderança autêntica exige alinhamento ético e moral. A mudança organizacional começa pela autotransformação do próprio líder, tornando-o exemplo prático entre seu discurso e suas ações."
         },
         {
           "id": 15,
-          "enunciado": "Na liderança militar, a responsabilidade final pelas consequências de uma decisão tomada pertence a quem?",
+          "enunciado": "A Teoria dos Traços foi uma das primeiras teorias formais sobre a liderança. Qual era o seu pressuposto básico e por que ela entrou em declínio a partir da década de 1940?",
           "alternativas": [
-            "A) Ao subordinado que executou materialmente a ordem.",
-            "B) Ao oficial de estado-maior que sugeriu a alternativa.",
-            "C) Ao Comandante/Líder que assinou ou emitiu a ordem, sendo esta responsabilidade indelegável.",
-            "D) A ninguém, pois em organizações coletivas a culpa é dividida igualmente por todos."
+            "A) Afirmava que os líderes podiam ser moldados unicamente pela educação comportamental, o que se provou falso em combate.",
+            "B) Pressupunha que os líderes nasciam prontos com qualidades físicas, intelectuais e de personalidade inatas. Entrou em declínio por não encontrar um conjunto universal de traços que garantisse a eficácia em qualquer situação.",
+            "C) Defendia que a situação determinava quem seria o líder, ignorando as características do próprio comandante.",
+            "D) Baseava-se no condicionamento transacional de punição e recompensa, o que se provou ineficiente nas indústrias modernas."
           ],
-          "respostaCorreta": 2,
-          "justificativa": "A autoridade pode ser delegada, mas a responsabilidade final de um comandante pelas ações e omissões de seus subordinados é absoluta e indelegável."
+          "respostaCorreta": 1,
+          "justificativa": "A Teoria dos Traços sustentava que 'líderes nascem líderes' (traços físicos, carisma e inteligência herdados). Ela faliu porque a pesquisa prática mostrou que pessoas com os mesmos traços falhavam em contextos diferentes, abrindo espaço para teorias comportamentais e situacionais."
         },
         {
           "id": 16,
-          "enunciado": "Para que a comunicação do líder seja verdadeiramente eficaz, ela deve ser:",
+          "enunciado": "Surgidas no período pós-Segunda Guerra Mundial, as Teorias Comportamentais de liderança introduziram uma mudança significativa de paradigma. Qual é a tese central dessa abordagem?",
           "alternativas": [
-            "A) Unidirecional e misteriosa, para manter a tropa sob tensão constante.",
-            "B) Clara, precisa e bidirecional, assegurando que as ordens sejam compreendidas e o feedback seja recebido.",
-            "C) Rápida e confusa, de modo que apenas os mais inteligentes compreendam.",
-            "D) Substituída por bilhetes anônimos afixados em quadros de aviso."
+            "A) A eficácia da liderança é herdada geneticamente pelos traços de personalidade.",
+            "B) O foco da liderança deve estar no condicionamento do comportamento dos subordinados através da coerção.",
+            "C) A liderança pode ser aprendida e desenvolvida através do ensino e da observação do comportamento do líder (ações práticas) e não de traços inatos.",
+            "D) A liderança é puramente situacional, cabendo ao líder apenas omitir-se para que o grupo aja."
           ],
-          "respostaCorreta": 1,
-          "justificativa": "A comunicação eficaz exige clareza e verificação do entendimento pelo receptor (feedback), evitando ambiguidades que possam comprometer missões."
+          "respostaCorreta": 2,
+          "justificativa": "As Teorias Comportamentais focam no que o líder FAZ (seus comportamentos, estilos democráticos ou autocráticos) e não em quem o líder É (seus traços de nascença). Isso permitiu que a liderança passasse a ser ensinada e desenvolvida estruturadamente."
         },
         {
           "id": 17,
-          "enunciado": "O principal risco associado a uma liderança excessivamente autocrática em períodos normais de rotina ou de paz é:",
+          "enunciado": "As Teorias Contingenciais de liderança defendem que a eficácia do comando reside na relação entre o estilo do líder e as variáveis da situação. Qual é a principal conclusão prática desse modelo?",
           "alternativas": [
-            "A) O aumento excessivo da criatividade e proatividade dos liderados.",
-            "B) O sufocamento da iniciativa individual, insatisfação, queda no moral e distanciamento entre o comandante e a tropa.",
-            "C) A total anarquia e perda do controle hierárquico.",
-            "D) O relaxamento físico excessivo das tropas."
+            "A) Existe um único estilo de liderança universalmente superior a todos os outros.",
+            "B) Não existe um estilo único de liderança eficaz para todas as situações; o líder deve combinar seu estilo (focado na tarefa ou no relacionamento) com a favorabilidade da situação específica.",
+            "C) O líder deve sempre adotar uma postura liberal para que os subordinados resolvam as contingências sozinhos.",
+            "D) As contingências organizacionais são imutáveis, tornando a liderança irrelevante para o resultado da unidade."
           ],
           "respostaCorreta": 1,
-          "justificativa": "O abuso da autocracia em atividades rotineiras bloqueia o crescimento profissional dos subordinados, gera ressentimento, reduz a iniciativa e mina o moral coletivo."
+          "justificativa": "A abordagem contingencial (como o modelo de Fiedler) postula que a produtividade do grupo depende de combinar a personalidade/estilo do líder (orientado para tarefas ou para relações) com o controle situacional (relação líder-liderado, estrutura da tarefa e poder de posição)."
         },
         {
           "id": 18,
-          "enunciado": "O estilo de liderança 'Coaching' ou Orientador foca principalmente em:",
+          "enunciado": "A Teoria Situacional de liderança associa o comportamento do líder com a 'prontidão' (readiness) dos subordinados. Como o líder deve agir diante de um subordinado recém-formado e inexperiente em comparação a um subordinado maduro e altamente experiente?",
           "alternativas": [
-            "A) Corrigir erros através de punições rigorosas e imediatas no regulamento.",
-            "B) Identificar os pontos fortes e fracos dos liderados e ajudá-los a desenvolver seu potencial profissional a longo prazo.",
-            "C) Executar o trabalho pelo subordinado para garantir que saia perfeito.",
-            "D) Promover apenas atividades de lazer desvinculadas das missões profissionais."
+            "A) Deve usar estilo delegador com o inexperiente e estilo diretivo com o experiente.",
+            "B) Deve adotar liderança autocrática com ambos para manter a uniformidade de comportamento.",
+            "C) Deve adotar estilo diretivo/determinador (foco na tarefa) com o inexperiente, e estilo delegador (autonomia) com o experiente.",
+            "D) Deve ausentar-se do ambiente para que ambos desenvolvam prontidão por tentativa e erro."
           ],
-          "respostaCorreta": 1,
-          "justificativa": "A liderança orientadora (coaching) incentiva os subordinados a focar no desenvolvimento profissional contínuo, conectando metas pessoais com as da organização."
+          "respostaCorreta": 2,
+          "justificativa": "Na liderança situacional (Hersey & Blanchard), o estilo deve se adaptar ao nível de prontidão do liderado. Liderados inexperientes precisam de comportamento de tarefa alto (determinar/dirigir). Liderados muito maduros e autoconfiantes requerem estilo delegador, com pouca supervisão direta."
         },
         {
           "id": 19,
-          "enunciado": "O que caracteriza a coesão de uma unidade militar, frequentemente chamada de 'Espírito de Corpo' (Esprit de Corps)?",
+          "enunciado": "A liderança transacional ou teoria administrativa baseia-se na troca de incentivos. Esse modelo é frequentemente ilustrado pela metáfora da 'cenoura e do chicote'. Qual é a principal limitação desse estilo de liderança?",
           "alternativas": [
-            "A) A semelhança no tipo físico e estatura dos combatentes de uma mesma fração.",
-            "B) O orgulho comum, a lealdade recíproca, a amizade e o sentimento de pertencer a um grupo unido por valores nobres.",
-            "C) O cumprimento estrito de regras puramente formais, sem vínculo afetivo ou emocional.",
-            "D) A rivalidade destrutiva entre os membros para ver quem atinge o topo mais rápido."
+            "A) O custo excessivo de cenouras e chicotes na administração pública militar.",
+            "B) Gera um condicionamento nos liderados, fazendo com que eles trabalhem apenas se houver recompensa imediata ou medo de punição, sem comprometimento interno com os valores da organização.",
+            "C) Exige que o líder mude sua própria personalidade antes de cobrar resultados da tropa.",
+            "D) Delega total autonomia aos subordinados, esvaziando o poder de posição do comandante."
           ],
           "respostaCorreta": 1,
-          "justificativa": "O Espírito de Corpo é a coesão baseada no orgulho, na solidariedade e no senso de missão compartilhada que une os integrantes de uma organização."
+          "justificativa": "A liderança transacional gera conformidade temporária. Como se baseia em trocas externas ('se fizer ganha recompensa, se errar é punido'), ela não inspira o subordinado a ir além do dever ou a agir eticamente por convicção, gerando dependência das recompensas."
         },
         {
           "id": 20,
-          "enunciado": "A tomada de decisão sob pressão extrema e em situações ambíguas exige do líder militar qual principal conjunto de atributos?",
+          "enunciado": "A liderança transformacional (integrada nas Teorias Relacionais) representa um novo paradigma. Qual é a principal diferença deste modelo em relação ao modelo transacional tradicional?",
           "alternativas": [
-            "A) Força física bruta e insensibilidade emocional completa.",
-            "B) Autocontrole (equilíbrio emocional), coragem moral e flexibilidade de raciocínio.",
-            "C) Capacidade de transferir a responsabilidade e fugir das decisões difíceis.",
-            "D) Rigidez cognitiva absoluta e apego excessivo a detalhes irrelevantes."
+            "A) A transformacional foca apenas em manter a rotina burocrática sem alterações de processos.",
+            "B) A transformacional envolve apenas punições severas para moldar o comportamento do subordinado.",
+            "C) A transformacional baseia-se em motivar e inspirar os seguidores, promovendo o desenvolvimento mútuo de valores, crenças, ética, respeito e confiança, superando a mera troca utilitária de tarefas por recompensas.",
+            "D) A transformacional é de uso exclusivo de diretores civis, sendo inaplicável na segurança pública."
           ],
-          "respostaCorreta": 1,
-          "justificativa": "O autocontrole emocional e a flexibilidade permitem ao líder raciocinar com clareza na tempestade, adaptando-se a novas realidades de forma ética (coragem moral)."
+          "respostaCorreta": 2,
+          "justificativa": "A liderança transformacional (Burns & Bass) muda a mentalidade do seguidor. Ela atua no nível de valores e ideais elevados, transformando os liderados em novos líderes ao dar significado ao trabalho e inspirar uma visão de futuro, ao passo que a transacional é focada em trocas de curto prazo."
         },
         {
           "id": 21,
-          "enunciado": "Entre as teorias de liderança, a Teoria dos Traços sustentava historicamente que:",
+          "enunciado": "A liderança autêntica é caracterizada como um padrão de conduta relacional e ético. Quais são os quatro pilares fundamentais da Liderança Autêntica no ambiente de trabalho?",
           "alternativas": [
-            "A) Qualquer pessoa pode se tornar líder se for treinada em dinâmicas de grupo.",
-            "B) Os líderes nascem com certas qualidades físicas, intelectuais e sociais inatas que os distinguem dos não-líderes.",
-            "C) A liderança depende apenas da sorte e do contexto socioeconômico da época.",
-            "D) O estilo de liderança deve ser sempre liberal sob qualquer pretexto."
+            "A) Poder de recompensa, poder de coerção, poder de posição e autoridade militar formal.",
+            "B) Autoconsciência, perspectiva moral internalizada, processamento equilibrado de informações e transparência relacional.",
+            "C) Mente socializada, centralização de decisões, conformidade obrigatória e obediência cega.",
+            "D) Persuasão racional, tática de pressão, coalizão política e metas administrativas."
           ],
           "respostaCorreta": 1,
-          "justificativa": "A Teoria dos Traços (uma das teorias mais antigas) defendia que a liderança decorre de traços inatos de personalidade, caráter ou intelecto. Embora ultrapassada como explicação total, deu origem ao estudo dos atributos de liderança."
+          "justificativa": "Os quatro componentes da liderança autêntica são: 1) Autoconsciência (compreender as próprias forças/fraquezas), 2) Perspectiva moral internalizada (agir conforme valores éticos e não pressões externas), 3) Processamento equilibrado (analisar dados de forma objetiva antes de decidir, aceitando opiniões divergentes) e 4) Transparência relacional (ser honesto e verdadeiro nas relações)."
         },
         {
           "id": 22,
-          "enunciado": "A autoridade moral do líder militar é consolidada no dia a dia principalmente por meio de:",
+          "enunciado": "Na teoria de liderança autêntica, a relação entre líder e liderado é influenciada pela clareza de autoconceito do seguidor. Como os seguidores com baixa clareza e alta clareza de si mesmos tendem a se relacionar com o líder autêntico?",
           "alternativas": [
-            "A) Ameaças de punições constantes registradas no boletim interno.",
-            "B) Coerência entre o discurso ético e as ações práticas, dedicação profissional e respeito aos direitos dos subordinados.",
-            "C) Concessão exagerada de favores e flexibilização da disciplina militar.",
-            "D) Isolamento completo do líder em seu gabinete, evitando contato com a tropa."
+            "A) Seguidores com baixa clareza estabelecem relações socializadas e autônomas, enquanto os de alta clareza são cegamente dependentes.",
+            "B) Seguidores com baixa clareza estabelecem relações personalizadas e dependentes do líder, enquanto seguidores com alta clareza buscam relações socializadas de cooperação baseadas em valores congruentes.",
+            "C) A clareza de autoconceito do seguidor não tem impacto na forma como a liderança é exercida ou aceita.",
+            "D) Ambos os grupos exigem liderança autocrática coercitiva constante para evitar desvio de conduta."
           ],
           "respostaCorreta": 1,
-          "justificativa": "A autoridade legítima baseia-se no exemplo do líder, em seu caráter ético, competência profissional e tratamento justo oferecido à sua tropa."
+          "justificativa": "Seguidores com baixa clareza dependem da figura pessoal do líder para se guiarem, gerando apego pessoal. Seguidores maduros (alta clareza) avaliam se os valores do líder batem com os seus; se sim, cooperam de forma interdependente e autônoma, vendo na liderança uma oportunidade de aprendizado."
+        },
+        {
+          "id": 23,
+          "enunciado": "Segundo a doutrina de liderança militar do Exército Brasileiro (C 20-10), como é conceituada a Liderança Militar?",
+          "alternativas": [
+            "A) O ato legal e administrativo de impor sanções disciplinares para assegurar a execução de ordens operacionais.",
+            "B) O exercício profissional de um cargo hierárquico baseado unicamente no poder de posição e autoridade formal.",
+            "C) Um processo de influência interpessoal do líder militar sobre seus liderados, estabelecendo vínculos afetivos de modo a favorecer o alcance dos objetivos da organização militar em uma dada situação.",
+            "D) Uma técnica de manipulação psicológica voltada à submissão cega da tropa em situações de conflito armado."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A doutrina militar define a liderança como um processo de influência que envolve VÍNCULOS AFETIVOS (respeito, confiança, admiração mútuos) entre o líder e os liderados para, de forma contextualizada (dada situação), atingir as metas da instituição militar."
+        },
+        {
+          "id": 24,
+          "enunciado": "Ainda segundo a doutrina militar, o conceito de 'Chefia Militar' engloba diferentes aspectos do exercício profissional. Quais elementos consubstanciam a Chefia Militar?",
+          "alternativas": [
+            "A) O poder coercitivo, a punição regulamentar e o privilégio do cargo.",
+            "B) O comando (ou autoridade legal), a administração (gestão de coisas e pessoas) e a própria liderança (condução e influência sobre seres humanos).",
+            "C) A gestão contábil, o controle patrimonial e a fiscalização de serviços terceirizados.",
+            "D) A obediência cega aos regulamentos e a abdicação de tomadas de decisão autônomas."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A chefia militar é a soma tripla da autoridade formal outorgada (Comando/autoridade legal), da competência técnica de gestão (Administração) e da capacidade de influenciar e guiar a tropa (Liderança)."
+        },
+        {
+          "id": 25,
+          "enunciado": "A Doutrina de Liderança Militar baseia-se no tripé conceitual: Ser, Saber e Fazer. O que cada um desses componentes representa na identidade do líder militar?",
+          "alternativas": [
+            "A) Ser representa a posição hierárquica, Saber representa o regulamento de promoções e Fazer representa o tempo de serviço.",
+            "B) Ser representa as qualidades físicas do líder, Saber representa seu diploma acadêmico e Fazer representa suas condecorações.",
+            "C) Ser engloba os valores, atributos de caráter e integridade do líder; Saber compreende o conhecimento técnico, profissional e humano; Fazer constitui a aplicação prática, o agir do líder para motivar e orientar.",
+            "D) Ser representa o soldo do oficial, Saber representa as ordens escritas e Fazer representa a punição disciplinar."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O tripé conceitual organiza as competências: 1) SER (caráter, ética, integridade moral - domínio afetivo), 2) SABER (conhecimento profissional, técnico, tático e humano - domínio cognitivo) e 3) FAZER (ações práticas, tomada de decisão, motivação da tropa - domínio psicomotor)."
+        },
+        {
+          "id": 26,
+          "enunciado": "Robert Kegan e Lisa Laskow Lahey (2010) desenvolveram a metodologia 'Immunity to Change' (Imunidade à Mudança). Qual é a principal descoberta dos autores sobre a dificuldade das pessoas em mudar seus comportamentos?",
+          "alternativas": [
+            "A) A mudança é difícil por falta de punições severas no ambiente corporativo.",
+            "B) As pessoas não mudam por pura preguiça ou falta de força de vontade comportamental.",
+            "C) Trata-se de um conflito interno de 'compromissos concorrentes' (competing commitments), onde um comportamento que queremos mudar serve, na verdade, para nos proteger de uma ameaça psicológica oculta baseada em nossas crenças limitantes.",
+            "D) Mudar comportamentos é impossível na vida adulta devido à rigidez neurológica irreversível."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Kegan & Lahey explicam que a imunidade à mudança é um sistema de autoproteção. Um líder centralizador, por exemplo, não consegue delegar porque tem o compromisso concorrente oculto de 'sentir-se importante e indispensável'. O comportamento indesejado o protege da ameaça de perder relevância."
+        },
+        {
+          "id": 27,
+          "enunciado": "Kegan e Lahey descrevem os platôs de complexidade mental no adulto. Qual das seguintes alternativas define as características de um indivíduo que possui uma 'Mente Socializada'?",
+          "alternativas": [
+            "A) É um indivíduo interdependente, que lidera para aprender e busca identificar novas perspectivas e problemas no sistema.",
+            "B) É um indivíduo independente, focado em resolver problemas com base em sua própria visão de mundo e metas autorais.",
+            "C) É um indivíduo dependente, que busca ser liderado, alinha-se fielmente às normas do grupo e cujas opiniões e autoconceito dependem da aprovação externa de seus chefes e pares.",
+            "D) É um indivíduo antissocial que rejeita qualquer tipo de autoridade ou convívio em grupo."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A mente socializada é moldada pelas expectativas dos outros (dependência mental). Suas ideias vêm de fora e sua identidade depende de pertencer e agradar ao grupo. É excelente para seguidores leais, mas limitada para a liderança autônoma e autêntica."
+        },
+        {
+          "id": 28,
+          "enunciado": "A transição de complexidade mental do indivíduo para o platô da 'Mente Autoral' (Self-Authoring Mind) é caracterizada por qual postura diante do grupo e das tarefas?",
+          "alternativas": [
+            "A) O indivíduo torna-se dependente da opinião de terceiros para tomar decisões operacionais.",
+            "B) O indivíduo desenvolve um senso próprio de identidade e valores internos, assume a responsabilidade de liderar, estabelece suas próprias metas e resolve problemas de forma autônoma (independente).",
+            "C) O indivíduo rejeita a estrutura hierárquica e busca dissolver a organização.",
+            "D) O indivíduo passa a buscar ativamente a fusão de suas ideias com os objetivos dos concorrentes de forma interdependente."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A mente autoral tem um sistema interno de valores (independência). O indivíduo não se define mais pelo que o grupo espera dele, mas sim por seus próprios objetivos e princípios. É o platô típico onde a liderança estratégica e autônoma se consolida."
+        },
+        {
+          "id": 29,
+          "enunciado": "O nível mais elevado de complexidade mental descrito por Kegan e Lahey é o da 'Mente Autotransformadora' (Self-Transforming Mind). Qual alternativa reflete essa mentalidade no ambiente de liderança?",
+          "alternativas": [
+            "A) Centralização completa do poder e recusa a ouvir feedbacks da equipe.",
+            "B) Uma postura de interdependência, na qual o líder compreende as limitações de suas próprias crenças, valoriza múltiplos pontos de vista, lidera para aprender, foca em descobrir problemas e promove o crescimento sistêmico de sua equipe.",
+            "C) Um estado de confusão mental no qual o indivíduo perde a capacidade de tomar decisões firmes.",
+            "D) A obediência mecânica às ordens dos superiores sem qualquer reflexão crítica."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A mente autotransformadora é interdependente. Ela reconhece que nenhuma verdade ou sistema de ideias é completo por si só. Líderes nesse nível acolhem a diversidade de opiniões, mudam suas próprias convicções diante de fatos e gerenciam a complexidade com sabedoria relacional."
+        },
+        {
+          "id": 30,
+          "enunciado": "Ellen Van Velsor (2011) identificou três tipos de experiências práticas de aprendizagem no trabalho fundamentais para desenvolver líderes. Qual alternativa descreve o aprendizado por 'Missões de Trabalho'?",
+          "alternativas": [
+            "A) Participação em palestras teóricas fora do expediente de serviço.",
+            "B) Enfrentar e superar desafios em novas tarefas, projetos inovadores, aumento de responsabilidades e gestão de novas equipes, saindo da zona de conforto rotineira.",
+            "C) O recebimento automático de promoções com base puramente no tempo de serviço.",
+            "D) O cumprimento cego de ordens mecânicas sem qualquer reflexão prática."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "As missões de trabalho (work assignments) desafiam o líder com o novo. Gerenciar crises, implantar inovações ou liderar novos grupos força a aquisição de novas competências práticas que não são aprendidas em sala de aula."
+        },
+        {
+          "id": 31,
+          "enunciado": "O segundo tipo de experiência prática de desenvolvimento apontado por Van Velsor são os 'Relacionamentos de Desenvolvimento'. Na prática do oficialato militar, como esse aprendizado se realiza?",
+          "alternativas": [
+            "A) Isolando-se dos subordinados para manter a autoridade formal inabalável.",
+            "B) Por meio de interações ricas com mentores, superiores, pares e subordinados, que oferecem feedback construtivo, autoavaliação, apoio e troca de experiências maduras.",
+            "C) Evitando o contato com civis fora da organização bombeiro militar.",
+            "D) Delegando a avaliação do seu próprio desempenho unicamente para a inteligência artificial."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Relacionamentos de desenvolvimento envolvem mentoria, coaching e a busca de feedbacks honestos. Aprender com a experiência de outros oficiais e com o feedback dos próprios subordinados é uma alavanca poderosa de maturidade emocional."
+        },
+        {
+          "id": 32,
+          "enunciado": "O terceiro tipo de experiência de aprendizado segundo Van Velsor são as 'Crises no Trabalho' (hardships/setbacks). De que forma as crises, erros ou insucessos promovem o desenvolvimento da liderança militar?",
+          "alternativas": [
+            "A) Desmotivando definitivamente o líder e forçando sua transferência de unidade.",
+            "B) Punindo severamente a equipe para demonstrar quem tem o poder de posição.",
+            "C) Oferecendo ricas oportunidades de autoavaliação de fraquezas e forças, promovendo a resiliência e a ressignificação de erros para o crescimento pessoal.",
+            "D) Ignorando os erros cometidos para manter a aparência de perfeição institucional."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "As crises (como falhas em missões ou avaliações negativas) obrigam o líder a uma profunda reflexão íntima. Superar esses momentos desenvolve resiliência e autoconhecimento, que são essenciais para a liderança autêntica."
+        },
+        {
+          "id": 33,
+          "enunciado": "Nick Petrie (2014) identificou tendências de futuro no desenvolvimento da liderança, destacando a diferença entre desenvolvimento 'horizontal' e 'vertical'. Qual alternativa define a essência do desenvolvimento vertical?",
+          "alternativas": [
+            "A) Adicionar mais conteúdo, conhecimentos e habilidades técnicas ao líder (o que você sabe).",
+            "B) Acelerar o ritmo de promoções com base no critério de merecimento.",
+            "C) Expandir e transformar a própria capacidade de pensar do líder, aumentando a complexidade de sua mente (como você pensa).",
+            "D) Centralizar a tomada de decisão no topo vertical da estrutura da organização militar."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A metáfora clássica de Petrie é: o desenvolvimento horizontal adiciona água ao copo (conhecimento, técnicas). O desenvolvimento vertical AUMENTA o tamanho do próprio copo (muda o modo de pensar, elevando o nível de complexidade mental para lidar com o mundo complexo)."
+        },
+        {
+          "id": 34,
+          "enunciado": "Outra tendência marcante apontada por Petrie é a transição do foco na liderança individual para a liderança coletiva. Qual é o papel principal do líder militar moderno diante dessa tendência?",
+          "alternativas": [
+            "A) Garantir que todas as decisões passem unicamente por seu crivo pessoal.",
+            "B) Formar novos líderes em todos os níveis organizacionais, descentralizando o poder e criando condições para que a liderança prospere coletivamente.",
+            "C) Manter os subordinados em estado permanente de dependência mental (mente socializada).",
+            "D) Evitar o compartilhamento de informações estratégicas com a equipe."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A liderança moderna não reside em uma única figura centralizadora. O grande líder militar do futuro cria condições para que a capacidade de liderar se dissemine na tropa, focando em 'formar novos líderes e não meros seguidores'."
+        },
+        {
+          "id": 35,
+          "enunciado": "A quarta tendência apontada por Petrie é o foco na inovação. De que forma os líderes e organizações militares devem se comportar diante desta tendência?",
+          "alternativas": [
+            "A) Rejeitando novas tecnologias e EaD para preservar a tradição intocável.",
+            "B) Adotando postura passiva de espera de ordens superiores de inovação.",
+            "C) Promovendo adaptabilidade, criatividade e experimentando novas ferramentas metodológicas e de ensino (como EaD e web) para acelerar a aprendizagem coletiva.",
+            "D) Proibindo a discussão de novas ideias no ambiente de trabalho militar."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A inovação contínua é vital para acompanhar um mundo volátil. Líderes autênticos criam organizações aprendentes que testam novas metodologias e usam tecnologia para expandir o conhecimento coletivo de forma dinâmica."
+        },
+        {
+          "id": 36,
+          "enunciado": "Os conflitos são inevitáveis no ambiente de trabalho. Qual postura é recomendada para o líder militar transformar o conflito em uma oportunidade de criatividade e inovação, evitando o confronto destrutivo?",
+          "alternativas": [
+            "A) Competição coercitiva, impondo seu argumento pela força do posto.",
+            "B) Acomodação passiva, concordando com todas as demandas para evitar tensões.",
+            "C) Posturas colaborativas (resolvendo o problema de forma a atender plenamente a todos) e acordos (compromissos com concessões mútuas).",
+            "D) Omissão deliberada, deixando que a equipe resolva o conflito sem qualquer mediação."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O confronto de ideias é saudável quando mediado por colaboração (satisfazer ambas as partes) ou acordos negociados. Impor decisões pela força do posto (competição) ou ceder sem critérios (acomodação) destrói o clima ético da unidade."
+        },
+        {
+          "id": 37,
+          "enunciado": "Delegar é uma habilidade indispensável para o líder militar melhorar a produtividade e desenvolver sua tropa. Quais são as regras fundamentais para uma delegação bem-sucedida?",
+          "alternativas": [
+            "A) Fragmentar a tarefa entre várias pessoas sem prazos definidos.",
+            "B) Escolher o candidato mais novo sem considerar sua competência.",
+            "C) Delegar a tarefa completa para uma pessoa adequada, dar instruções claras (incluindo o resultado esperado e a intenção do comandante) e oferecer feedback/recompensa após a conclusão.",
+            "D) Transferir a tarefa e abdicar de toda a responsabilidade legal sobre as consequências."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A delegação eficaz exige repassar a responsabilidade da execução e a autoridade necessária de forma integral a uma pessoa capaz, deixando claro o RESULTADO ESPERADO (Intenção do Comandante) e acompanhando com feedback construtivo."
+        },
+        {
+          "id": 38,
+          "enunciado": "O gerenciamento do tempo evita o estresse profissional e amplia a eficácia do comando. Como o líder militar deve agir para priorizar tarefas e combater a procrastinação?",
+          "alternativas": [
+            "A) Realizar primeiro as tarefas mais fáceis e rápidas, mesmo que sejam irrelevantes.",
+            "B) Estabelecer metas quantificadas no tempo, ordenar as tarefas por importância e urgência, criar cronogramas flexíveis e identificar os motivos psicológicos por trás da procrastinação (como medo de falhar).",
+            "C) Acumular trabalho de forma desorganizada para demonstrar que está sempre ocupado.",
+            "D) Adiar sistematicamente as tarefas complexas na esperança de que outra pessoa as execute."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Gerenciar o tempo exige metas claras e a matriz de priorização (importância e urgência). Combater a procrastinação requer autoconsciência para entender que o adiamento de tarefas complexas geralmente esconde inseguranças ou medo de falhar."
+        },
+        {
+          "id": 39,
+          "enunciado": "O feedback é vital para o desenvolvimento humano na caserna. A técnica S-C-I (Situação-Comportamento-Impacto) ajuda o líder militar a oferecer feedback estruturado e objetivo. O que cada uma dessas etapas representa?",
+          "alternativas": [
+            "A) Situação é a punição aplicável, Comportamento é o histórico do subordinado, Impacto é a repercussão na imprensa.",
+            "B) Situação descreve o contexto e momento específico do fato; Comportamento relata a ação observável sem julgamentos de valor; Impacto expõe as consequências e sentimentos gerados pelo comportamento observado.",
+            "C) Situação é o posto do subordinado, Comportamento é a atitude do líder, Impacto é a nota da avaliação anual.",
+            "D) Situação é o local de trabalho, Comportamento é o erro cometido, Impacto é a repreensão verbal coercitiva."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O feedback S-C-I evita reações defensivas porque é baseado em fatos objetivos. O líder descreve onde/quando aconteceu (Situação), o que o liderado fez concretamente (Comportamento) e o resultado/sentimento prático desse ato (Impacto), permitindo diálogo construtivo."
+        },
+        {
+          "id": 40,
+          "enunciado": "Warren Bennis afirmou que 'Liderança é uma escolha'. Associando essa máxima à prática da liderança militar e ao planejamento de sucessão nas unidades, qual é a postura correta a ser adotada pelo comandante?",
+          "alternativas": [
+            "A) O comandante deve evitar treinar sucessores para garantir que sua ausência cause colapso na unidade, provando ser insubstituível.",
+            "B) O comandante deve assumir o controle de seu próprio desenvolvimento por desejo genuíno de liderar e treinar continuamente sua equipe para a sucessão de comando de forma planejada.",
+            "C) O comandante deve aceitar a liderança de forma passiva como um fardo inevitável, sem se preocupar com o futuro da unidade.",
+            "D) O planejamento de sucessão é desnecessário na carreira militar devido à rigidez do critério de antiguidade."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Liderança autêntica exige a escolha consciente e motivada de querer liderar (Bennis). O líder militar autêntico compreende que sua posição é temporária e atua para planejar o futuro da unidade, capacitando e preparando ativamente seus potenciais sucessores."
         }
       ]
     },
