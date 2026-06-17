@@ -1,0 +1,341 @@
+{
+  "disciplinas": [
+    {
+      "id": "chefia_lideranca",
+      "nome": "Chefia e Liderança",
+      "descricao": "Estudo focado nas diretrizes e manuais de liderança, chefia, ética militar, atributos e estilos de tomada de decisão.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "Qual estilo de liderança é caracterizado pela centralização das decisões no líder, que emite ordens diretas e espera obediência imediata?",
+          "alternativas": [
+            "A) Liderança Democrática",
+            "B) Liderança Autocrática",
+            "C) Liderança Liberal (Laissez-faire)",
+            "D) Liderança Transformacional"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A liderança autocrática foca a autoridade no líder, que toma as decisões sozinho e exige obediência direta e imediata de seus subordinados."
+        },
+        {
+          "id": 2,
+          "enunciado": "A liderança participativa ou democrática caracteriza-se principalmente por:",
+          "alternativas": [
+            "A) Deixar os subordinados totalmente livres sem nenhuma orientação ou feedback.",
+            "B) Centralizar todas as decisões e delegar apenas tarefas burocráticas.",
+            "C) Envolver os subordinados no processo de tomada de decisão, ouvindo suas opiniões e feedbacks.",
+            "D) Basear-se puramente em trocas financeiras e recompensas de curto prazo."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Na liderança democrática ou participativa, o líder incentiva a participação dos subordinados e valoriza suas contribuições nas decisões, embora mantenha a responsabilidade final."
+        },
+        {
+          "id": 3,
+          "enunciado": "Qual estilo de liderança delega total liberdade aos subordinados para tomarem decisões, agindo o líder apenas quando solicitado?",
+          "alternativas": [
+            "A) Liderança Autocrática",
+            "B) Liderança Coercitiva",
+            "C) Liderança Liberal (Laissez-faire)",
+            "D) Liderança Situacional"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A liderança liberal (ou laissez-faire, 'deixe fazer') dá autonomia total aos subordinados para definir tarefas e tomar decisões, com pouca ou nenhuma interferência do líder."
+        },
+        {
+          "id": 4,
+          "enunciado": "A Liderança Transformacional refere-se a um modelo que:",
+          "alternativas": [
+            "A) Foca em manter o status quo por meio de punições severas.",
+            "B) Inspira e motiva os subordinados a excederem suas próprias expectativas para atingir objetivos elevados e evoluir pessoalmente.",
+            "C) Utiliza apenas o poder de recompensa imediata após cada tarefa executada.",
+            "D) Evita tomar decisões importantes, deixando que o grupo se auto-organize sem rumo."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A liderança transformacional transforma os liderados ao inspirá-los com uma visão clara, estimulando a criatividade e promovendo o desenvolvimento individual."
+        },
+        {
+          "id": 5,
+          "enunciado": "A Liderança Transacional é baseada essencialmente em:",
+          "alternativas": [
+            "A) Relações emocionais profundas e inspiração ideológica de longo prazo.",
+            "B) Processos de troca entre o líder e os liderados, onde o bom desempenho é recompensado e os erros são punidos.",
+            "C) Ausência total de controle e anarquia organizacional deliberada.",
+            "D) Uma visão espiritualista de comando sem objetivos práticos definidos."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A liderança transacional funciona como uma 'transação': o líder define metas e oferece recompensas pelo cumprimento (ou sanções pelo descumprimento), mantendo a estabilidade organizacional."
+        },
+        {
+          "id": 6,
+          "enunciado": "Qual atributo da liderança militar refere-se à capacidade de colocar-se no lugar do subordinado e compreender seus sentimentos, necessidades e dificuldades?",
+          "alternativas": [
+            "A) Iniciativa",
+            "B) Empatia",
+            "C) Decisão",
+            "D) Coragem moral"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A empatia é a capacidade de compreender e compartilhar os sentimentos e as perspectivas dos outros, fundamental para que o líder conheça seus homens e cuide de seu bem-estar."
+        },
+        {
+          "id": 7,
+          "enunciado": "O atributo da liderança que diz respeito à integridade moral, honestidade, retidão de conduta e cumprimento do dever é definido como:",
+          "alternativas": [
+            "A) Caráter",
+            "B) Flexibilidade",
+            "C) Autoconfiança",
+            "D) Entusiasmo"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O caráter do líder é a base de sua autoridade moral. Reflete sua integridade, retidão e adesão inabalável a princípios éticos e valores militares."
+        },
+        {
+          "id": 8,
+          "enunciado": "Qual estilo de liderança é considerado o mais apropriado em situações de combate ou emergência extrema, onde decisões rápidas e precisas são vitais e o tempo é escasso?",
+          "alternativas": [
+            "A) Liderança Liberal",
+            "B) Liderança Autocrática (Diretiva)",
+            "C) Liderança Democrática",
+            "D) Liderança Coaching"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Em situações críticas ou de combate, a liderança autocrática é vital porque a hesitação pode ser fatal e não há tempo para consultas ou consensos; o comando deve ser centralizado e imediato."
+        },
+        {
+          "id": 9,
+          "enunciado": "Qual a principal diferença conceitual entre 'Chefia' e 'Liderança'?",
+          "alternativas": [
+            "A) Chefia é um dom natural e liderança é um cargo atribuído.",
+            "B) Chefia baseia-se na autoridade formal do cargo legal, enquanto Liderança baseia-se na influência pessoal e aceitação voluntária pelos liderados.",
+            "C) Não há diferença; ambos os termos são sinônimos perfeitos em qualquer circunstância.",
+            "D) A chefia é sempre democrática e a liderança é sempre autocrática."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O chefe recebe sua autoridade da estrutura formal da organização (cargo). O líder influencia as pessoas a segui-lo voluntariamente devido à confiança, carisma e exemplo pessoal."
+        },
+        {
+          "id": 10,
+          "enunciado": "A teoria da liderança que defende que a eficácia do líder depende de ajustar seu comportamento à maturidade profissional e psicológica dos subordinados é a:",
+          "alternativas": [
+            "A) Teoria dos Traços",
+            "B) Teoria Comportamental clássica",
+            "C) Teoria da Liderança Situacional",
+            "D) Teoria da Grande Personalidade"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A Liderança Situacional (desenvolvida por Hersey e Blanchard) propõe que não há um estilo único ideal, mas sim a necessidade de adaptar a liderança conforme o nível de prontidão/maturidade dos liderados."
+        },
+        {
+          "id": 11,
+          "enunciado": "No contexto militar, o moral das tropas representa:",
+          "alternativas": [
+            "A) A quantidade de armamentos e munições de última geração em estoque.",
+            "B) O estado de espírito coletivo, traduzido em entusiasmo, disposição para o combate, confiança nos líderes e lealdade.",
+            "C) O conjunto de leis administrativas que regulam as punições de indisciplina.",
+            "D) A capacidade intelectual individual medida por testes psicométricos escritos."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O moral é um estado mental e emocional que reflete o entusiasmo, a coesão, a autoconfiança e a determinação de um grupo em cumprir sua missão."
+        },
+        {
+          "id": 12,
+          "enunciado": "O 'Exemplo' na liderança militar é de suma importância porque:",
+          "alternativas": [
+            "A) Dispensa o líder de trabalhar, pois a tropa já sabe o que fazer sozinha.",
+            "B) Evita que o líder precise aplicar qualquer tipo de regulamento disciplinar.",
+            "C) É a forma mais poderosa de o líder demonstrar coerência, gerando respeito mútuo, confiança e desejo de emulação nos subordinados.",
+            "D) É apenas uma formalidade burocrática sem impacto prático no rendimento operacional."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O exemplo arrasta. A conduta ética, a coragem física e moral e a dedicação do líder legitimam suas ordens e motivam os subordinados a agirem da mesma forma."
+        },
+        {
+          "id": 13,
+          "enunciado": "A capacidade de influenciar pessoas para agirem de forma voluntária e entusiasmada em prol dos objetivos da instituição define o conceito de:",
+          "alternativas": [
+            "A) Ditadura militar",
+            "B) Liderança",
+            "C) Gestão de recursos materiais",
+            "D) Subordinação passiva"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A liderança é, por essência, a arte de influenciar pessoas de forma persuasiva e voluntária, e não pela força bruta ou coerção cega."
+        },
+        {
+          "id": 14,
+          "enunciado": "Qual dos seguintes comportamentos é considerado prejudicial e incompatível com a liderança militar eficaz?",
+          "alternativas": [
+            "A) Manter canais de comunicação abertos para ouvir as ideias e feedbacks da tropa.",
+            "B) Assumir a responsabilidade pelas falhas da equipe em vez de culpar subordinados.",
+            "C) Priorizar privilégios pessoais e demonstrar descaso pelo bem-estar e segurança da tropa.",
+            "D) Agir com imparcialidade e justiça na aplicação de elogios ou punições."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O líder militar deve colocar as necessidades de sua tropa acima de seus interesses e privilégios pessoais. O egoísmo destrói a confiança."
+        },
+        {
+          "id": 15,
+          "enunciado": "Na liderança militar, a responsabilidade final pelas consequências de uma decisão tomada pertence a quem?",
+          "alternativas": [
+            "A) Ao subordinado que executou materialmente a ordem.",
+            "B) Ao oficial de estado-maior que sugeriu a alternativa.",
+            "C) Ao Comandante/Líder que assinou ou emitiu a ordem, sendo esta responsabilidade indelegável.",
+            "D) A ninguém, pois em organizações coletivas a culpa é dividida igualmente por todos."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A autoridade pode ser delegada, mas a responsabilidade final de um comandante pelas ações e omissões de seus subordinados é absoluta e indelegável."
+        },
+        {
+          "id": 16,
+          "enunciado": "Para que a comunicação do líder seja verdadeiramente eficaz, ela deve ser:",
+          "alternativas": [
+            "A) Unidirecional e misteriosa, para manter a tropa sob tensão constante.",
+            "B) Clara, precisa e bidirecional, assegurando que as ordens sejam compreendidas e o feedback seja recebido.",
+            "C) Rápida e confusa, de modo que apenas os mais inteligentes compreendam.",
+            "D) Substituída por bilhetes anônimos afixados em quadros de aviso."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A comunicação eficaz exige clareza e verificação do entendimento pelo receptor (feedback), evitando ambiguidades que possam comprometer missões."
+        },
+        {
+          "id": 17,
+          "enunciado": "O principal risco associado a uma liderança excessivamente autocrática em períodos normais de rotina ou de paz é:",
+          "alternativas": [
+            "A) O aumento excessivo da criatividade e proatividade dos liderados.",
+            "B) O sufocamento da iniciativa individual, insatisfação, queda no moral e distanciamento entre o comandante e a tropa.",
+            "C) A total anarquia e perda do controle hierárquico.",
+            "D) O relaxamento físico excessivo das tropas."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O abuso da autocracia em atividades rotineiras bloqueia o crescimento profissional dos subordinados, gera ressentimento, reduz a iniciativa e mina o moral coletivo."
+        },
+        {
+          "id": 18,
+          "enunciado": "O estilo de liderança 'Coaching' ou Orientador foca principalmente em:",
+          "alternativas": [
+            "A) Corrigir erros através de punições rigorosas e imediatas no regulamento.",
+            "B) Identificar os pontos fortes e fracos dos liderados e ajudá-los a desenvolver seu potencial profissional a longo prazo.",
+            "C) Executar o trabalho pelo subordinado para garantir que saia perfeito.",
+            "D) Promover apenas atividades de lazer desvinculadas das missões profissionais."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A liderança orientadora (coaching) incentiva os subordinados a focar no desenvolvimento profissional contínuo, conectando metas pessoais com as da organização."
+        },
+        {
+          "id": 19,
+          "enunciado": "O que caracteriza a coesão de uma unidade militar, frequentemente chamada de 'Espírito de Corpo' (Esprit de Corps)?",
+          "alternativas": [
+            "A) A semelhança no tipo físico e estatura dos combatentes de uma mesma fração.",
+            "B) O orgulho comum, a lealdade recíproca, a amizade e o sentimento de pertencer a um grupo unido por valores nobres.",
+            "C) O cumprimento estrito de regras puramente formais, sem vínculo afetivo ou emocional.",
+            "D) A rivalidade destrutiva entre os membros para ver quem atinge o topo mais rápido."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O Espírito de Corpo é a coesão baseada no orgulho, na solidariedade e no senso de missão compartilhada que une os integrantes de uma organização."
+        },
+        {
+          "id": 20,
+          "enunciado": "A tomada de decisão sob pressão extrema e em situações ambíguas exige do líder militar qual principal conjunto de atributos?",
+          "alternativas": [
+            "A) Força física bruta e insensibilidade emocional completa.",
+            "B) Autocontrole (equilíbrio emocional), coragem moral e flexibilidade de raciocínio.",
+            "C) Capacidade de transferir a responsabilidade e fugir das decisões difíceis.",
+            "D) Rigidez cognitiva absoluta e apego excessivo a detalhes irrelevantes."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O autocontrole emocional e a flexibilidade permitem ao líder raciocinar com clareza na tempestade, adaptando-se a novas realidades de forma ética (coragem moral)."
+        },
+        {
+          "id": 21,
+          "enunciado": "Entre as teorias de liderança, a Teoria dos Traços sustentava historicamente que:",
+          "alternativas": [
+            "A) Qualquer pessoa pode se tornar líder se for treinada em dinâmicas de grupo.",
+            "B) Os líderes nascem com certas qualidades físicas, intelectuais e sociais inatas que os distinguem dos não-líderes.",
+            "C) A liderança depende apenas da sorte e do contexto socioeconômico da época.",
+            "D) O estilo de liderança deve ser sempre liberal sob qualquer pretexto."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A Teoria dos Traços (uma das teorias mais antigas) defendia que a liderança decorre de traços inatos de personalidade, caráter ou intelecto. Embora ultrapassada como explicação total, deu origem ao estudo dos atributos de liderança."
+        },
+        {
+          "id": 22,
+          "enunciado": "A autoridade moral do líder militar é consolidada no dia a dia principalmente por meio de:",
+          "alternativas": [
+            "A) Ameaças de punições constantes registradas no boletim interno.",
+            "B) Coerência entre o discurso ético e as ações práticas, dedicação profissional e respeito aos direitos dos subordinados.",
+            "C) Concessão exagerada de favores e flexibilização da disciplina militar.",
+            "D) Isolamento completo do líder em seu gabinete, evitando contato com a tropa."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A autoridade legítima baseia-se no exemplo do líder, em seu caráter ético, competência profissional e tratamento justo oferecido à sua tropa."
+        }
+      ]
+    },
+    {
+      "id": "direito_aplicado_bm",
+      "nome": "Direito Aplicado BM",
+      "descricao": "Direito constitucional, administrativo, penal militar e legislação penal aplicados à atividade de bombeiro militar.",
+      "questoes": []
+    },
+    {
+      "id": "procedimentos_apuratorios_adm",
+      "nome": "Procedimentos Apuratórios Administrativos",
+      "descricao": "Instrução sobre IPM, sindicância, FATD, conselhos de disciplina e processos administrativos corporativos.",
+      "questoes": []
+    },
+    {
+      "id": "org_adm_obm",
+      "nome": "Organização e Administração de OBM",
+      "descricao": "Modelos organizacionais, gestão de recursos, administração de unidades operacionais e de serviços.",
+      "questoes": []
+    },
+    {
+      "id": "legislacoes_regulamentos",
+      "nome": "Legislações e Regulamentos",
+      "descricao": "Estatutos corporativos, regulamento de promoções, normas gerais de ação e regulamentos do CBMSC.",
+      "questoes": []
+    },
+    {
+      "id": "adm_financeira_aplicada",
+      "nome": "Administração Financeira Aplicada",
+      "descricao": "Execução orçamentária, convênios municipais, fundos especiais (FUNREBOM) e contabilidade financeira.",
+      "questoes": []
+    },
+    {
+      "id": "atualizacao_defesa_civil",
+      "nome": "Atualização de Defesa Civil",
+      "descricao": "Planos de contingência, gerenciamento de riscos de desastres, vistorias técnicas e ações preventivas.",
+      "questoes": []
+    },
+    {
+      "id": "sistema_comando_operacoes",
+      "nome": "Sistema de Comando em Operações",
+      "descricao": "Princípios do SCO, instalações, recursos, comando unificado e estruturação de incidentes críticos.",
+      "questoes": []
+    },
+    {
+      "id": "sistema_integrado_rh",
+      "nome": "Sistema Integrado de Recursos Humanos",
+      "descricao": "Gestão de efetivo, escala de serviço, promoção, movimentações e histórico funcional no SIGRH.",
+      "questoes": []
+    },
+    {
+      "id": "combate_incendio_investigacao",
+      "nome": "Atualização em Combate a Incêndio com Ênfase na Investigação de Incêndios",
+      "descricao": "Táticas de combate, dinâmica do fogo, preservação de local e técnicas periciais de investigação de incêndio.",
+      "questoes": []
+    },
+    {
+      "id": "gerenciamento_ssci",
+      "nome": "Gerenciamento de SSCI",
+      "descricao": "Normas de segurança contra incêndio e pânico, credenciamento, análise de projetos e fiscalização.",
+      "questoes": []
+    },
+    {
+      "id": "atendimento_pre_hospitalar",
+      "nome": "Atualização em Atendimento Pré-Hospitalar",
+      "descricao": "Protocolos de suporte básico de vida, triagem (método START), trauma, emergências clínicas e resgate.",
+      "questoes": []
+    }
+  ]
+}
