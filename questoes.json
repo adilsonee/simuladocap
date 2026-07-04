@@ -645,6 +645,1213 @@
           "justificativa": "A resposta correta é a alternativa correspondente a: Os militares praticaram o crime de motim, salvo se praticarem o ato armados – ocasião em que se configura o crime de revolta. Neste caso, ainda, deve o Oficial responder por causa de aumento de pena, na medida em que é considerado cabeça do delito. Terminar revisão."
         }
       ]
+    },
+    {
+      "id": "direito_aplicado_bm",
+      "nome": "Direito Aplicado à Atividade Bombeiro Militar",
+      "descricao": "Estudo da Teoria Geral do Direito, Direito Constitucional, Administrativo, Penal e legislação aplicada à corporação.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "Segundo a Teoria Tridimensional do Direito, formulada por Miguel Reale, o fenômeno jurídico resulta da integração de três elementos. Assinale a alternativa que os apresenta corretamente.",
+          "alternativas": [
+            "A) Norma, sanção e coercibilidade",
+            "B) Fato, valor e norma",
+            "C) Lei, costume e jurisprudência",
+            "D) Moral, ética e legalidade"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Miguel Reale afirma que o Direito resulta da integração entre **fato, valor e norma** — o Direito não pode ser compreendido apenas como norma escrita, mas também como expressão de valores sociais incidentes sobre fatos da vida."
+        },
+        {
+          "id": 2,
+          "enunciado": "São características técnicas do Direito, segundo a apostila, EXCETO:",
+          "alternativas": [
+            "A) Bilateralidade atributiva",
+            "B) Coercibilidade",
+            "C) Voluntariedade",
+            "D) Imperatividade"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "As características apontadas são: bilateralidade atributiva, coercibilidade, imperatividade, generalidade e heteronomia. \"Voluntariedade\" não é uma característica listada — pelo contrário, o Direito se impõe independentemente da vontade do indivíduo (heteronomia)."
+        },
+        {
+          "id": 3,
+          "enunciado": "Sobre a distinção entre Direito e Moral, é correto afirmar que:",
+          "alternativas": [
+            "A) Ambos dependem da coercibilidade estatal para sua efetivação",
+            "B) A Moral possui dimensão predominantemente interna, ligada à intenção e à consciência, enquanto o Direito disciplina o comportamento externo",
+            "C) O Direito deriva exclusivamente da Moral, sendo esta sua única fonte",
+            "D) A Moral é sempre mais rigorosa que o Direito"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O Direito busca disciplinar o comportamento **externo** do indivíduo, apoiado na coercibilidade estatal; já a Moral tem dimensão predominantemente **interna**, relacionada à intenção e à consciência moral, dependendo da consciência individual e da reprovação social, não de coerção estatal."
+        },
+        {
+          "id": 4,
+          "enunciado": "O Direito Natural (jusnaturalismo) caracteriza-se por:",
+          "alternativas": [
+            "A) Ser criado exclusivamente pelo Estado e vigente em território determinado",
+            "B) Corresponder ao conjunto de direitos inerentes ao ser humano, considerado universal e permanente, independente de leis escritas",
+            "C) Depender de publicação em Diário Oficial para ter validade",
+            "D) Ser sinônimo de Direito Positivo"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O Direito Natural corresponde ao conjunto de direitos inerentes à condição humana, **independente da criação do Estado** ou de leis escritas, sendo considerado universal e permanente, fundamentado na justiça, dignidade, ética e moral."
+        },
+        {
+          "id": 5,
+          "enunciado": "Quanto às fontes formais do Direito, a doutrina as subdivide em estatais e não estatais. Assinale a alternativa que agrupa corretamente essas fontes.",
+          "alternativas": [
+            "A) Estatais: lei e jurisprudência / Não estatais: costumes e doutrina",
+            "B) Estatais: costumes e doutrina / Não estatais: lei e jurisprudência",
+            "C) Estatais: doutrina e princípios / Não estatais: lei e costumes",
+            "D) Estatais: lei e costumes / Não estatais: jurisprudência e doutrina"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "Parte da doutrina diferencia: **fontes formais estatais** → lei e jurisprudência; **fontes formais não estatais** → costumes e doutrina."
+        },
+        {
+          "id": 6,
+          "enunciado": "A teoria que descreve o ordenamento jurídico como uma construção escalonada, em que uma norma retira sua validade daquela que lhe é imediatamente superior, foi desenvolvida por:",
+          "alternativas": [
+            "A) Miguel Reale",
+            "B) Hans Kelsen",
+            "C) Hely Lopes Meirelles",
+            "D) Maria Sylvia Zanella Di Pietro"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Foi **Hans Kelsen** quem desenvolveu a teoria hierárquica do ordenamento jurídico como uma construção escalonada, culminando na chamada Norma Fundamental."
+        },
+        {
+          "id": 7,
+          "enunciado": "Sobre norma inconstitucional e norma não recepcionada, é correto afirmar:",
+          "alternativas": [
+            "A) Ambas se referem sempre a normas editadas depois da Constituição vigente",
+            "B) A norma inconstitucional é editada após a Constituição e contraria suas regras; a norma não recepcionada é anterior à nova Constituição e com ela se torna incompatível",
+            "C) Não recepção e inconstitucionalidade são termos sinônimos",
+            "D) A norma não recepcionada permanece válida mesmo sendo incompatível com a nova ordem constitucional"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A norma inconstitucional nasce **após** a Constituição e a contraria; já a não recepção ocorre quando uma norma **anterior** à nova Constituição se torna materialmente incompatível com ela, deixando de produzir efeitos — sem que se fale propriamente em inconstitucionalidade."
+        },
+        {
+          "id": 8,
+          "enunciado": "Para aprovação de uma Emenda Constitucional, a Constituição Federal exige:",
+          "alternativas": [
+            "A) Maioria simples, em um único turno de votação",
+            "B) Maioria absoluta, em turno único",
+            "C) Quórum qualificado de 3/5 dos votos, em dois turnos de votação, em cada Casa Legislativa",
+            "D) Quórum de 2/3, em turno único, apenas no Senado Federal"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "As emendas constitucionais (art. 60, CF) exigem quórum qualificado de **3/5 dos votos** dos membros da Câmara dos Deputados e do Senado Federal, em **dois turnos** de votação em cada Casa Legislativa — procedimento mais rigoroso que o das leis ordinárias."
+        },
+        {
+          "id": 9,
+          "enunciado": "As Resoluções, como espécie normativa do processo legislativo, caracterizam-se por:",
+          "alternativas": [
+            "A) Dependerem de sanção presidencial para produzir efeitos",
+            "B) Disciplinarem matérias de competência interna da Câmara, do Senado ou do Congresso Nacional, sem depender de sanção presidencial",
+            "C) Serem editadas exclusivamente pelo Presidente da República",
+            "D) Terem hierarquia superior às leis complementares"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "As Resoluções disciplinam principalmente matérias de competência interna das Casas Legislativas ou do Congresso Nacional e, diferentemente das leis ordinárias e complementares, **não dependem de sanção presidencial**."
+        },
+        {
+          "id": 10,
+          "enunciado": "Quanto às Medidas Provisórias e Leis Delegadas, é correto afirmar:",
+          "alternativas": [
+            "A) Leis Delegadas são editadas pelo Congresso Nacional sem qualquer participação do Executivo",
+            "B) Medidas Provisórias são elaboradas em situações de relevância e urgência pelo Chefe do Executivo, possuindo força de lei",
+            "C) Ambas dependem de aprovação prévia do STF",
+            "D) Leis Delegadas nunca dependem de autorização do Congresso Nacional"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "As Leis Delegadas são elaboradas pelo Presidente da República **mediante autorização do Congresso Nacional**; as Medidas Provisórias possuem força de lei e são editadas pelo Chefe do Poder Executivo em situações de **relevância e urgência**.\n\n---\n\n\n\n## CAPÍTULO III — DIREITO CONSTITUCIONAL APLICADO"
+        },
+        {
+          "id": 11,
+          "enunciado": "O direito à vida, previsto no caput do art. 5º da CF, possui a seguinte característica em relação aos demais direitos fundamentais:",
+          "alternativas": [
+            "A) É o único direito absoluto do ordenamento jurídico",
+            "B) Constitui pressuposto indispensável para o exercício de todos os demais direitos",
+            "C) É hierarquicamente inferior ao direito à liberdade",
+            "D) Não se relaciona com a atividade-fim do CBMSC"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O direito à vida serve como **pressuposto para o exercício de todos os demais direitos** — sem vida, nenhum outro direito pode ser exercido. A atividade-fim do CBMSC (resgate, APH, salvamentos, combate a incêndio) está diretamente voltada à sua preservação."
+        },
+        {
+          "id": 12,
+          "enunciado": "Em situação de recusa de atendimento por vítima que apresenta traumatismo cranioencefálico e alteração do nível de consciência, a atuação correta do CBMSC deve:",
+          "alternativas": [
+            "A) Respeitar imediatamente a recusa, independentemente do estado da vítima",
+            "B) Considerar que, havendo comprometimento da capacidade de discernimento, a recusa pode não refletir manifestação livre de vontade, prevalecendo o dever de proteção à vida",
+            "C) Exigir autorização judicial prévia para realizar qualquer atendimento",
+            "D) Acionar a Polícia Civil antes de iniciar qualquer procedimento"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Quando a vítima apresenta alteração do nível de consciência, TCE, intoxicação ou qualquer condição que comprometa a capacidade de discernimento, a recusa **pode não ser uma manifestação livre e consciente**, prevalecendo o dever de proteção à vida e legitimando a atuação da guarnição."
+        },
+        {
+          "id": 13,
+          "enunciado": "O direito à igualdade, no contexto da prestação de serviços pelo CBMSC, significa que:",
+          "alternativas": [
+            "A) O atendimento deve priorizar pessoas de maior condição econômica",
+            "B) O socorro prestado é universal e impessoal, sem distinção de origem, raça, sexo, cor, idade, condição econômica, religião ou convicção política",
+            "C) Apenas cidadãos catarinenses têm direito ao atendimento",
+            "D) A igualdade se aplica somente às atividades administrativas, não às operacionais"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A prestação do serviço bombeiro militar deve observar o princípio da igualdade, assegurando atendimento **sem qualquer distinção**, sendo o socorro universal e impessoal, alcançando toda a população."
+        },
+        {
+          "id": 14,
+          "enunciado": "De acordo com o art. 144, § 5º, da Constituição Federal, incumbe aos Corpos de Bombeiros Militares, além das atribuições definidas em lei:",
+          "alternativas": [
+            "A) A polícia ostensiva e a preservação da ordem pública",
+            "B) A execução de atividades de defesa civil",
+            "C) A investigação de crimes militares exclusivamente",
+            "D) A administração penitenciária estadual"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O § 5º do art. 144 estabelece: \"às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros militares, além das atribuições definidas em lei, **incumbe a execução de atividades de defesa civil**.\""
+        },
+        {
+          "id": 15,
+          "enunciado": "Sobre a natureza institucional do Corpo de Bombeiros Militar, é correto afirmar:",
+          "alternativas": [
+            "A) Integra as Forças Armadas, ao lado da Marinha, Exército e Aeronáutica",
+            "B) Embora possua natureza militar, não integra as Forças Armadas, sendo instituição militar estadual subordinada ao Governador",
+            "C) É órgão da Administração Indireta federal",
+            "D) Não possui qualquer vinculação com o Exército Brasileiro"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Embora possuam natureza militar, os Corpos de Bombeiros Militares **não integram as Forças Armadas** (compostas por Marinha, Exército e Aeronáutica, art. 142, CF). São instituições militares **estaduais**, subordinadas aos Governadores, ainda que atuem como forças auxiliares e reserva do Exército."
+        },
+        {
+          "id": 16,
+          "enunciado": "A Constituição do Estado de Santa Catarina de 1989, em seu art. 108, estabelece que compete ao CBMSC exercer a polícia judiciária militar:",
+          "alternativas": [
+            "A) Sem qualquer previsão legal, por mera prática costumeira",
+            "B) Nos termos de lei federal",
+            "C) Apenas mediante autorização do Ministério Público",
+            "D) Somente em tempo de guerra"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 108, VI, da Constituição Estadual estabelece que cabe ao CBMSC \"exercer a polícia judiciária militar, **nos termos de lei federal**.\""
+        },
+        {
+          "id": 17,
+          "enunciado": "Sobre o direito à segurança previsto no caput do art. 5º da CF, no contexto do CBMSC, relaciona-se principalmente com:",
+          "alternativas": [
+            "A) Ações repressivas de investigação criminal",
+            "B) Atividades preventivas como fiscalização de edificações, análise de projetos preventivos contra incêndio e pânico e ações educativas",
+            "C) A concessão de benefícios previdenciários",
+            "D) A regulamentação do trânsito urbano"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "As atividades preventivas desenvolvidas pelo CBMSC — fiscalização de edificações, análise de projetos de segurança contra incêndio e pânico, ações educativas — constituem instrumentos de concretização do **direito fundamental à segurança**."
+        },
+        {
+          "id": 18,
+          "enunciado": "A dignidade da pessoa humana, prevista no art. 1º, III, da Constituição Federal, manifesta-se na atividade do CBMSC por meio de:",
+          "alternativas": [
+            "A) Exclusivamente atos normativos internos",
+            "B) Atendimento humanizado, respeito às vítimas, acolhimento em situações de vulnerabilidade e atuação ética",
+            "C) Apenas nas atividades de fiscalização predial",
+            "D) Somente em ocorrências envolvendo autoridades públicas"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O atendimento humanizado, o respeito às vítimas, o acolhimento em situações de vulnerabilidade e a atuação ética dos bombeiros militares são manifestações concretas da **dignidade da pessoa humana**."
+        },
+        {
+          "id": 19,
+          "enunciado": "Quanto ao direito à propriedade no contexto da atividade bombeiro militar, é correto afirmar que o combate a incêndios e as ações de defesa civil:",
+          "alternativas": [
+            "A) Visam exclusivamente preservar vidas, sendo irrelevante a proteção patrimonial",
+            "B) Visam preservar vidas e também proteger o patrimônio público e privado, reduzindo danos materiais",
+            "C) Não possuem qualquer relação com direitos fundamentais",
+            "D) São de competência exclusiva da Polícia Militar"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O combate a incêndios e as ações de proteção e defesa civil visam **não apenas preservar vidas**, mas também **proteger o patrimônio** público e privado, reduzindo danos decorrentes de incêndios, explosões e enchentes."
+        },
+        {
+          "id": 20,
+          "enunciado": "Sobre o direito à liberdade nas ações de salvamento, é correto dizer que:",
+          "alternativas": [
+            "A) Não possui relação com a atividade do CBMSC",
+            "B) A atuação do bombeiro militar busca restabelecer a liberdade de locomoção e a integridade física da vítima em situações de acidentes, soterramentos e desabamentos",
+            "C) Restringe-se a situações de prisão ilegal",
+            "D) Aplica-se apenas a militares em atividade"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Em acidentes veiculares, soterramentos, desabamentos ou elevadores bloqueados, a atuação do bombeiro militar busca **restabelecer a liberdade de locomoção** e a integridade física da vítima."
+        },
+        {
+          "id": 21,
+          "enunciado": "O art. 105 da Constituição Estadual de Santa Catarina reproduz o modelo da Constituição Federal ao estabelecer que a segurança pública é:",
+          "alternativas": [
+            "A) Dever exclusivo do Estado, sem participação da sociedade",
+            "B) Dever do Estado, direito e responsabilidade de todos",
+            "C) Responsabilidade exclusiva dos órgãos militares",
+            "D) Atribuição apenas do Poder Judiciário"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 105 reproduz o texto constitucional federal: \"A segurança pública, dever do Estado, **direito e responsabilidade de todos**, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.\""
+        },
+        {
+          "id": 22,
+          "enunciado": "A defesa civil, mencionada no texto constitucional catarinense, constitui atividade estratégica voltada a:",
+          "alternativas": [
+            "A) Apenas à resposta emergencial a desastres, ignorando fases preventivas",
+            "B) Prevenção, mitigação, preparação, resposta e recuperação diante de desastres naturais ou tecnológicos",
+            "C) Exclusivamente à reconstrução de áreas atingidas",
+            "D) Fiscalização de tributos estaduais"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A defesa civil constitui atividade estratégica voltada às **cinco fases**: prevenção, mitigação, preparação, resposta e recuperação diante de desastres naturais ou tecnológicos.\n\n---\n\n\n\n## CAPÍTULO IV — DIREITO ADMINISTRATIVO APLICADO"
+        },
+        {
+          "id": 23,
+          "enunciado": "O caput do art. 37 da Constituição Federal estabelece cinco princípios fundamentais da Administração Pública, conhecidos pelo mnemônico \"LIMPE\". Assinale a alternativa que os apresenta corretamente.",
+          "alternativas": [
+            "A) Legalidade, Instrução, Moralidade, Publicidade, Eficácia",
+            "B) Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência",
+            "C) Liberdade, Impessoalidade, Moralidade, Proporcionalidade, Eficiência",
+            "D) Legitimidade, Igualdade, Moralidade, Publicidade, Especialidade"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O mnemônico **LIMPE** corresponde a: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência — princípios expressos no caput do art. 37 da CF."
+        },
+        {
+          "id": 24,
+          "enunciado": "Segundo o princípio da legalidade administrativa, diferentemente dos particulares (que podem fazer tudo que a lei não proíbe):",
+          "alternativas": [
+            "A) A Administração Pública também pode fazer tudo que a lei não proíbe",
+            "B) A Administração Pública somente pode atuar quando houver determinação ou autorização legal",
+            "C) A Administração Pública está isenta de observar a lei em situações de urgência",
+            "D) A legalidade se aplica apenas aos atos discricionários"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Diferentemente dos particulares (art. 5º, II, CF), a **Administração Pública somente pode atuar quando houver determinação ou autorização legal**, decorrência da submissão do Poder Público ao Estado de Direito."
+        },
+        {
+          "id": 25,
+          "enunciado": "O princípio da impessoalidade impõe que:",
+          "alternativas": [
+            "A) A atuação administrativa deve buscar exclusivamente o interesse público, e não o interesse particular dos agentes",
+            "B) Os agentes públicos podem favorecer conhecidos em fiscalizações, desde que dentro da lei",
+            "C) As decisões administrativas sejam mantidas em sigilo",
+            "D) A publicidade dos atos administrativos seja dispensável"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O princípio da impessoalidade determina que a atuação administrativa seja orientada **exclusivamente pela busca do interesse público**; os atos praticados pertencem à Administração, e não à pessoa física que os executa."
+        },
+        {
+          "id": 26,
+          "enunciado": "Sobre o princípio da publicidade, é correto afirmar que:",
+          "alternativas": [
+            "A) Não admite qualquer exceção, devendo todo ato administrativo ser divulgado, sem restrição",
+            "B) Exige divulgação dos atos administrativos, mas convive com a preservação do sigilo de informações legalmente protegidas, quando a divulgação represente risco à segurança ou à intimidade",
+            "C) Aplica-se apenas a atos normativos federais",
+            "D) É incompatível com a Lei Geral de Proteção de Dados Pessoais"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A publicidade assegura transparência, mas **convive com a proteção de informações sigilosas ou reservadas**, especialmente quando sua divulgação represente risco à segurança da sociedade e do Estado ou comprometa a intimidade das pessoas."
+        },
+        {
+          "id": 27,
+          "enunciado": "O princípio da eficiência foi incorporado expressamente ao texto constitucional por meio de:",
+          "alternativas": [
+            "A) Emenda Constitucional nº 19/1998",
+            "B) Emenda Constitucional nº 45/2004",
+            "C) Lei Ordinária nº 8.112/1990",
+            "D) Decreto-Lei nº 200/1967"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O princípio da eficiência foi incorporado expressamente ao art. 37, caput, da CF pela **Emenda Constitucional nº 19/1998**, exigindo que a Administração produza os melhores resultados possíveis com os recursos disponíveis."
+        },
+        {
+          "id": 28,
+          "enunciado": "O princípio da autotutela, reconhecido pela doutrina administrativa, encontra respaldo em quais Súmulas do STF?",
+          "alternativas": [
+            "A) Súmulas 07 e 279",
+            "B) Súmulas 346 e 473",
+            "C) Súmulas 630 e 691",
+            "D) Súmulas 11 e 14"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O princípio da autotutela — poder-dever da Administração de controlar seus próprios atos, anulando os ilegais e revogando os inconvenientes — encontra respaldo nas **Súmulas 346 e 473 do STF**."
+        },
+        {
+          "id": 29,
+          "enunciado": "No exercício do poder de polícia administrativa, o princípio da proporcionalidade impede que o CBMSC:",
+          "alternativas": [
+            "A) Adote medidas adequadas aos riscos identificados",
+            "B) Adote medidas excessivas ou desnecessárias, incompatíveis com os riscos identificados",
+            "C) Realize qualquer tipo de fiscalização",
+            "D) Aplique sanções administrativas em qualquer hipótese"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O princípio da proporcionalidade exige que os meios sejam adequados, necessários e proporcionais aos fins pretendidos, **impedindo a adoção de medidas excessivas ou desnecessárias** que não sejam compatíveis com os riscos identificados."
+        },
+        {
+          "id": 30,
+          "enunciado": "A Administração Pública, em seu sentido subjetivo (formal/orgânico), corresponde a:",
+          "alternativas": [
+            "A) A própria atividade administrativa desenvolvida pelo Estado",
+            "B) O conjunto de órgãos, entidades e agentes responsáveis pelo desempenho da função administrativa",
+            "C) Apenas o Poder Executivo Federal",
+            "D) Exclusivamente os Tribunais de Contas"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Em sentido subjetivo, formal ou orgânico, a Administração Pública corresponde ao **conjunto de órgãos, entidades e agentes** responsáveis pelo desempenho da função administrativa (ministérios, secretarias, autarquias etc.)."
+        },
+        {
+          "id": 31,
+          "enunciado": "A Administração Direta é composta pelos entes políticos: União, Estados, Distrito Federal e Municípios. Os órgãos públicos que a integram caracterizam-se por:",
+          "alternativas": [
+            "A) Possuírem personalidade jurídica própria e patrimônio próprio",
+            "B) Não possuírem personalidade jurídica própria, capacidade processual própria ou patrimônio próprio, em regra",
+            "C) Possuírem sempre capacidade processual autônoma, sem exceções",
+            "D) Serem criados exclusivamente por decreto presidencial"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Os órgãos públicos **não possuem personalidade jurídica própria** (integram a pessoa jurídica que os instituiu), **não possuem, em regra, capacidade processual própria**, e **não detêm patrimônio próprio** — atuando por meio da desconcentração administrativa."
+        },
+        {
+          "id": 32,
+          "enunciado": "As entidades da Administração Indireta são criadas mediante:",
+          "alternativas": [
+            "A) Concentração administrativa",
+            "B) Descentralização administrativa, possuindo personalidade jurídica própria",
+            "C) Delegação verbal do Chefe do Executivo",
+            "D) Deliberação exclusiva do Poder Judiciário"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A Administração Indireta é composta por entidades dotadas de **personalidade jurídica própria**, criadas mediante **descentralização administrativa**, com autonomia administrativa, patrimônio próprio e capacidade processual."
+        },
+        {
+          "id": 33,
+          "enunciado": "São exemplos de autarquias, pessoas jurídicas de direito público criadas diretamente por lei:",
+          "alternativas": [
+            "A) Banco do Brasil e Petrobras",
+            "B) Caixa Econômica Federal e Correios",
+            "C) INSS e IBAMA",
+            "D) Fundação Nacional de Saúde e Fundação Cultural"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "As autarquias são pessoas jurídicas de direito público criadas por lei, com prerrogativas semelhantes às da Fazenda Pública. Exemplos clássicos citados: **INSS e IBAMA**."
+        },
+        {
+          "id": 34,
+          "enunciado": "As empresas públicas caracterizam-se por:",
+          "alternativas": [
+            "A) Capital misto entre Estado e particulares",
+            "B) Personalidade jurídica de direito privado, capital integralmente público, com liberdade quanto à forma societária",
+            "C) Obrigatoriedade de constituição como sociedade anônima",
+            "D) Personalidade jurídica de direito público"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "As empresas públicas são pessoas jurídicas de direito privado, criadas mediante autorização legal, com **capital integralmente público**, podendo assumir qualquer forma societária (ex.: Caixa Econômica Federal)."
+        },
+        {
+          "id": 35,
+          "enunciado": "O poder hierárquico, no âmbito do CBMSC, fundamenta:",
+          "alternativas": [
+            "A) Apenas a aplicação de sanções penais",
+            "B) A emissão de ordens, a delegação de competências, a avocação de atribuições e o controle interno dos serviços",
+            "C) A criação de novas leis estaduais",
+            "D) A elaboração de emendas constitucionais"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O poder hierárquico decorre da estrutura organizacional da Administração e fundamenta a **emissão de ordens, a delegação de competências, a avocação de atribuições e o controle interno**, encontrando especial relevância na organização militar do CBMSC."
+        },
+        {
+          "id": 36,
+          "enunciado": "O poder disciplinar consiste na prerrogativa da Administração de:",
+          "alternativas": [
+            "A) Legislar sobre matéria tributária",
+            "B) Apurar infrações funcionais e aplicar sanções aos agentes públicos e demais pessoas sujeitas à disciplina administrativa",
+            "C) Regulamentar tratados internacionais",
+            "D) Substituir o Poder Judiciário no julgamento de crimes comuns"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O poder disciplinar é a prerrogativa de **apurar infrações funcionais e aplicar sanções** com o objetivo de preservar a regularidade, eficiência e moralidade dos serviços públicos — no CBMSC, manifesta-se nos PADs."
+        },
+        {
+          "id": 37,
+          "enunciado": "Segundo o art. 78 do Código Tributário Nacional, considera-se poder de polícia:",
+          "alternativas": [
+            "A) A atividade jurisdicional exercida pelos tribunais",
+            "B) A atividade da Administração Pública que limita ou disciplina direitos, interesses ou liberdades em benefício da segurança, ordem pública, higiene, costumes ou proteção do interesse coletivo",
+            "C) O poder de arrecadar tributos federais",
+            "D) A atuação exclusiva da Polícia Civil"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Segundo o art. 78 do CTN, poder de polícia é a atividade administrativa que **limita ou disciplina direitos, interesses ou liberdades** em benefício da segurança, da ordem pública, da higiene, dos costumes, da produção e do mercado ou da proteção do interesse coletivo."
+        },
+        {
+          "id": 38,
+          "enunciado": "No âmbito do CBMSC, a emissão de alvará ou certificado de conformidade de uma edificação com as normas de segurança contra incêndio, após análise de projeto preventivo, representa exemplo da fase de:",
+          "alternativas": [
+            "A) Ordem de polícia",
+            "B) Consentimento de polícia",
+            "C) Sanção de polícia",
+            "D) Fiscalização de polícia"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O consentimento de polícia manifesta-se por meio de licenças, autorizações, alvarás e certificados. No CBMSC, a emissão de documentos que atestam a conformidade da edificação após análise de projeto é exemplo clássico dessa fase — a Administração **reconhece** que o interessado preenche as condições exigidas, não cria o direito."
+        },
+        {
+          "id": 39,
+          "enunciado": "A vistoria realizada pelo CBMSC em uma edificação, para verificar se os sistemas preventivos contra incêndio continuam funcionando adequadamente, representa a fase de:",
+          "alternativas": [
+            "A) Ordem de polícia",
+            "B) Consentimento de polícia",
+            "C) Fiscalização de polícia",
+            "D) Sanção de polícia"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "As vistorias em edificações, eventos e áreas de risco constituem manifestações típicas da **fiscalização de polícia**, que verifica o cumprimento das normas e condições previamente estabelecidas, com caráter preventivo e repressivo."
+        },
+        {
+          "id": 40,
+          "enunciado": "A interdição de uma edificação que apresenta grave risco à vida das pessoas, aplicada pelo CBMSC diante de descumprimento das normas de segurança contra incêndio, representa exemplo da fase de:",
+          "alternativas": [
+            "A) Ordem de polícia",
+            "B) Consentimento de polícia",
+            "C) Fiscalização de polícia",
+            "D) Sanção de polícia"
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A interdição é uma medida sancionatória aplicada quando a Administração constata o descumprimento das normas — exemplo concreto da **fase sancionatória (sanção de polícia)** do ciclo do poder de polícia."
+        },
+        {
+          "id": 41,
+          "enunciado": "O poder regulamentar (ou normativo) da Administração Pública:",
+          "alternativas": [
+            "A) Permite ao administrador criar direitos e obrigações não previstos em lei",
+            "B) Corresponde à competência para editar atos normativos que complementam a execução das leis, sem poder inovar na ordem jurídica",
+            "C) É exclusivo do Poder Legislativo",
+            "D) Substitui integralmente a função das leis ordinárias"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O poder regulamentar permite à Administração editar decretos, regulamentos e instruções normativas para **complementar a execução das leis**, sendo vedado ao regulamento **inovar na ordem jurídica**, criando direitos ou obrigações não previstos em lei."
+        },
+        {
+          "id": 42,
+          "enunciado": "No poder vinculado, diferentemente do poder discricionário:",
+          "alternativas": [
+            "A) O administrador possui ampla margem de liberdade para decidir sobre conveniência e oportunidade",
+            "B) A lei estabelece previamente todos os requisitos e condições para a prática do ato, não restando margem de liberdade ao administrador",
+            "C) A Administração pode escolher livremente se cumprirá ou não a norma",
+            "D) Aplica-se apenas a atos de natureza penal"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "No **poder vinculado**, a lei já estabelece todos os requisitos e condições do ato, sem margem de liberdade; verificados os pressupostos legais, a Administração é obrigada a agir conforme determinado pela norma."
+        },
+        {
+          "id": 43,
+          "enunciado": "O excesso de poder, como espécie de abuso de poder, relaciona-se ao seguinte elemento do ato administrativo:",
+          "alternativas": [
+            "A) Finalidade",
+            "B) Competência",
+            "C) Forma",
+            "D) Motivo"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O excesso de poder ocorre quando o agente atua **além dos limites de sua competência legal** — relaciona-se, portanto, ao elemento **competência** do ato administrativo."
+        },
+        {
+          "id": 44,
+          "enunciado": "São exemplos de agentes políticos, segundo a apostila:",
+          "alternativas": [
+            "A) Analista judiciário e auditor fiscal",
+            "B) Presidente da República, Governadores, Prefeitos, Senadores e Magistrados",
+            "C) Empregados da Caixa Econômica Federal",
+            "D) Recenseadores do IBGE"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Agentes políticos exercem funções governamentais, constitucionais e de direção superior do Estado: Presidente da República, Governadores, Prefeitos, Ministros, Secretários, Senadores, Deputados, Vereadores, Magistrados e membros do Ministério Público."
+        },
+        {
+          "id": 45,
+          "enunciado": "O servidor público estatutário adquire estabilidade após:",
+          "alternativas": [
+            "A) Um ano de efetivo exercício, sem necessidade de avaliação",
+            "B) Três anos de efetivo exercício e avaliação especial de desempenho, conforme art. 41 da CF",
+            "C) Cinco anos de exercício, independentemente de avaliação",
+            "D) A estabilidade é automática desde a posse"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Conforme art. 41 da CF, a estabilidade é adquirida após **três anos de efetivo exercício e avaliação especial de desempenho**, garantia que protege o servidor contra perseguições políticas."
+        },
+        {
+          "id": 46,
+          "enunciado": "O empregado público, contratado sob regime da CLT:",
+          "alternativas": [
+            "A) Possui estabilidade constitucional idêntica à do servidor estatutário",
+            "B) Não possui a estabilidade típica do art. 41 da CF, mas não pode ser dispensado arbitrariamente, exigindo-se motivação para a demissão",
+            "C) Está totalmente isento dos princípios constitucionais da Administração Pública",
+            "D) Não necessita de concurso público para ingresso"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O empregado público, embora não possua a estabilidade constitucional do art. 41, **não pode ser dispensado arbitrariamente**, devendo existir motivação para a demissão, em respeito aos princípios da legalidade, moralidade e impessoalidade; sujeita-se também a concurso público para ingresso."
+        },
+        {
+          "id": 47,
+          "enunciado": "Quanto à natureza jurídica dos militares, é correto afirmar:",
+          "alternativas": [
+            "A) São agentes públicos estatutários, com vínculo funcional disciplinado por estatutos militares próprios, com peculiaridades como hierarquia, disciplina e disponibilidade integral",
+            "B) Possuem vínculo contratual celetista",
+            "C) São considerados particulares em colaboração com o Estado",
+            "D) Não se submetem a qualquer regime jurídico diferenciado dos servidores civis"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "Os militares são considerados **agentes públicos estatutários**, cujo vínculo é disciplinado por estatutos militares próprios, com peculiaridades fundamentadas em valores institucionais como hierarquia, disciplina, prontidão permanente e disponibilidade integral."
+        },
+        {
+          "id": 48,
+          "enunciado": "Sobre as restrições constitucionais aos militares relacionadas à elegibilidade, é correto afirmar:",
+          "alternativas": [
+            "A) O militar com menos de dez anos de serviço que se candidatar a cargo eletivo deve se afastar definitivamente da atividade",
+            "B) O militar com mais de dez anos de serviço, ao se candidatar, é automaticamente excluído da corporação, independentemente do resultado da eleição",
+            "C) Não há qualquer restrição à candidatura de militares da ativa",
+            "D) A filiação partidária é livre para militares da ativa"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O militar com **menos de dez anos de serviço** deve se afastar definitivamente da atividade para se candidatar (afastamento **definitivo**). Já o militar com mais de dez anos é **agregado** e, se eleito, passa para a inatividade na diplomação."
+        },
+        {
+          "id": 49,
+          "enunciado": "Os gestores de negócios, categoria de particulares em colaboração com o Estado, caracterizam-se por:",
+          "alternativas": [
+            "A) Serem nomeados formalmente pela Administração antes de agir",
+            "B) Assumirem espontaneamente, em situações excepcionais e emergenciais, função pública para evitar prejuízo ao interesse coletivo, sem prévia investidura estatal",
+            "C) Receberem remuneração fixa do Estado por convênio",
+            "D) Serem sempre concursados"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Os gestores de negócios assumem **espontaneamente** determinada função em situações urgentes, **sem prévia investidura estatal**, diante da impossibilidade de o Estado agir imediatamente. Exemplo: pessoa que organiza isolamento de área em risco iminente."
+        },
+        {
+          "id": 50,
+          "enunciado": "Segundo Hely Lopes Meirelles, serviço público é definido como:",
+          "alternativas": [
+            "A) Toda atividade exercida exclusivamente por entidades privadas",
+            "B) Todo aquele prestado pela Administração ou por seus delegados, sob normas e controles estatais, para satisfazer necessidades essenciais ou secundárias da coletividade",
+            "C) Apenas as atividades de natureza tributária do Estado",
+            "D) Serviço prestado sem qualquer regulação estatal"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Para Hely Lopes Meirelles, serviço público é \"todo aquele prestado pela **Administração ou por seus delegados**, sob normas e controles estatais, para satisfazer necessidades essenciais ou secundárias da coletividade, ou simples conveniências do Estado.\""
+        },
+        {
+          "id": 51,
+          "enunciado": "A responsabilidade civil do Estado, no ordenamento jurídico brasileiro, encontra fundamento principal em qual dispositivo constitucional?",
+          "alternativas": [
+            "A) Art. 5º, caput, da CF",
+            "B) Art. 37, § 6º, da CF",
+            "C) Art. 144, § 5º, da CF",
+            "D) Art. 41 da CF"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A responsabilidade civil do Estado encontra fundamento principal no **art. 37, § 6º, da CF**, que estabelece que as pessoas jurídicas de direito público responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros."
+        },
+        {
+          "id": 52,
+          "enunciado": "A expressão inglesa \"The King can do no wrong\" sintetiza qual teoria histórica da responsabilidade civil do Estado?",
+          "alternativas": [
+            "A) Teoria da Responsabilidade Objetiva",
+            "B) Teoria da Irresponsabilidade do Estado",
+            "C) Teoria do Risco Integral",
+            "D) Teoria da Responsabilidade Subjetiva"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Essa expressão sintetiza a **Teoria da Irresponsabilidade do Estado**, própria das monarquias absolutistas, segundo a qual o soberano não poderia errar e o Estado era absolutamente irresponsável pelos danos causados aos particulares."
+        },
+        {
+          "id": 53,
+          "enunciado": "A teoria da responsabilidade objetiva do Estado, atualmente adotada pela Constituição Federal, exige a comprovação de:",
+          "alternativas": [
+            "A) Culpa e dolo do agente público",
+            "B) Apenas conduta/dano e nexo causal, sendo irrelevante a culpa do agente",
+            "C) Somente a existência de lei específica autorizando a indenização",
+            "D) Decisão judicial transitada em julgado prévia"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Na responsabilidade objetiva, **não se exige comprovação de culpa** do agente para surgir o dever de indenizar; basta demonstrar a **conduta/dano** e o **nexo causal** — a culpa torna-se irrelevante para a responsabilização inicial do Estado."
+        },
+        {
+          "id": 54,
+          "enunciado": "A teoria do risco administrativo, regra adotada no Brasil, caracteriza-se por:",
+          "alternativas": [
+            "A) Não admitir qualquer excludente de responsabilidade",
+            "B) Admitir causas excludentes ou atenuantes da responsabilidade estatal, como culpa exclusiva da vítima, caso fortuito, força maior e culpa de terceiro",
+            "C) Exigir sempre comprovação de dolo do agente",
+            "D) Aplicar-se exclusivamente aos danos nucleares"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A teoria do risco administrativo admite **causas excludentes ou atenuantes**: culpa exclusiva da vítima, caso fortuito e força maior, e culpa de terceiro — embora não se exija prova de culpa do agente, o Estado pode afastar ou reduzir sua responsabilidade."
+        },
+        {
+          "id": 55,
+          "enunciado": "Um particular se lança deliberadamente contra a viatura do CBMSC, resultando em atropelamento. Essa situação exemplifica qual excludente de responsabilidade estatal?",
+          "alternativas": [
+            "A) Caso fortuito",
+            "B) Força maior",
+            "C) Culpa exclusiva da vítima",
+            "D) Culpa de terceiro"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Trata-se de exemplo clássico de **culpa exclusiva da vítima**: o próprio lesado é o único responsável pelo dano sofrido, rompendo o nexo causal entre a atuação estatal e o prejuízo."
+        },
+        {
+          "id": 56,
+          "enunciado": "A ação regressiva, prevista no art. 37, § 6º, da CF, permite ao Estado:",
+          "alternativas": [
+            "A) Buscar ressarcimento junto ao agente público que atuou com dolo ou culpa, após indenizar o terceiro lesado",
+            "B) Recusar-se a indenizar a vítima quando o agente tiver agido com culpa",
+            "C) Exigir da vítima a comprovação de dolo do agente antes de qualquer indenização",
+            "D) Isentar-se de qualquer responsabilidade objetiva perante o particular"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "A ação regressiva assegura ao Estado o direito de buscar o **ressarcimento junto ao agente**, desde que comprovado dolo ou culpa em sua atuação funcional — a responsabilidade do agente perante o Estado tem natureza **subjetiva**, diferentemente da responsabilidade objetiva perante a vítima."
+        },
+        {
+          "id": 57,
+          "enunciado": "São causas capazes de afastar a responsabilidade pessoal do agente público na ação regressiva, EXCETO:",
+          "alternativas": [
+            "A) Legítima defesa",
+            "B) Estado de necessidade",
+            "C) Exercício regular de um direito",
+            "D) Simples alegação de urgência operacional, sem qualquer análise da conduta"
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "As causas de exclusão citadas são: atuação estritamente dentro da legalidade, legítima defesa, exercício regular de direito e estado de necessidade — sempre fundamentadas em análise da conduta do agente. A mera \"alegação de urgência\", sem exame da conduta, não é, por si só, causa de exclusão.\n\n---\n\n\n\n## CAPÍTULO V — DIREITO APLICADO AO SERVIÇO ADMINISTRATIVO/OPERACIONAL"
+        },
+        {
+          "id": 58,
+          "enunciado": "Nos termos do art. 70 do Código Civil, o domicílio da pessoa natural é:",
+          "alternativas": [
+            "A) Qualquer local onde ela permaneça temporariamente",
+            "B) O lugar onde ela estabelece a sua residência com ânimo definitivo",
+            "C) Exclusivamente o local de seu nascimento",
+            "D) O endereço constante em seu documento de identidade"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 70 do Código Civil define domicílio como \"o lugar onde ela estabelece a sua residência **com ânimo definitivo**\" — exigindo residência física somada à intenção de permanência definitiva."
+        },
+        {
+          "id": 59,
+          "enunciado": "Segundo o art. 76 do Código Civil, têm domicílio necessário, EXCETO:",
+          "alternativas": [
+            "A) O incapaz",
+            "B) O servidor público",
+            "C) O militar",
+            "D) O comerciante autônomo"
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "O art. 76 do CC estabelece que têm domicílio necessário: **o incapaz, o servidor público, o militar, o marítimo e o preso**. O \"comerciante autônomo\" não consta dessa relação legal."
+        },
+        {
+          "id": 60,
+          "enunciado": "Para fins de domicílio necessário, o domicílio do militar é:",
+          "alternativas": [
+            "A) O local de seu nascimento",
+            "B) O lugar onde servir",
+            "C) A residência de seus pais",
+            "D) Sempre a capital do Estado"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Segundo o art. 76 do CC, considera-se domicílio necessário do militar **o lugar onde ele servir**."
+        },
+        {
+          "id": 61,
+          "enunciado": "O art. 5º, XI, da Constituição Federal estabelece a inviolabilidade domiciliar, prevendo exceções ao ingresso forçado na casa. São exceções constitucionais expressas, EXCETO:",
+          "alternativas": [
+            "A) Flagrante delito",
+            "B) Desastre",
+            "C) Prestação de socorro",
+            "D) Simples suspeita de perturbação do sossego"
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "As exceções constitucionais expressas são: **flagrante delito, desastre, prestação de socorro** ou determinação judicial durante o dia. \"Simples suspeita de perturbação do sossego\" não está entre as hipóteses autorizadoras do ingresso forçado."
+        },
+        {
+          "id": 62,
+          "enunciado": "O ingresso de bombeiros militares em imóveis durante ocorrências emergenciais (desastre ou prestação de socorro):",
+          "alternativas": [
+            "A) Depende sempre de autorização judicial prévia",
+            "B) Independe de autorização do morador ou de ordem judicial, encontrando amparo direto na Constituição Federal",
+            "C) É vedado em qualquer hipótese, salvo flagrante delito",
+            "D) Somente pode ocorrer durante o período diurno"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Nas hipóteses de desastre e prestação de socorro, o ingresso dos militares **independe de autorização do morador ou de ordem judicial**, pois encontra amparo direto na Constituição, devendo, porém, observar os princípios da legalidade, proporcionalidade e necessidade."
+        },
+        {
+          "id": 63,
+          "enunciado": "Segundo o art. 150, § 4º, do Código Penal, a expressão \"casa\" compreende, EXCETO:",
+          "alternativas": [
+            "A) Qualquer compartimento habitado",
+            "B) Aposento ocupado de habitação coletiva",
+            "C) Compartimento não aberto ao público onde alguém exerce profissão",
+            "D) Taverna e casa de jogo"
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "Nos termos do art. 150, § 5º, do CP, **não se compreendem** na expressão \"casa\": hospedaria, estalagem ou habitação coletiva enquanto aberta, além de **taverna, casa de jogo** e outras do mesmo gênero."
+        },
+        {
+          "id": 64,
+          "enunciado": "O art. 15 do Código Civil dispõe que ninguém pode ser constrangido, com risco de vida, a se submeter a tratamento médico ou intervenção cirúrgica. Contudo, esse direito:",
+          "alternativas": [
+            "A) É absoluto em qualquer circunstância",
+            "B) Não possui caráter absoluto, podendo ser limitado quando há comprometimento da capacidade de discernimento ou risco concreto à vida",
+            "C) Aplica-se apenas a menores de idade",
+            "D) Não pode ser invocado pelo socorrista do CBMSC em nenhuma hipótese"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Embora o art. 15 do CC consagre a autonomia privada, esse direito **não é absoluto**, podendo sofrer limitações quando há evidente risco à vida/integridade física e comprometimento da capacidade de discernimento da vítima, prevalecendo o dever de proteção à vida."
+        },
+        {
+          "id": 65,
+          "enunciado": "O consentimento implícito, no atendimento pré-hospitalar, é presumido:",
+          "alternativas": [
+            "A) Somente quando a vítima assina documento específico",
+            "B) Nas situações em que a vítima está inconsciente, confusa ou incapaz de manifestar sua vontade, presumindo-se que desejaria ser socorrida",
+            "C) Apenas quando há testemunhas presentes",
+            "D) Exclusivamente em casos de crianças e adolescentes"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O consentimento implícito é presumido quando a vítima está **inconsciente, confusa, incapaz de manifestar vontade** ou em circunstância na qual uma pessoa razoável aceitaria receber assistência, respaldado pela presunção de que desejaria ser socorrida."
+        },
+        {
+          "id": 66,
+          "enunciado": "Quando a vítima é maior, capaz, consciente e devidamente esclarecida sobre os riscos, e ainda assim recusa o atendimento, a conduta recomendada ao socorrista do CBMSC é:",
+          "alternativas": [
+            "A) Forçar o atendimento contra a vontade da vítima",
+            "B) Respeitar a autonomia da vítima e formalizar a recusa por meio do Termo de Recusa de Atendimento, assinado pela vítima e testemunhas",
+            "C) Ignorar a ocorrência e não realizar qualquer registro",
+            "D) Acionar imediatamente a Justiça Militar"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Sendo a vítima plenamente capaz e esclarecida, sua decisão deve ser **respeitada**, recomendando-se a **formalização da recusa** por meio do Termo de Recusa de Atendimento, com assinatura da vítima e de testemunhas, para segurança jurídica dos agentes."
+        },
+        {
+          "id": 67,
+          "enunciado": "Diante de sinais de violência doméstica contra a mulher identificados em uma ocorrência, o bombeiro militar deve, além de registrar os fatos:",
+          "alternativas": [
+            "A) Abster-se de qualquer comunicação, por não ser de sua competência",
+            "B) Acionar a Polícia Militar, se constatada a presença do agressor, e comunicar o fato à Delegacia Especializada de Atendimento à Mulher",
+            "C) Resolver o conflito diretamente com o agressor",
+            "D) Aguardar autorização da vítima para qualquer providência"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Identificados sinais de violência contra a mulher (Lei Maria da Penha), o bombeiro militar deve registrar os fatos, **acionar a Polícia Militar** se o agressor estiver no local, e **comunicar a Delegacia Especializada de Atendimento à Mulher** da comarca."
+        },
+        {
+          "id": 68,
+          "enunciado": "Nos termos do art. 13 do Estatuto da Criança e do Adolescente (ECA), os casos de suspeita ou confirmação de maus-tratos contra criança ou adolescente devem ser obrigatoriamente comunicados a:",
+          "alternativas": [
+            "A) Apenas à imprensa local",
+            "B) Ao Conselho Tutelar da respectiva localidade",
+            "C) Exclusivamente ao Ministério Público Federal",
+            "D) À Defensoria Pública Estadual"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 13 do ECA determina a comunicação obrigatória ao **Conselho Tutelar da respectiva localidade**, sem prejuízo de outras providências legais."
+        },
+        {
+          "id": 69,
+          "enunciado": "O Estatuto da Pessoa Idosa (Lei nº 10.741/2003) aplica-se às pessoas com idade:",
+          "alternativas": [
+            "A) Igual ou superior a 65 anos",
+            "B) Igual ou superior a 60 anos",
+            "C) Igual ou superior a 70 anos",
+            "D) Superior a 55 anos, desde que aposentadas"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O Estatuto da Pessoa Idosa é aplicável às pessoas com idade **igual ou superior a 60 anos**, conforme previsto na Lei nº 10.741/2003."
+        },
+        {
+          "id": 70,
+          "enunciado": "Segundo o art. 19 do Estatuto da Pessoa Idosa, os casos de suspeita ou confirmação de violência contra idosos devem ser comunicados obrigatoriamente, entre outros órgãos, a:",
+          "alternativas": [
+            "A) Autoridade policial e Ministério Público",
+            "B) Apenas ao Poder Legislativo Estadual",
+            "C) Somente aos familiares do idoso",
+            "D) Exclusivamente à imprensa"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O art. 19 determina a notificação compulsória aos serviços de saúde e a comunicação obrigatória, entre outros órgãos, à **autoridade policial** e ao **Ministério Público**, além dos Conselhos da Pessoa Idosa (municipal, estadual e nacional)."
+        },
+        {
+          "id": 71,
+          "enunciado": "Sobre a LGPD (Lei nº 13.709/2018) aplicada à rotina do CBMSC, os dados relacionados à saúde de uma vítima atendida em ocorrência classificam-se como:",
+          "alternativas": [
+            "A) Informação pública, podendo ser divulgada livremente",
+            "B) Dados pessoais sensíveis, exigindo elevado grau de sigilo e responsabilidade no tratamento",
+            "C) Dados irrelevantes para fins de proteção",
+            "D) Dados que não se sujeitam à LGPD por serem produzidos por órgão público"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Informações sobre saúde enquadram-se como **dados pessoais sensíveis**, exigindo elevado grau de sigilo e responsabilidade no tratamento, mesmo quando produzidas por agente público no exercício da função."
+        },
+        {
+          "id": 72,
+          "enunciado": "Na divulgação de lista de candidatos aprovados no Curso de Bombeiro Comunitário, em observância à LGPD, recomenda-se divulgar:",
+          "alternativas": [
+            "A) CPF e endereço residencial completo dos candidatos",
+            "B) Apenas o número de inscrição e o nome completo do candidato",
+            "C) Telefone e e-mail de todos os candidatos",
+            "D) Fotografia e composição familiar do candidato"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Para conciliar transparência e proteção de dados, recomenda-se divulgar apenas o **número de inscrição e o nome completo**, evitando dados desnecessários como CPF, telefone, e-mail ou endereço."
+        },
+        {
+          "id": 73,
+          "enunciado": "Os atributos \"presunção de legitimidade\" e \"presunção de veracidade\" dos atos administrativos significam, respectivamente, que:",
+          "alternativas": [
+            "A) Os atos são sempre absolutamente verdadeiros e não podem ser contestados",
+            "B) Presume-se que a Administração atuou conforme a lei, e que os fatos por ela declarados são verdadeiros, até prova em contrário",
+            "C) Somente têm validade após decisão judicial confirmatória",
+            "D) Aplicam-se exclusivamente a atos normativos federais"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A **presunção de legitimidade** significa que o ato é considerado praticado em conformidade com a lei até prova em contrário; a **presunção de veracidade** refere-se aos fatos declarados pela Administração, considerados verdadeiros até prova em contrário. Ambas são presunções **relativas**."
+        },
+        {
+          "id": 74,
+          "enunciado": "Ao elaborar um relatório de ocorrência em que a vítima apresenta lesões compatíveis com possível agressão, mas sem elementos suficientes para afirmação categórica, o bombeiro militar deve:",
+          "alternativas": [
+            "A) Registrar categoricamente que houve agressão",
+            "B) Registrar objetivamente as lesões observadas e indicar a existência de suspeita de agressão, sem afirmações categóricas",
+            "C) Omitir qualquer menção às lesões no relatório",
+            "D) Aguardar laudo pericial para elaborar qualquer registro"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Diante da ausência de elementos suficientes para afirmação categórica, o correto é **registrar objetivamente** os fatos observados e indicar a existência de **suspeita**, preservando a objetividade, imparcialidade e fidelidade do documento revestido de fé pública."
+        },
+        {
+          "id": 75,
+          "enunciado": "Os atos administrativos enunciativos são aqueles por meio dos quais a Administração:",
+          "alternativas": [
+            "A) Cria, modifica ou extingue direitos de forma unilateral",
+            "B) Apenas certifica, atesta, informa ou emite opiniões sobre determinada situação, sem criar, modificar ou extinguir direitos",
+            "C) Impõe sanções administrativas de forma discricionária",
+            "D) Delega competências exclusivas do Chefe do Executivo"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Os atos enunciativos apenas **certificam, atestam, informam ou emitem opiniões**, sem criar, modificar ou extinguir direitos — como certidões, atestados, pareceres técnicos e alvarás."
+        },
+        {
+          "id": 76,
+          "enunciado": "São exemplos de dados pessoais sensíveis, nos termos da LGPD, mencionados na apostila, EXCETO:",
+          "alternativas": [
+            "A) Origem racial ou étnica",
+            "B) Convicção religiosa",
+            "C) Nome completo do titular",
+            "D) Dados relacionados à saúde"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Dados sensíveis incluem origem racial/étnica, convicção religiosa, opinião política, filiação sindical, dados genéticos, biométricos e de saúde ou vida sexual. O **nome completo**, por si só, é dado pessoal comum, não sensível."
+        },
+        {
+          "id": 77,
+          "enunciado": "Sobre a fé pública dos documentos administrativos produzidos pelo CBMSC (relatórios de ocorrência, laudos, certidões), é correto afirmar que:",
+          "alternativas": [
+            "A) Não possuem qualquer valor probatório",
+            "B) Possuem especial credibilidade perante a sociedade por serem elaborados por agentes públicos no exercício de suas atribuições legais",
+            "C) Somente têm validade após homologação judicial",
+            "D) Podem ser elaborados com base exclusivamente em suposições do agente"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Documentos como relatórios de ocorrência e certidões gozam de **fé pública**, possuindo especial credibilidade justamente por serem elaborados por agentes públicos no exercício regular de suas funções — o que exige rigor técnico, honestidade e fidelidade aos fatos.\n\n---\n\n\n\n## CAPÍTULO VI — DIREITO PENAL APLICADO"
+        },
+        {
+          "id": 78,
+          "enunciado": "Segundo a teoria tripartida do crime, adotada pela doutrina e jurisprudência brasileiras, crime é toda conduta:",
+          "alternativas": [
+            "A) Típica e culpável, sendo irrelevante a antijuridicidade",
+            "B) Típica, antijurídica e culpável",
+            "C) Apenas antijurídica, independentemente de tipicidade",
+            "D) Imoral e socialmente reprovável, ainda que não prevista em lei"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Pela teoria tripartida, crime é toda conduta **típica, antijurídica e culpável**. A ausência de qualquer um desses elementos impede o reconhecimento da infração penal."
+        },
+        {
+          "id": 79,
+          "enunciado": "O fato típico decorre diretamente de qual princípio penal?",
+          "alternativas": [
+            "A) Princípio da insignificância",
+            "B) Princípio da legalidade (não há crime sem lei anterior que o defina)",
+            "C) Princípio da proporcionalidade",
+            "D) Princípio da adequação social"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O fato típico decorre do **princípio da legalidade**: \"não há crime sem lei anterior que o defina\" — a conduta deve corresponder a um tipo penal previamente estabelecido."
+        },
+        {
+          "id": 80,
+          "enunciado": "São excludentes de ilicitude (antijuridicidade), mencionadas na apostila, EXCETO:",
+          "alternativas": [
+            "A) Legítima defesa",
+            "B) Estado de necessidade",
+            "C) Estrito cumprimento do dever legal",
+            "D) Arrependimento posterior"
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "As excludentes de ilicitude citadas são: legítima defesa, estado de necessidade, estrito cumprimento do dever legal e exercício regular de direito. O \"arrependimento posterior\" é instituto distinto, relacionado à dosimetria da pena, não à exclusão da ilicitude."
+        },
+        {
+          "id": 81,
+          "enunciado": "A culpabilidade, terceiro elemento do conceito analítico de crime, não deve ser confundida com a culpa, pois:",
+          "alternativas": [
+            "A) São termos absolutamente sinônimos no Direito Penal",
+            "B) A culpa é modalidade do elemento subjetivo do fato típico (ao lado do dolo); a culpabilidade é o juízo de reprovação que permite atribuir responsabilidade penal ao agente",
+            "C) A culpabilidade se relaciona apenas com crimes militares",
+            "D) A culpa é elemento da antijuridicidade, e não do fato típico"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A **culpa** é modalidade do elemento subjetivo do fato típico (ao lado do dolo); já a **culpabilidade** é o juízo de reprovação que possibilita atribuir responsabilidade penal ao autor de fato típico e antijurídico — daí menores de 18 anos, inimputáveis, não serem culpáveis nos mesmos moldes dos adultos."
+        },
+        {
+          "id": 82,
+          "enunciado": "O crime militar, conforme o art. 9º do Código Penal Militar, protege, além de eventuais bens jurídicos comuns, valores específicos da atividade militar, tais como:",
+          "alternativas": [
+            "A) Livre concorrência e ordem econômica",
+            "B) Hierarquia, disciplina, dever militar, autoridade militar e serviço militar",
+            "C) Direito de propriedade intelectual",
+            "D) Meio ambiente e patrimônio cultural"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Os principais bens jurídicos tutelados pelo Direito Penal Militar são: **hierarquia, disciplina, dever militar, autoridade militar e serviço militar** — valores essenciais ao funcionamento das instituições militares."
+        },
+        {
+          "id": 83,
+          "enunciado": "Conforme o art. 125, § 4º, da Constituição Federal, compete à Justiça Militar estadual processar e julgar os militares dos Estados nos crimes militares definidos em lei, ressalvada:",
+          "alternativas": [
+            "A) A competência do júri quando a vítima for civil",
+            "B) A competência da Justiça Federal em qualquer hipótese",
+            "C) A competência do STF para julgamento originário",
+            "D) A competência da Justiça do Trabalho"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O art. 125, § 4º, da CF ressalva expressamente a **competência do júri quando a vítima for civil**, cabendo ao tribunal competente decidir sobre a perda do posto/patente dos oficiais e da graduação das praças."
+        },
+        {
+          "id": 84,
+          "enunciado": "Diferentemente da Justiça Militar da União, a Justiça Militar Estadual:",
+          "alternativas": [
+            "A) Também pode processar e julgar civis, em qualquer hipótese",
+            "B) Não possui competência para processar e julgar civis, limitando-se aos militares dos Estados",
+            "C) Possui competência mais ampla que a Justiça Militar da União",
+            "D) Julga exclusivamente crimes comuns"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A Justiça Militar Estadual possui competência **mais restrita**: limita-se ao processamento e julgamento de militares dos Estados nos crimes militares definidos em lei, e das ações relativas a atos disciplinares militares — não possuindo atribuição para julgar civis, diferentemente da Justiça Militar da União."
+        },
+        {
+          "id": 85,
+          "enunciado": "O crime de Motim (art. 149 do CPM) caracteriza-se pela reunião de militares em determinadas condutas contra a ordem e a disciplina. Segundo o Código de Processo Penal Militar, consideram-se \"cabeças\" do crime de autoria coletiva:",
+          "alternativas": [
+            "A) Apenas os oficiais presentes, independentemente de sua conduta",
+            "B) Os que dirigem, provocam, instigam ou excitam a ação; e, quando o crime é praticado por inferiores e um ou mais oficiais, estes são considerados cabeças",
+            "C) Somente o militar mais antigo do grupo",
+            "D) Todos os participantes, de forma indistinta, sem qualquer diferenciação de pena"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Segundo o art. 53, §§ 4º e 5º, do CPPM, são \"cabeças\" os que **dirigem, provocam, instigam ou excitam** a ação; quando o crime é cometido por inferiores hierárquicos e um ou mais oficiais, **estes são considerados cabeças**, assim como os inferiores que exercem função de oficial."
+        },
+        {
+          "id": 86,
+          "enunciado": "O crime de Abandono de Posto (art. 195 do CPM) configura-se quando o militar:",
+          "alternativas": [
+            "A) Cumpre integralmente seu turno de serviço, com autorização superior",
+            "B) Abandona, sem ordem superior, o posto ou lugar de serviço designado, ou o serviço que lhe cumpria, antes de terminá-lo",
+            "C) Solicita transferência de posto por meio de requerimento formal",
+            "D) Se ausenta do serviço mediante licença médica devidamente atestada"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 195 do CPM tipifica abandonar, **sem ordem superior**, o posto ou lugar de serviço designado, ou o serviço que lhe cumpria, antes de terminá-lo. Exemplo dado: Chefe de Socorro que se desloca para jogar futebol durante o turno, sem autorização do Oficial responsável."
+        },
+        {
+          "id": 87,
+          "enunciado": "O crime de Prevaricação (art. 319 do CPM) caracteriza-se por:",
+          "alternativas": [
+            "A) Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal",
+            "B) Receber vantagem indevida em razão da função",
+            "C) Falsificar documento público relacionado à administração militar",
+            "D) Reunir-se com outros militares para prática de violência"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "A Prevaricação consiste em **retardar ou deixar de praticar** ato de ofício (ou praticá-lo contra disposição expressa de lei) **para satisfazer interesse ou sentimento pessoal**. Exemplo: socorrista que deixa de auxiliar na imobilização de vítima por ser seu desafeto."
+        },
+        {
+          "id": 88,
+          "enunciado": "Distinguem-se corrupção passiva (art. 308, CPM) e corrupção ativa (art. 309, CPM) pelo seguinte critério:",
+          "alternativas": [
+            "A) Não há distinção relevante entre os dois tipos penais",
+            "B) Na corrupção passiva, o agente público solicita ou recebe vantagem indevida; na corrupção ativa, o particular ou outro agente oferece ou promete vantagem para a prática, omissão ou retardamento de ato funcional",
+            "C) Corrupção ativa só pode ser praticada por civis",
+            "D) Corrupção passiva exige sempre a efetiva vantagem pecuniária recebida"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Na **corrupção passiva** (art. 308), o agente **solicita ou recebe** vantagem indevida em razão da função; na **corrupção ativa** (art. 309), alguém **dá, oferece ou promete** vantagem para que o agente pratique, omita ou retarde ato funcional."
+        },
+        {
+          "id": 89,
+          "enunciado": "Sobre a alteração de cena de incêndio ou explosão pelo bombeiro militar, a apostila indica exceções à vedação de alteração de local de crime, EXCETO:",
+          "alternativas": [
+            "A) Socorro à vítima",
+            "B) Trabalho de salvamento e extinção do fogo, como prioridade inadiável",
+            "C) Alteração para beneficiar terceiro em processo administrativo, mediante acordo verbal",
+            "D) Necessidade de conhecimento do fato (ex.: arrombamento de portas e janelas)"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "As exceções legítimas são: socorro à vítima, conhecimento do fato, evitar mal maior e prioridades inadiáveis de salvamento/extinção do fogo. **Alterar a cena para beneficiar terceiro** não é exceção legítima — configuraria, em tese, fraude processual (art. 347, CP), pois exige intenção de induzir a erro juiz ou perito."
+        },
+        {
+          "id": 90,
+          "enunciado": "O crime de Importunação Sexual (art. 215-A do Código Penal) caracteriza-se por:",
+          "alternativas": [
+            "A) Praticar, contra alguém e sem sua anuência, ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro",
+            "B) Constranger alguém mediante violência ou grave ameaça a ter conjunção carnal",
+            "C) Obter vantagem sexual mediante uso de superioridade hierárquica",
+            "D) Manter conjunção carnal com menor de 14 anos"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O art. 215-A tipifica praticar, **sem anuência da vítima**, ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro. Exemplo citado: apalpar órgão genital, sem autorização, de colega ou vítima durante atendimento."
+        },
+        {
+          "id": 91,
+          "enunciado": "O crime de Assédio Sexual (art. 216-A do CP) exige, para sua configuração, que o agente:",
+          "alternativas": [
+            "A) Utilize apenas meios de comunicação eletrônica",
+            "B) Prevaleça-se de sua condição de superior hierárquico ou ascendência inerente ao exercício de emprego, cargo ou função, para obter vantagem ou favorecimento sexual",
+            "C) Pratique o ato exclusivamente fora do ambiente de trabalho",
+            "D) Tenha contato físico direto com a vítima"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O assédio sexual exige que o agente **se prevaleça de condição de superioridade hierárquica** para constranger a vítima com o intuito de obter vantagem ou favorecimento sexual — não exigindo, necessariamente, contato físico."
+        },
+        {
+          "id": 92,
+          "enunciado": "O crime de Omissão de Socorro (art. 135 do CP) configura-se quando alguém:",
+          "alternativas": [
+            "A) Presta assistência mesmo correndo risco pessoal",
+            "B) Deixa de prestar assistência, quando possível fazê-lo sem risco pessoal, a criança abandonada, pessoa inválida, ferida, ao desamparo ou em grave e iminente perigo, ou deixa de pedir o socorro da autoridade pública",
+            "C) Aciona a autoridade pública para prestar socorro a terceiro",
+            "D) Presta socorro fora de sua área de atuação territorial"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 135 do CP tipifica deixar de prestar assistência, **quando possível fazê-lo sem risco pessoal**, a pessoa em situação de desamparo ou perigo, ou deixar de pedir o socorro da autoridade pública — a pena aumenta se resultar lesão grave ou morte."
+        },
+        {
+          "id": 93,
+          "enunciado": "O crime de Incêndio (art. 250 do CP) exige, para sua configuração, que a conduta:",
+          "alternativas": [
+            "A) Exponha a perigo a vida, a integridade física ou o patrimônio de outrem",
+            "B) Ocorra exclusivamente em áreas rurais",
+            "C) Seja sempre dolosa, não admitindo modalidade culposa",
+            "D) Atinja exclusivamente bens públicos"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O art. 250 do CP exige que o incêndio **exponha a perigo** a vida, a integridade física ou o patrimônio de outrem, tutelando a incolumidade pública; admite também modalidade **culposa** (§ 2º), com pena de detenção."
+        },
+        {
+          "id": 94,
+          "enunciado": "Um incêndio provocado em floresta, sem gerar perigo comum a pessoas ou patrimônio, tende a ser enquadrado:",
+          "alternativas": [
+            "A) No art. 250 do Código Penal, exclusivamente",
+            "B) No art. 41 da Lei nº 9.605/1998 (Lei de Crimes Ambientais), que tutela especificamente a flora",
+            "C) Em nenhum tipo penal, por ausência de previsão legal",
+            "D) Apenas em sanção administrativa, nunca em esfera penal"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Na ausência de perigo comum a pessoas ou patrimônio, prevalece a aplicação do **art. 41 da Lei de Crimes Ambientais**, que tutela especificamente a flora. Havendo perigo comum, aplica-se o art. 250 do CP, em razão de sua maior gravidade."
+        },
+        {
+          "id": 95,
+          "enunciado": "Nos termos do art. 38 da Lei nº 12.651/2012 (Código Florestal), o uso do fogo na vegetação é, em regra:",
+          "alternativas": [
+            "A) Livre, sem qualquer restrição",
+            "B) Proibido, salvo em hipóteses excepcionais expressamente previstas em lei, como práticas agropastoris autorizadas, manejo em Unidades de Conservação e pesquisa científica",
+            "C) Permitido apenas para produtores rurais, sem necessidade de autorização",
+            "D) Vedado até mesmo para combate e prevenção de incêndios"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 38 estabelece que é **proibido** o uso de fogo na vegetação, **exceto** em hipóteses específicas: práticas agropastoris/florestais com aprovação do órgão ambiental, queima controlada em Unidades de Conservação, e pesquisa científica aprovada — sendo excetuadas também as práticas de prevenção/combate a incêndios e a agricultura de subsistência de populações tradicionais."
+        },
+        {
+          "id": 96,
+          "enunciado": "Segundo o Decreto nº 12.112/80 (RDPMSC), art. 29, o licenciamento a bem da disciplina pode ser aplicado à praça sem estabilidade quando, entre outras hipóteses:",
+          "alternativas": [
+            "A) A praça for promovida por merecimento",
+            "B) A praça houver sido condenada por crime militar ou houver praticado crime comum apurado em inquérito, excluídos os crimes culposos",
+            "C) A praça solicitar transferência voluntária de unidade",
+            "D) A praça completar tempo de serviço para a reserva remunerada"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 29, § 1º, item 3, do RDPMSC prevê o licenciamento a bem da disciplina quando a praça **houver sido condenada por crime militar ou houver praticado crime comum**, apurado em inquérito, **excluídos os crimes culposos**."
+        },
+        {
+          "id": 97,
+          "enunciado": "Antes de aplicar a exclusão \"ex-officio\" a bem da disciplina a uma praça com estabilidade assegurada, nos termos do art. 127 da Lei nº 6.218/83, exige-se, entre outras hipóteses:",
+          "alternativas": [
+            "A) Simples denúncia anônima contra o militar",
+            "B) Pronunciamento do Conselho Permanente de Justiça, por condenação com pena restritiva de liberdade superior a 2 anos, transitada em julgado",
+            "C) Mera suspeita levantada em corregedoria, sem processo formal",
+            "D) Decisão do Comandante-Geral, independentemente de qualquer processo"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 127, I, da Lei nº 6.218/83 exige **pronunciamento do Conselho Permanente de Justiça**, por condenação transitada em julgado com pena restritiva de liberdade individual **superior a 2 (dois) anos** (ou, nos crimes de Segurança Nacional, qualquer pena), além de outras hipóteses como perda de nacionalidade ou julgamento pelo Conselho de Disciplina."
+        },
+        {
+          "id": 98,
+          "enunciado": "Em relação aos Oficiais, o art. 123 da Lei nº 6.218/83 prevê a declaração de indignidade ou incompatibilidade para o oficialato quando, entre outras hipóteses, o Oficial:",
+          "alternativas": [
+            "A) For promovido por antiguidade",
+            "B) For condenado por Tribunal Civil ou Militar à pena restritiva de liberdade individual superior a 2 anos, em sentença transitada em julgado",
+            "C) Solicitar transferência para a reserva remunerada",
+            "D) For aprovado em curso de aperfeiçoamento"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O art. 123, I, prevê a declaração de indignidade/incompatibilidade para o oficialato quando o Oficial for condenado por Tribunal Civil ou Militar à **pena restritiva de liberdade superior a 2 anos**, em sentença transitada em julgado, entre outras hipóteses (crimes de Segurança Nacional, julgamento por Conselho de Justificação)."
+        },
+        {
+          "id": 99,
+          "enunciado": "Além das consequências penais diretas, a condenação de um militar por ato de improbidade administrativa pode gerar:",
+          "alternativas": [
+            "A) Nenhuma consequência funcional, por se tratar de esfera cível autônoma",
+            "B) Possibilidade de afastamento definitivo do serviço público, observadas as sanções do art. 12 da Lei nº 14.230/2021",
+            "C) Apenas advertência verbal, sem qualquer repercussão no cargo",
+            "D) Suspensão do direito de voto, exclusivamente"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O ordenamento jurídico prevê a possibilidade de **afastamento definitivo do serviço público** em razão de condenação por ato de improbidade administrativa, conforme as sanções do art. 12 da **Lei nº 14.230/2021**, que alterou a Lei de Improbidade Administrativa."
+        },
+        {
+          "id": 100,
+          "enunciado": "Sobre a distinção entre crime comum e crime militar, é correto afirmar:",
+          "alternativas": [
+            "A) Crime comum é sempre mais grave que crime militar",
+            "B) O crime militar é definido em lei e protege, além de eventuais bens jurídicos comuns, interesses específicos da atividade militar (hierarquia, disciplina, dever, autoridade e serviço militar), nos termos do art. 9º do CPM",
+            "C) Não existe distinção prática entre as duas categorias",
+            "D) Crimes militares só podem ser cometidos por oficiais"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O crime militar é aquele **definido em lei como tal** (art. 9º do CPM) e que atinge interesses específicos da atividade militar — hierarquia, disciplina, dever militar, autoridade militar e serviço militar — além de eventuais bens jurídicos comuns também afetados."
+        }
+      ]
     }
   ]
 }
