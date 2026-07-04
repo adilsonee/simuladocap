@@ -45,7 +45,7 @@
  "id": 4,
  "enunciado": "Gary Yukl (2013) aponta que o sucesso de uma tentativa de influência depende da resposta do liderado. Qual das seguintes alternativas descreve corretamente o resultado denominado 'Compromisso' (Commitment)?",
  "alternativas": [
- "A) O liderado concorda internamente com a solicitação do líder, demonstrando grande espaço pessoal, iniciativa, persistência e criatividade para alcançá-la.",
+ "A) O liderado concorda internamente com a solicitação do líder, demonstrando grande esforço pessoal, iniciativa, persistência e criatividade para alcançá-la.",
  "B) O liderado realiza a tarefa de forma apática, com esforço mínimo, procrastinando sempre que possível.",
  "C) O liderado se opõe ativamente à solicitação, fingindo obediência mas atrasando a entrega deliberadamente.",
  "D) O liderado aceita a tarefa unicamente em troca de uma recompensa financeira ou folga prometida."
@@ -111,7 +111,7 @@
  "D) Em submeter todas as ordens de combate a uma votação democrática de maioria simples."
  ],
  "respostaCorreta": 1,
- "justificativa": "A consulta Corresponde ao envolvimento ativo do liderado no planejamento de uma tarefa. Quando as pessoas participam da elaboração do plano de ação, elas se sentem ouvidas, o que aumenta drasticamente o comprometimento com o resultado final."
+ "justificativa": "A consulta envolve ativamente o liderado no planejamento de uma tarefa. Quando as pessoas participam da elaboração do plano de ação, elas se sentem ouvidas, o que aumenta drasticamente o comprometimento com o resultado final."
  },
  {
  "id": 10,
@@ -163,7 +163,7 @@
  },
  {
  "id": 14,
- "enunciado": "Emiliano Gómez (2008) argumenta que o líder militar reflete em seu trabalho o que ele é como indivíduo na vida privada. Qual é a principal consequência prática desse concept para o desenvolvimento de liderança?",
+ "enunciado": "Emiliano Gómez (2008) argumenta que o líder militar reflete em seu trabalho o que ele é como indivíduo na vida privada. Qual é a principal consequência prática desse conceito para o desenvolvimento de liderança?",
  "alternativas": [
  "A) O líder deve focar apenas em aprender técnicas administrativas, pois sua vida privada não afeta o desempenho profissional.",
  "B) O líder deve separar rigidamente sua conduta particular de suas atitudes de comando na unidade militar.",
@@ -176,7 +176,7 @@
  ]
  },
  {
- "id": "procedimentos_apuratorios_pad",
+ "id": "procedimentos_apuratorios_adm",
  "nome": "Procedimentos Apuratórios Administrativos - PAD e Inquérito",
  "descricao": "Estudo das normas, ritos, prazos e formalidades para apuração de infrações e danos no âmbito da corporação.",
  "questoes": [
