@@ -1,409 +1,402 @@
 {
- "disciplinas": [
- {
- "id": "chefia_lideranca",
- "nome": "Chefia e Liderança",
- "descricao": "Estudo focado nas diretrizes e manuais de liderança, chefia, ética militar, atributos e estilos de tomada de decisão.",
- "questoes": [
- {
- "id": 1,
- "enunciado": "Segundo Peter Guy Northouse (2016), a liderança é definida como um processo pelo qual um indivíduo influencia um grupo de indivíduos para alcançar um objetivo comum. Com base nessa definição, quais são os quatro componentes centrais do fenômeno da liderança?",
- "alternativas": [
- "A) Autoridade legal, hierarquia militar, coerção punitiva e metas de curto prazo.",
- "B) Traços de personalidade, carisma individual, poder de posição e obediência cega.",
- "C) Processo contínuo, exercício de influência, grupo de indivíduos e objetivo comum.",
- "D) Troca transacional, recompensas de desempenho, punição disciplinar e gestão técnica."
- ],
- "respostaCorreta": 2,
- "justificativa": "Northouse destaca que a liderança: 1) é um PROCESSO (não é um evento isolado ou traço estático), 2) envolve INFLUÊNCIA (como o líder afeta os liderados), 3) ocorre em um GRUPO de indivíduos e 4) é direcionada para um OBJETIVO COMUM. As demais opções focam em poder formal ou teorias ultrapassadas de traços."
- },
- {
- "id": 2,
- "enunciado": "A atividade de liderança está estreitamente relacionada com o uso do poder. De forma simplificada, o poder pode ser classificado em dois tipos básicos: o poder de posição e o poder pessoal. Qual é a diferença fundamental entre eles?",
- "alternativas": [
- "A) O poder de posição decorre da competência técnica e exemplo pessoal, enquanto o poder pessoal vem do cargo formal.",
- "B) O poder de posição é obtido através do cargo na estrutura hierárquica formal, enquanto o poder pessoal é uma autoridade conquistada pelo exemplo, competência e respeito.",
- "C) O poder pessoal gera submissão temporária obrigatória, enquanto o poder de posição gera comprometimento voluntário duradouro.",
- "D) O poder de posição é ilimitado na administração pública, ao passo que o poder pessoal é restrito às relações informais."
- ],
- "respostaCorreta": 1,
- "justificativa": "O poder de posição é atribuído pela organização e depende da posição hierárquica do indivíduo (autoridade formal). O poder pessoal é conquistado e oferecido pelos liderados porque eles reconhecem valor, exemplo e competência no líder. A liderança autêntica se baseia fortemente no poder pessoal."
- },
- {
- "id": 3,
- "enunciado": "No contexto da caserna e da liderança militar, costuma-se diferenciar a figura do 'chefe' da figura do 'líder' com base no tipo de poder predominante que utilizam. Como essa distinção é caracterizada?",
- "alternativas": [
- "A) O chefe orienta e diz 'nós/vamos', enquanto o líder impõe ordens dizendo 'eu/vá' com base no cargo.",
- "B) O líder depende puramente da coerção e punição, ao passo que o chefe estimula a cooperação espontânea.",
- "C) O chefe usa do poder da posição para impor suas ordens dizendo 'eu/vá', enquanto o líder usa o poder pessoal e a autoridade conquistada para guiar o grupo dizendo 'nós/vamos'.",
- "D) O chefe e o líder atuam exatamente da mesma forma, diferenciando-se apenas pela denominação do cargo."
- ],
- "respostaCorreta": 2,
- "justificativa": "A chefia militar baseia-se no poder de posição (autoridade formal, comando, imposição de diretrizes), enquanto a liderança militar baseia-se na influência pessoal e autoridade conquistada pelo exemplo (condução humana com base no 'nós/vamos')."
- },
- {
- "id": 4,
- "enunciado": "Gary Yukl (2013) aponta que o sucesso de uma tentativa de influência depende da resposta do liderado. Qual das seguintes alternativas descreve corretamente o resultado denominado 'Compromisso' (Commitment)?",
- "alternativas": [
- "A) O liderado concorda internamente com a solicitação do líder, demonstrando grande esforço pessoal, iniciativa, persistência e criatividade para alcançá-la.",
- "B) O liderado realiza a tarefa de forma apática, com esforço mínimo, procrastinando sempre que possível.",
- "C) O liderado se opõe ativamente à solicitação, fingindo obediência mas atrasando a entrega deliberadamente.",
- "D) O liderado aceita a tarefa unicamente em troca de uma recompensa financeira ou folga prometida."
- ],
- "respostaCorreta": 0,
- "justificativa": "O compromisso ocorre quando o liderado se identifica com a meta e internaliza o objetivo, agindo com iniciativa, entusiasmo e persistência. É o resultado ideal da liderança autêntica."
- },
- {
- "id": 5,
- "enunciado": "Quando o liderado está disposto a realizar o trabalho solicitado pelo líder, mas demonstra apatia, realiza apenas o esforço mínimo necessário e não apresenta iniciativa ou entusiasmo, qual resultado do processo de influência está ocorrendo?",
- "alternativas": [
- "A) Resistência ativa.",
- "B) Compromisso voluntário.",
- "C) Liderança transformacional.",
- "D) Conformidade (Compliance)."
- ],
- "respostaCorreta": 3,
- "justificativa": "A conformidade (ou submissão) ocorre quando o liderado realiza a tarefa por obrigação (poder de posição ou recompensa transacional), sem entusiasmo e fazendo apenas o mínimo necessário. Não há engajamento interno com a meta."
- },
- {
- "id": 6,
- "enunciado": "Um subordinado que se opõe a uma ordem, tenta convencer o líder a alterá-la, atrasa o trabalho intencionalmente ou finge concordar enquanto sabota o andamento da tarefa está manifestando qual resultado de influência?",
- "alternativas": [
- "A) Conformidade passiva.",
- "B) Resistência (Resistance).",
- "C) Compromisso insatisfeito.",
- "D) Liderança liberal."
- ],
- "respostaCorreta": 1,
- "justificativa": "A resistência é a oposição ativa ou passiva à tentativa de influência do líder. Manifesta-se por desculpas, atrasos intencionais, fingimentos e recusa de cooperação, sendo comum quando há abuso de poder coercitivo."
- },
- {
- "id": 7,
- "enunciado": "Diferentes táticas de persuasão são recomendadas dependendo da direção da influência (superiores, pares ou subordinados). Para influenciar um superior hierárquico, qual tática é a mais recomendada e como ela deve ser empregada?",
- "alternativas": [
- "A) Apelos emocionais, baseando a proposta puramente na intuição pessoal do liderado.",
- "B) Pressão e coerção, estabelecendo prazos firmes e ameaças veladas de insubordinação.",
- "C) Persuasão Racional, utilizando explicações lógicas, fatos claros e evidências factuais para provar que a solicitação é viável e relevante.",
- "D) Lisonja e ingratiação, elogiando o superior excessivamente antes de fazer o pedido."
- ],
- "respostaCorreta": 2,
- "justificativa": "A persuasão racional (apelo lógico) é a tática mais eficaz para influenciar superiores, pois demonstra objetividade, viabilidade técnica e benefícios práticos da proposta com base em dados e argumentos estruturados."
- },
- {
- "id": 8,
- "enunciado": "Para influenciar colegas de trabalho (pares) que estão no mesmo nível hierárquico, recomenda-se o uso de apelos emocionais. Como essa tática de persuasão deve ser aplicada na prática?",
- "alternativas": [
- "A) Apresentando dados estatísticos frios e planilhas orçamentárias complexas.",
- "B) Associando a proposta a ideais, crenças e valores comuns, descrevendo uma visão inspiradora do projeto com comunicação positiva e otimista.",
- "C) Prometendo vantagens financeiras diretas ou transferências de responsabilidade.",
- "D) Cobrando obediência com base no regulamento disciplinar militar."
- ],
- "respostaCorreta": 1,
- "justificativa": "Com os pares, o líder não tem poder de posição. Portanto, conectar o projeto a valores, visões de futuro estimulantes e ideais compartilhados (apelos emocionais) é a forma mais eficaz de motivar cooperação espontânea."
- },
- {
- "id": 9,
- "enunciado": "Ao tentar influenciar subordinados, o líder pode utilizar apelos colaborativos. Uma das táticas mais eficientes é a 'Consulta'. Em que consiste essa tática?",
- "alternativas": [
- "A) Em intimar o subordinado a decidir o rumo de toda a organização de forma isolada.",
- "B) Em solicitar que a equipe sugira ideias e melhorias para o planejamento ou execução da tarefa, promovendo o comprometimento ativo.",
- "C) Em interrogar os liderados para identificar falhas individuais do último expediente.",
- "D) Em submeter todas as ordens de combate a uma votação democrática de maioria simples."
- ],
- "respostaCorreta": 1,
- "justificativa": "A consulta envolve ativamente o liderado no planejamento de uma tarefa. Quando as pessoas participam da elaboração do plano de ação, elas se sentem ouvidas, o que aumenta drasticamente o comprometimento com o resultado final."
- },
- {
- "id": 10,
- "enunciado": "A tática de persuasão denominada 'Colaboração' é um apelo colaborativo indicado para liderar subordinados. Ela é caracterizada na prática por:",
- "alternativas": [
- "A) Deixar o subordinado realizar a tarefa sozinho sem qualquer orientação ou recurso.",
- "B) Oferecer suporte, recursos adicionais, assistência prática ou conhecimento técnico do próprio líder para ajudar o subordinado a executar a tarefa e superar barreiras.",
- "C) Trocar favores pessoais fora da organização militar para garantir a obediência interna.",
- "D) Exigir que o subordinado trabalhe além do expediente sem apoio institucional."
- ],
- "respostaCorreta": 1,
- "justificativa": "Na colaboração, o líder atua facilitando o trabalho do subordinado, provendo recursos, eliminando obstáculos e agindo como um facilitador. Isso gera confiança e demonstra apoio real da liderança."
- },
- {
- "id": 11,
- "enunciado": "Embora existam táticas ideais baseadas na cooperação, às vezes o líder militar precisa garantir a execução de prazos urgentes quando outras tentativas falharam. Qual tática descreve a cobrança insistente, lembretes frequentes e uso de exigências firmes?",
- "alternativas": [
- "A) Tática de Troca ou Permuta.",
- "B) Tática de Pressão.",
- "C) Tática de Ingraciação ou Lisonja.",
- "D) Tática de Coalizão."
- ],
- "respostaCorreta": 1,
- "justificativa": "A tática de pressão utiliza cobranças firmes, lembretes constantes e exigências de cumprimento de prazos. Deve ser usada com cautela, pois o uso excessivo gera conformidade apática ou resistência no longo prazo."
- },
- {
- "id": 12,
- "enunciado": "Chester Barnard formulou a Teoria da Aceitação da Autoridade, essencial para entender a liderança ética. Segundo essa teoria, quais são as quatro condições simultâneas para que uma ordem de um líder seja aceita e executada pelo liderado?",
- "alternativas": [
- "A) O liderado deve receber gratificação, temer a punição, estar de folga e possuir estabilidade no cargo.",
- "B) O liderado deve compreender a ordem, sentir-se capaz de cumpri-la, acreditar que ela atende aos interesses da organização e ver nela consistência com seus valores pessoais.",
- "C) A ordem deve ser curta, escrita, publicada em Diário Oficial e conter punições explícitas.",
- "D) O liderado deve ser mais antigo, ter curso de especialização, concordar com a ideologia do líder e receber diárias."
- ],
- "respostaCorreta": 1,
- "justificativa": "Barnard postulou que a autoridade reside no liderado aceitar ou não a ordem. Para que a aceite, a ordem deve passar por quatro filtros morais/cognitivos: compreensão, viabilidade pessoal, alinhamento organizacional e conformidade com valores pessoais."
- },
- {
- "id": 13,
- "enunciado": "De acordo com John R. Schermerhorn Jr. (2011), o empoderamento (empowerment) é um processo de descentralização do poder nas organizações. Qual princípio define a natureza do poder no empoderamento?",
- "alternativas": [
- "A) O poder é um jogo de soma zero: para que um subordinado ganhe poder, o líder precisa necessariamente perder autoridade.",
- "B) O poder nas organizações de alta performance é concentrado exclusivamente no topo para evitar anarquia.",
- "C) O poder não é uma soma zero. Quando o líder delega autoridade, informações e recursos, ele aumenta a capacidade de ação coletiva e gera comprometimento voluntário.",
- "D) O empoderamento dispensa a responsabilidade final do comandante sobre as ações de sua equipe."
- ],
- "respostaCorreta": 2,
- "justificativa": "O empoderamento amplia o poder da organização como um todo. Delegar autoridade faz com que os subordinados ajam de forma autônoma e responsável, mas o comandante NUNCA delega sua responsabilidade final sobre o que acontece na unidade."
- },
- {
- "id": 14,
- "enunciado": "Emiliano Gómez (2008) argumenta que o líder militar reflete em seu trabalho o que ele é como indivíduo na vida privada. Qual é a principal consequência prática desse conceito para o desenvolvimento de liderança?",
- "alternativas": [
- "A) O líder deve focar apenas em aprender técnicas administrativas, pois sua vida privada não afeta o desempenho profissional.",
- "B) O líder deve separar rigidamente sua conduta particular de suas atitudes de comando na unidade militar.",
- "C) Para operar mudanças verdadeiras na organização, o líder deve primeiro iniciar mudando sua própria personalidade, conduta e atitudes individuais.",
- "D) O caráter do líder é moldado exclusivamente pelo regulamento disciplinar, sem interferência de seus valores morais internos."
- ],
- "respostaCorreta": 2,
- "justificativa": "Como o líder reflete o que é como indivíduo, a liderança autêntica exige alinhamento ético e moral. A mudança organizacional começa pela autotransformação do próprio líder, tornando-o exemplo prático entre seu discurso e suas ações."
- }
- ]
- },
- {
- "id": "procedimentos_apuratorios_adm",
- "nome": "Procedimentos Apuratórios Administrativos - PAD e Inquérito",
- "descricao": "Estudo das normas, ritos, prazos e formalidades para apuração de infrações e danos no âmbito da corporação.",
- "questoes": [
- {
- "id": 1,
- "enunciado": "O Sd Pedro, vistoriador da SAT do 6º BBM (Chapecó), transitando pelo Centro da cidade verificou que seu celular estava recebendo uma chamada. O Sd Pedro resolveu atender o telefone ao mesmo tempo em que dirigia o veículo, e por descuido, deixou de observar que o sinal do cruzamento pelo qual passava estava fechado, vindo a cruzar o semáforo e colidir com outro veículo de propriedade particular. Do acidente resultou apenas danos materiais na viatura AAT-100 e no veículo particular. Diante desta situação, o procedimento a ser instaurado pelo Comandante da OBM para apurar as causas e responsabilidades pelos danos causados na Viatura AAT 100 será:",
- "alternativas": [
- "A) Inquérito Técnico.",
- "B) Inquérito Policial Militar.",
- "C) Sindicância.",
- "D) Processo Administrativo Disciplinar."
- ],
- "respostaCorreta": 0,
- "justificativa": "O Inquérito Técnico é o procedimento administrativo especificamente voltado para apurar as causas, circunstâncias e responsabilidades em acidentes de trânsito envolvendo viaturas da corporação que resultem em danos materiais."
- },
- {
- "id": 2,
- "enunciado": "Para a avaliação dos danos, durante o Inquérito Técnico, o encarregado providenciará:",
- "alternativas": [
- "A) Um orçamento de uma oficina de sua confiança.",
- "B) Uma verificação nos danos e ele mesmo, com base em seu conhecimento, avaliará o prejuízo.",
- "C) Dois orçamentos em uma única oficina.",
- "D) Três orçamentos de oficinas idôneas, datados e assinados."
- ],
- "respostaCorreta": 3,
- "justificativa": "De acordo com as normas de regência do Inquérito Técnico, constitui dever formal do encarregado juntar no mínimo três orçamentos distintos emitidos por estabelecimentos idôneos, contendo data e assinatura dos responsáveis para a devida avaliação do dano patrimonial."
- },
- {
- "id": 3,
- "enunciado": "De acordo com o Manual do Inquérito Técnico do CBMSC, o Encarregado do IT deverá sempre ser Oficial, entretanto, não havendo Oficial na OBM, a autoridade com competência para mandar instaurar poderá, excepcionalmente, delegar:",
- "alternativas": [
- "A) A um Oficial de outro Batalhão do CBMSC.",
- "B) Ao condutor da viatura sinistrada.",
- "C) A um Subtenente BM.",
- "D) A um Sargento BM."
- ],
- "respostaCorreta": 2,
- "justificativa": "A normativa prevê expressamente que, na ausência ou impossibilidade de designação de um Oficial na própria Organização de Bombeiro Militar (OBM), a autoridade pode, excepcionalmente, delegar as funções de encarregado a um Subtenente BM."
- },
- {
- "id": 4,
- "enunciado": "O Inquérito Policial Militar (IPM) é a apuração de fato que, nos termos da lei, constitui:",
- "alternativas": [
- "A) Crime comum.",
- "B) Crime militar.",
- "C) Ilícito administrativo.",
- "D) Transgressão disciplinar."
- ],
- "respostaCorreta": 1,
- "justificativa": "O Inquérito Policial Militar (IPM) destina-se exclusivamente a apurar fatos que configurem, em tese, infrações tipificadas na legislação penal militar (crimes militares), servindo de base para a respectiva ação penal."
- },
- {
- "id": 5,
- "enunciado": "São características fundamentais do Inquérito Policial Militar (IPM):",
- "alternativas": [
- "A) Judicial, informal, sigiloso e transparente.",
- "B) Administrativo, formal, sigiloso e inquisitivo.",
- "C) Judicial, formal, público e inquisitivo.",
- "D) Administrativo, informal, público e transparente."
- ],
- "respostaCorreta": 1,
- "justificativa": "O IPM possui natureza jurídica de procedimento administrativo pré-processual, caracterizando-se por ser formal (reduzido a escrito), sigiloso (para garantir a elucidação dos fatos) e inquisitivo (conduzido de ofício pela autoridade administrativa)."
- },
- {
- "id": 6,
- "enunciado": "Na coleta do depoimento do bombeiro militar indiciado em um IPM, qual regra deve ser obrigatoriamente observada pelo encarregado?",
- "alternativas": [
- "A) O bombeiro militar indiciado deverá prestar o compromisso legal em dizer a verdade sobre o que souber e lhe for perguntado.",
- "B) O indiciado não é obrigado a responder às perguntas que lhe forem feitas, podendo permanecer em silêncio, assim como não presta compromisso legal de dizer a verdade.",
- "C) Caso o indiciado falte com a verdade no interrogatório, ele deverá responder pelo crime de falso testemunho.",
- "D) O indiciado poderá permanecer calado, entretanto, deverá ser informado de que o seu silêncio implicará na concordância das acusações."
- ],
- "respostaCorreta": 1,
- "justificativa": "Em obediência às garantias constitucionais da ampla defesa e do privilégio contra a autoincriminação, o indiciado resguarda o direito ao silêncio, não sendo obrigado a responder às perguntas nem sujeito ao compromisso legal de dizer a verdade."
- },
- {
- "id": 7,
- "enunciado": "Na Justiça Militar, o autor da Ação Penal Militar a ser instaurada em desfavor de bombeiros militares de Santa Catarina é:",
- "alternativas": [
- "A) O Corregedor-Geral do CBMSC.",
- "B) O Juiz da Vara da Justiça Militar.",
- "C) O Comandante-Geral do CBMSC.",
- "D) O Promotor do Ministério Público Militar."
- ],
- "respostaCorreta": 3,
- "justificativa": "A titularidade da Ação Penal Militar pública na esfera da Justiça Militar é privativa do Promotor de Justiça do Ministério Público, que atua com base nos elementos de prova colhidos no IPM."
- },
- {
- "id": 8,
- "enunciado": "Concluído o IPM e não tendo sido constatados indícios de crime militar, o processo deverá:",
- "alternativas": [
- "A) Ser arquivado na OBM onde foi instaurado.",
- "B) Ser remetido ao Ministério Público pelo Comandante do Batalhão.",
- "C) Ser remetido à Vara da Justiça Militar pela Corregedoria-Geral do CBMSC.",
- "D) Ser arquivado na Corregedoria-Geral do CBMSC."
- ],
- "respostaCorreta": 2,
- "justificativa": "Ainda que o relatório do encarregado conclua pela inexistência de infração penal militar, os autos devem ser encaminhados obrigatoriamente à Vara da Justiça Militar por intermédio da Corregedoria-Geral para a devida manifestação do Ministério Público e controle judicial."
- },
- {
- "id": 9,
- "enunciado": "Se o bombeiro militar indiciado estiver preso, qual o prazo legal estabelecido para a conclusão do Inquérito Policial Militar (IPM)?",
- "alternativas": [
- "A) 30 dias, podendo ser prorrogado por até mais 30 dias.",
- "B) 20 dias, podendo ser prorrogado por até mais 20 dias.",
- "C) 40 dias, sem possibilidade de prorrogação.",
- "D) 20 dias, contados a partir da data em que se efetivou a prisão."
- ],
- "respostaCorreta": 3,
- "justificativa": "O prazo para o encerramento do IPM na hipótese de indiciado sob custódia/preso é peremptório de 20 dias, contados de forma contínua a partir do dia em que foi executada a ordem de prisão."
- },
- {
- "id": 10,
- "enunciado": "O Processo Administrativo Disciplinar (PAD) no âmbito do CBMSC é expressamente instaurado para apurar fato que constitua, em tese:",
- "alternativas": [
- "A) Contravenção penal.",
- "B) Transgressão disciplinar.",
- "C) Crime comum.",
- "D) Crime militar."
- ],
- "respostaCorreta": 1,
- "justificativa": "O PAD é o instrumento jurídico decorrente do exercício do poder disciplinar da Administração, vocacionado especificamente a apurar a materialidade e autoria de faltas de natureza estritamente funcional (transgressões disciplinares)."
- },
- {
- "id": 11,
- "enunciado": "Assinale a alternativa que descreve a sequência cronológica e formal correta das fases do Processo Administrativo Disciplinar (PAD) conforme o rito unificado do CBMSC:",
- "alternativas": [
- "A) Instauração, defesa prévia, instrução, alegações finais, relatório circunstanciado da autoridade processante, decisão e recursos.",
- "B) Relatório circunstanciado, decisão, recursos, defesa prévia, instrução, alegações finais, instauração.",
- "C) Alegações finais, decisão, instauração, defesa prévia, instrução, relatório e recursos.",
- "D) Recursos, alegações finais, defesa prévia, instrução, relatório, decisão e instauração."
- ],
- "respostaCorreta": 0,
- "justificativa": "O rito legal do PAD obedece a uma ordem lógica para preservar o devido processo: inicia com a Portaria de Instauração, abre prazo para Defesa Prévia, realiza a Instrução Probatória, oportuniza as Alegações Finais, emite o Relatório, segue para Decisão da autoridade e encerra com a fase recursal."
- },
- {
- "id": 12,
- "enunciado": "Nos termos do Regulamento do Processo Administrativo Disciplinar (R-PAD), qual o prazo padrão para conclusão do processo e qual o seu limite crítico de prorrogação acumulada?",
- "alternativas": [
- "A) 30 dias, prorrogável até 60 dias.",
- "B) 45 dias, podendo ser prorrogado em caráter excepcional por até 120 dias no total.",
- "C) 30 dias, prorrogável até 90 dias.",
- "D) 60 dias, sem possibilidade de prorrogação."
- ],
- "respostaCorreta": 1,
- "justificativa": "O R-PAD estipula o prazo regular de 45 dias para o encerramento das atividades correlatas ao processo. Em situações de alta complexidade, a autoridade delegante pode autorizar prorrogações, desde que o cômputo global não exceda o limite de 120 dias."
- },
- {
- "id": 13,
- "enunciado": "Quais são as três espécies de recursos administrativos regularmente previstos no Regulamento Disciplinar cabíveis em decorrência de penalidades ou atos praticados no PAD?",
- "alternativas": [
- "A) Alegações, agravo e queixa.",
- "B) Reconsideração, apelação e reclamação.",
- "C) Pedido de reconsideração de ato, queixa e representação.",
- "D) Contestação, apelação e embargos."
- ],
- "respostaCorreta": 2,
- "justificativa": "O militar estadual que sofrer sanção disciplinar ou se julgar prejudicado dispõe estritamente dos seguintes instrumentos recursais administrativos: Pedido de Reconsideração de Ato, Queixa e Representação."
- },
- {
- "id": 14,
- "enunciado": "O Regulamento do Processo Administrativo Disciplinar instituído pela Portaria nº 536/2021 (R-PAD) aplica-se expressamente a qual grupo de destinatários?",
- "alternativas": [
- "A) Aos bombeiros comunitários e guarda-vidas civis voluntários do CBMSC.",
- "B) Aos bombeiros civis profissionais.",
- "C) Aos servidores civis terceirizados que atuam nas Organizações de Bombeiro Militar.",
- "D) Os bombeiros militares da ativa, da reserva ou os reformados, bem como aos alunos em curso de formação."
- ],
- "respostaCorreta": 3,
- "justificativa": "O R-PAD submete à sua jurisdição correcional todos os integrantes da carreira militar estadual da corporação, englobando o pessoal do serviço ativo, inativos (reserva/reformados) e indivíduos matriculados em cursos de formação."
- }
- ]
- },
- {
- "id": "codigo_conduta_voluntarios",
- "nome": "Código de Conduta e Disciplina do Serviço Voluntário",
- "descricao": "Normas éticas, padrões de serviço e rito de apuração aplicáveis aos prestadores de serviço voluntário e bombeiros civis.",
- "questoes": [
- {
- "id": 1,
- "enunciado": "O Código de Conduta e Disciplina do Serviço Voluntário do CBMSC (Portaria nº 379/2025) possui aplicação jurídica estendida a quais categorias?",
- "alternativas": [
- "A) Aos militares estaduais da ativa e da reserva remunerada.",
- "B) Apenas aos Bombeiros Comunitários e Guarda-Vidas Civis Voluntários.",
- "C) Aos Bombeiros Comunitários, Guarda-Vidas Civis Voluntários, alunos em formação e demais vínculos voluntários, bem como aos Bombeiros Civis.",
- "D) Somente aos voluntários que desempenham diretamente atividades de cunho operacional."
- ],
- "respostaCorreta": 2,
- "justificativa": "O diploma regulamentar do serviço voluntário disciplina a conduta dos Bombeiros Comunitários, Guarda-Vidas Civis Voluntários, estudantes nas escolas de formação comunitária e abrange também os Bombeiros Civis vinculados à instituição."
- },
- {
- "id": 2,
- "enunciado": "No âmbito do processamento de faltas éticas de voluntários, qual é a sequência cronológica correta das fases que compõem o rito do Formulário de Apuração de Conduta (FAC)?",
- "alternativas": [
- "A) Comunicação, apuração, defesa, decisão e recurso.",
- "B) Apuração, comunicação, decisão, defesa e recurso.",
- "C) Comunicação, defesa, decisão, recurso e apuração.",
- "D) Comunicação, defesa, apuração, recurso e decisão."
- ],
- "respostaCorreta": 0,
- "justificativa": "O trâmite administrativo do FAC inaugura-se com a Comunicação formal da alteração, seguida da instrução/Apuração preliminar, concessão de prazo de Defesa (contraditório), prolação da Decisão do comandante e oportunidade de Recurso."
- },
- {
- "id": 3,
- "enunciado": "Qual das seguintes opções constitui um dos padrões de conduta e serviço expressamente exigidos de todos os voluntários vinculados à estrutura do CBMSC?",
- "alternativas": [
- "A) Autonomia para gerir e definir seus próprios horários e escalas de serviço de forma unilateral.",
- "B) Utilização de viaturas e equipamentos institucionais para fins particulares quando demonstrada necessidade.",
- "C) Liberdade para se eximir do cumprimento de ordens emanadas que julgar inconvenientes.",
- "D) Observância estrita às leis, regulamentos e normas internas da Corporação."
- ],
- "respostaCorreta": 3,
- "justificativa": "O pilar do serviço comunitário repousa na disciplina, impondo-se ao voluntário o dever irrenunciável de respeitar e observar fielmente as diretrizes e regulamentos administrativos fixados pela corporação."
- },
- {
- "id": 4,
- "enunciado": "Sobre a natureza jurídica e finalidade do Formulário de Apuração de Conduta (FAC), assinale a alternativa correta:",
- "alternativas": [
- "A) Somente pode ter sua instauração determinada por ato exclusivo do Comandante-Geral do CBMSC.",
- "B) É utilizado como peça inquisitorial restrita à apuração de crimes tipificados na legislação penal.",
- "C) Trata-se de procedimento sumário que não assegura ao voluntário o direito ao contraditório e ampla defesa.",
- "D) É o documento administrativo que formaliza a apuração de alterações negativas na conduta do voluntário."
- ],
- "respostaCorreta": 3,
- "justificativa": "O FAC consubstancia o instrumento adequado para documentar, apurar e julgar eventuais desvios de comportamento ou faltas éticas praticadas por voluntários, guardando estrita observância aos direitos fundamentais de defesa."
- }
- ]
- }
- ]
+  "disciplinas": [
+    {
+      "id": "chefia_lideranca",
+      "nome": "Chefia e Liderança",
+      "descricao": "Estudo focado nas diretrizes e manuais de liderança, chefia, ética militar, atributos e estilos de tomada de decisão.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "Segundo Peter Guy Northouse (2016), a liderança é definida como um processo pelo qual um indivíduo influencia um grupo de indivíduos para alcançar um objetivo comum. Com base nessa definição, quais são os quatro componentes centrais do fenômeno da liderança?",
+          "alternativas": [
+            "A) Autoridade legal, hierarquia militar, coerção punitiva e metas de curto prazo.",
+            "B) Traços de personalidade, carisma individual, poder de posição e obediência cega.",
+            "C) Processo contínuo, exercício de influência, grupo de indivíduos e objetivo comum.",
+            "D) Troca transacional, recompensas de desempenho, punição disciplinar e gestão técnica."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Northouse destaca que a liderança: 1) é um PROCESSO (não é um evento isolado ou traço estático), 2) envolve INFLUÊNCIA (como o líder afeta os liderados), 3) ocorre em um GRUPO de indivíduos e 4) é direcionada para um OBJETIVO COMUM. As demais opções focam em poder formal ou teorias ultrapassadas de traços."
+        },
+        {
+          "id": 2,
+          "enunciado": "A atividade de liderança está estreitamente relacionada com o uso do poder. De forma simplificada, o poder pode ser classificado em dois tipos básicos: o poder de posição e o poder pessoal. Qual é a diferença fundamental entre eles?",
+          "alternativas": [
+            "A) O poder de posição decorre da competência técnica e exemplo pessoal, enquanto o poder pessoal vem do cargo formal.",
+            "B) O poder de posição é obtido através do cargo na estrutura hierárquica formal, enquanto o poder pessoal é uma autoridade conquistada pelo exemplo, competência e respeito.",
+            "C) O poder pessoal gera submissão temporária obrigatória, enquanto o poder de posição gera comprometimento voluntário duradouro.",
+            "D) O poder de posição é ilimitado na administração pública, ao passo que o poder pessoal é restrito às relações informais."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O poder de posição é atribuído pela organização e depende da posição hierárquica do indivíduo (autoridade formal). O poder pessoal é conquistado e oferecido pelos liderados porque eles reconhecem valor, exemplo e competência no líder. A liderança autêntica se baseia fortemente no poder pessoal."
+        },
+        {
+          "id": 3,
+          "enunciado": "No contexto da caserna e da liderança militar, costuma-se diferenciar a figura do 'chefe' da figura do 'líder' com base no tipo de poder predominante que utilizam. Como essa distinção é caracterizada?",
+          "alternativas": [
+            "A) O chefe orienta e diz 'nós/vamos', enquanto o líder impõe ordens dizendo 'eu/vá' com base no cargo.",
+            "B) O líder depende puramente da coerção e punição, ao passo que o chefe estimula a cooperação espontânea.",
+            "C) O chefe usa do poder da posição para impor suas ordens dizendo 'eu/vá', enquanto o líder usa o poder pessoal e a autoridade conquistada para guiar o grupo dizendo 'nós/vamos'.",
+            "D) O chefe e o líder atuam exatamente da mesma forma, diferenciando-se apenas pela denominação do cargo."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A chefia militar baseia-se no poder de posição (autoridade formal, comando, imposição de diretrizes), enquanto a liderança militar baseia-se na influência pessoal e autoridade conquistada pelo exemplo (condução humana com base no 'nós/vamos')."
+        },
+        {
+          "id": 4,
+          "enunciado": "Gary Yukl (2013) aponta que o sucesso de uma tentativa de influência depende da resposta do liderado. Qual das seguintes alternativas descreve corretamente o resultado denominado 'Compromisso' (Commitment)?",
+          "alternativas": [
+            "A) O liderado concorda internamente com a solicitação do líder, demonstrando grande esforço pessoal, iniciativa, persistência e criatividade para alcançá-la.",
+            "B) O liderado realiza a tarefa de forma apática, com esforço mínimo, procrastinando sempre que possível.",
+            "C) O liderado se opõe ativamente à solicitação, fingindo obediência mas atrasando a entrega deliberadamente.",
+            "D) O liderado aceita a tarefa unicamente em troca de uma recompensa financeira ou folga prometida."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O compromisso ocorre quando o liderado se identifica com a meta e internaliza o objetivo, agindo com iniciativa, entusiasmo e persistência. É o resultado ideal da liderança autêntica."
+        },
+        {
+          "id": 5,
+          "enunciado": "Quando o liderado está disposto a realizar o trabalho solicitado pelo líder, mas demonstra apatia, realiza apenas o esforço mínimo necessário e não apresenta iniciativa ou entusiasmo, qual resultado do processo de influência está ocorrendo?",
+          "alternativas": [
+            "A) Resistência ativa.",
+            "B) Compromisso voluntário.",
+            "C) Liderança transformacional.",
+            "D) Conformidade (Compliance)."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A conformidade (ou submissão) ocorre quando o liderado realiza a tarefa por obrigação (poder de posição ou recompensa transacional), sem entusiasmo e fazendo apenas o mínimo necessário. Não há engajamento interno com a meta."
+        },
+        {
+          "id": 6,
+          "enunciado": "Um subordinado que se opõe a uma ordem, tenta convencer o líder a alterá-la, atrasa o trabalho intencionalmente ou finge concordar enquanto sabota o andamento da tarefa está manifestando qual resultado de influência?",
+          "alternativas": [
+            "A) Conformidade passiva.",
+            "B) Resistência (Resistance).",
+            "C) Compromisso insatisfeito.",
+            "D) Liderança liberal."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resistência é a oposição ativa ou passiva à tentativa de influência do líder. Manifesta-se por desculpas, atrasos intencionais, fingimentos e recusa de cooperação, sendo comum quando há abuso de poder coercitivo."
+        },
+        {
+          "id": 7,
+          "enunciado": "Diferentes táticas de persuasão são recomendadas dependendo da direção da influência (superiores, pares ou subordinados). Para influenciar um superior hierárquico, qual tática é a mais recomendada e como ela deve ser empregada?",
+          "alternativas": [
+            "A) Apelos emocionais, baseando a proposta puramente na intuição pessoal do liderado.",
+            "B) Pressão e coerção, estabelecendo prazos firmes e ameaças veladas de insubordinação.",
+            "C) Persuasão Racional, utilizando explicações lógicas, fatos claros e evidências factuais para provar que a solicitação é viável e relevante.",
+            "D) Lisonja e ingratiação, elogiando o superior excessivamente antes de fazer o pedido."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A persuasão racional (apelo lógico) é a tática mais eficaz para influenciar superiores, pois demonstra objetividade, viabilidade técnica e benefícios práticos da proposta com base em dados e argumentos estruturados."
+        },
+        {
+          "id": 8,
+          "enunciado": "Para influenciar colegas de trabalho (pares) que estão no mesmo nível hierárquico, recomenda-se o uso de apelos emocionais. Como essa tática de persuasão deve ser aplicada na prática?",
+          "alternativas": [
+            "A) Apresentando dados estatísticos frios e planilhas orçamentárias complexas.",
+            "B) Associando a proposta a ideais, crenças e valores comuns, descrevendo uma visão inspiradora do projeto com comunicação positiva e otimista.",
+            "C) Prometendo vantagens financeiras diretas ou transferências de responsabilidade.",
+            "D) Cobrando obediência com base no regulamento disciplinar militar."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Com os pares, o líder não tem poder de posição. Portanto, conectar o projeto a valores, visões de futuro estimulantes e ideais compartilhados (apelos emocionais) é a forma mais eficaz de motivar cooperação espontânea."
+        },
+        {
+          "id": 9,
+          "enunciado": "Ao tentar influenciar subordinados, o líder pode utilizar apelos colaborativos. Uma das táticas mais eficientes é a 'Consulta'. Em que consiste essa tática?",
+          "alternativas": [
+            "A) Em intimar o subordinado a decidir o rumo de toda a organização de forma isolada.",
+            "B) Em solicitar que a equipe sugira ideias e melhorias para o planejamento ou execução da tarefa, promovendo o comprometimento ativo.",
+            "C) Em interrogar os liderados para identificar falhas individuais do último expediente.",
+            "D) Em submeter todas as ordens de combate a uma votação democrática de maioria simples."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A consulta envolve ativamente o liderado no planejamento de uma tarefa. Quando as pessoas participam da elaboração do plano de ação, elas se sentem ouvidas, o que aumenta drasticamente o comprometimento com o resultado final."
+        },
+        {
+          "id": 10,
+          "enunciado": "A tática de persuasão denominada 'Colaboração' é um apelo colaborativo indicado para liderar subordinados. Ela é caracterizada na prática por:",
+          "alternativas": [
+            "A) Deixar o subordinado realizar a tarefa sozinho sem qualquer orientação ou recurso.",
+            "B) Oferecer suporte, recursos adicionais, assistência prática ou conhecimento técnico do próprio líder para ajudar o subordinado a executar a tarefa e superar barreiras.",
+            "C) Trocar favores pessoais fora da organização militar para garantir a obediência interna.",
+            "D) Exigir que o subordinado trabalhe além do expediente sem apoio institucional."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Na colaboração, o líder atua facilitando o trabalho do subordinado, provendo recursos, eliminando obstáculos e agindo como um facilitador. Isso gera confiança e demonstra apoio real da liderança."
+        },
+        {
+          "id": 11,
+          "enunciado": "Embora existam táticas ideais baseadas na cooperação, às vezes o líder militar precisa garantir a execução de prazos urgentes quando outras tentativas falharam. Qual tática descreve a cobrança insistente, lembretes frequentes e uso de exigências firmes?",
+          "alternativas": [
+            "A) Tática de Troca ou Permuta.",
+            "B) Tática de Pressão.",
+            "C) Tática de Ingraciação ou Lisonja.",
+            "D) Tática de Coalizão."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A tática de pressão utiliza cobranças firmes, lembretes constantes e exigências de cumprimento de prazos. Deve ser usada com cautela, pois o uso excessivo gera conformidade apática ou resistência no longo prazo."
+        },
+        {
+          "id": 12,
+          "enunciado": "Chester Barnard formulou a Teoria da Aceitação da Autoridade, essencial para entender a liderança ética. Segundo essa teoria, quais são as quatro condições simultâneas para que uma ordem de um líder seja aceita e executada pelo liderado?",
+          "alternativas": [
+            "A) O liderado deve receber gratificação, temer a punição, estar de folga e possuir estabilidade no cargo.",
+            "B) O liderado deve compreender a ordem, sentir-se capaz de cumpri-la, acreditar que ela atende aos interesses da organização e ver nela consistência com seus valores pessoais.",
+            "C) A ordem deve ser curta, escrita, publicada em Diário Oficial e conter punições explícitas.",
+            "D) O liderado deve ser mais antigo, ter curso de especialização, concordar com a ideologia do líder e receber diárias."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Barnard postulou que a autoridade reside no liderado aceitar ou não a ordem. Para que a aceite, a ordem deve passar por quatro filtros morais/cognitivos: compreensão, viabilidade pessoal, alinhamento organizacional e conformidade com valores pessoais."
+        },
+        {
+          "id": 13,
+          "enunciado": "De acordo com John R. Schermerhorn Jr. (2011), o empoderamento (empowerment) é um processo de descentralização do poder nas organizações. Qual princípio define a natureza do poder no empoderamento?",
+          "alternativas": [
+            "A) O poder é um jogo de soma zero: para que um subordinado ganhe poder, o líder precisa necessariamente perder autoridade.",
+            "B) O poder nas organizações de alta performance é concentrado exclusivamente no topo para evitar anarquia.",
+            "C) O poder não é uma soma zero. Quando o líder delega autoridade, informações e recursos, ele aumenta a capacidade de ação coletiva e gera comprometimento voluntário.",
+            "D) O empoderamento dispensa a responsabilidade final do comandante sobre as ações de sua equipe."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O empoderamento amplia o poder da organização como um todo. Delegar autoridade faz com que os subordinados ajam de forma autônoma e responsável, mas o comandante NUNCA delega sua responsabilidade final sobre o que acontece na unidade."
+        },
+        {
+          "id": 14,
+          "enunciado": "Emiliano Gómez (2008) argumenta que o líder militar reflete em seu trabalho o que ele é como indivíduo na vida privada. Qual é a principal consequência prática desse conceito para o desenvolvimento de liderança?",
+          "alternativas": [
+            "A) O líder deve focar apenas em aprender técnicas administrativas, pois sua vida privada não afeta o desempenho profissional.",
+            "B) O líder deve separar rigidamente sua conduta particular de suas atitudes de comando na unidade militar.",
+            "C) Para operar mudanças verdadeiras na organização, o líder deve primeiro iniciar mudando sua própria personalidade, conduta e atitudes individuais.",
+            "D) O caráter do líder é moldado exclusivamente pelo regulamento disciplinar, sem interferência de seus valores morais internos."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Como o líder reflete o que é como indivíduo, a liderança autêntica exige alinhamento ético e moral. A mudança organizacional começa pela autotransformação do próprio líder, tornando-o exemplo prático entre seu discurso e suas ações."
+        }
+      ]
+    },
+    {
+      "id": "procedimentos_apuratorios_adm",
+      "nome": "Procedimentos Apuratórios Administrativos",
+      "descricao": "Estudo das normas, ritos, prazos e formalidades para apuração de infrações e danos no âmbito da corporação.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "O Sd Pedro, vistoriador da SAT do 6º BBM (Chapecó), transitando pelo Centro da cidade verificou que seu celular estava recebendo uma chamada. O Sd Pedro resolveu atender o telefone ao mesmo tempo em que dirigia o veículo, e por descuido, deixou de observar que o sinal do cruzamento pelo qual passava estava fechado, vindo a cruzar o semáforo e colidir com outro veículo de propriedade particular. Do acidente resultou apenas danos materiais na viatura AAT-100 e no veículo particular. Diante desta situação, o procedimento a ser instaurado pelo Comandante da OBM para apurar as causas e responsabilidades pelos danos causados na Viatura AAT 100 será:",
+          "alternativas": [
+            "A) Inquérito Técnico.",
+            "B) Inquérito Policial Militar.",
+            "C) Sindicância.",
+            "D) Processo Administrativo Disciplinar."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O Inquérito Técnico é o procedimento administrativo especificamente voltado para apurar as causas, circunstâncias e responsabilidades em acidentes de trânsito envolvendo viaturas da corporação que resultem em danos materiais."
+        },
+        {
+          "id": 2,
+          "enunciado": "Para a avaliação dos danos, durante o Inquérito Técnico, o encarregado providenciará:",
+          "alternativas": [
+            "A) Um orçamento de uma oficina de sua confiança.",
+            "B) Uma verificação nos danos e ele mesmo, com base em seu conhecimento, avaliará o prejuízo.",
+            "C) Dois orçamentos em uma única oficina.",
+            "D) Três orçamentos de oficinas idôneas, datados e assinados."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "De acordo com as normas de regência do Inquérito Técnico, constitui dever formal do encarregado juntar no mínimo três orçamentos distintos emitidos por estabelecimentos idôneos, contendo data e assinatura dos responsáveis para a devida avaliação do dano patrimonial."
+        },
+        {
+          "id": 3,
+          "enunciado": "De acordo com o Manual do Inquérito Técnico do CBMSC, o Encarregado do IT deverá sempre ser Oficial, entretanto, não havendo Oficial na OBM, a autoridade com competência para mandar instaurar poderá, excepcionalmente, delegar:",
+          "alternativas": [
+            "A) A um Oficial de outro Batalhão do CBMSC.",
+            "B) Ao condutor da viatura sinistrada.",
+            "C) A um Subtenente BM.",
+            "D) A um Sargento BM."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A normativa prevê expressamente que, na ausência ou impossibilidade de designação de um Oficial na própria Organização de Bombeiro Militar (OBM), a autoridade pode, excepcionalmente, delegar as funções de encarregado a um Subtenente BM."
+        },
+        {
+          "id": 4,
+          "enunciado": "O Inquérito Policial Militar (IPM) é a apuração de fato que, nos termos da lei, constitui:",
+          "alternativas": [
+            "A) Crime comum.",
+            "B) Crime militar.",
+            "C) Ilícito administrativo.",
+            "D) Transgressão disciplinar."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O Inquérito Policial Militar (IPM) destina-se exclusivamente a apurar fatos que configurem, em tese, infrações tipificadas na legislação penal militar (crimes militares), servindo de base para a respectiva ação penal."
+        },
+        {
+          "id": 5,
+          "enunciado": "São características fundamentais do Inquérito Policial Militar (IPM):",
+          "alternativas": [
+            "A) Judicial, informal, sigiloso e transparente.",
+            "B) Administrativo, formal, sigiloso e inquisitivo.",
+            "C) Judicial, formal, público e inquisitivo.",
+            "D) Administrativo, informal, público e transparente."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O IPM possui natureza jurídica de procedimento administrativo pré-processual, caracterizando-se por ser formal (reduzido a escrito), sigiloso (para garantir a elucidação dos fatos) e inquisitivo (conduzido de ofício pela autoridade administrativa)."
+        },
+        {
+          "id": 6,
+          "enunciado": "Na coleta do depoimento do bombeiro militar indiciado em um IPM, qual regra deve ser obrigatoriamente observada pelo encarregado?",
+          "alternativas": [
+            "A) O bombeiro militar indiciado deverá prestar o compromisso legal em dizer a verdade sobre o que souber e lhe for perguntado.",
+            "B) O indiciado não é obrigado a responder às perguntas que lhe forem feitas, podendo permanecer em silêncio, assim como não presta compromisso legal de dizer a verdade.",
+            "C) Caso o indiciado falte com a verdade no interrogatório, ele deverá responder pelo crime de falso testemunho.",
+            "D) O indiciado poderá permanecer calado, entretanto, deverá ser informado de que o seu silêncio implicará na concordância das acusações."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Em obediência às garantias constitucionais da ampla defesa e do privilégio contra a autoincriminação, o indiciado resguarda o direito ao silêncio, não sendo obrigado a responder às perguntas nem sujeito ao compromisso legal de dizer a verdade."
+        },
+        {
+          "id": 7,
+          "enunciado": "Na Justiça Militar, o autor da Ação Penal Militar a ser instaurada em desfavor de bombeiros militares de Santa Catarina é:",
+          "alternativas": [
+            "A) O Corregedor-Geral do CBMSC.",
+            "B) O Juiz da Vara da Justiça Militar.",
+            "C) O Comandante-Geral do CBMSC.",
+            "D) O Promotor do Ministério Público Militar."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A titularidade da Ação Penal Militar pública na esfera da Justiça Militar é privativa do Promotor de Justiça do Ministério Público, que atua com base nos elementos de prova colhidos no IPM."
+        },
+        {
+          "id": 8,
+          "enunciado": "Concluído o IPM e não tendo sido constatados indícios de crime militar, o processo deverá:",
+          "alternativas": [
+            "A) Ser arquivado na OBM onde foi instaurado.",
+            "B) Ser remetido ao Ministério Público pelo Comandante do Batalhão.",
+            "C) Ser remetido à Vara da Justiça Militar pela Corregedoria-Geral do CBMSC.",
+            "D) Ser arquivado na Corregedoria-Geral do CBMSC."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Ainda que o relatório do encarregado conclua pela inexistência de infração penal militar, os autos devem ser encaminhados obrigatoriamente à Vara da Justiça Militar por intermédio da Corregedoria-Geral para a devida manifestação do Ministério Público e controle judicial."
+        },
+        {
+          "id": 9,
+          "enunciado": "Se o bombeiro militar indiciado estiver preso, qual o prazo legal estabelecido para a conclusão do Inquérito Policial Militar (IPM)?",
+          "alternativas": [
+            "A) 30 dias, podendo ser prorrogado por até mais 30 dias.",
+            "B) 20 dias, podendo ser prorrogado por até mais 20 dias.",
+            "C) 40 dias, sem possibilidade de prorrogação.",
+            "D) 20 dias, contados a partir da data em que se efetivou a prisão."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "O prazo para o encerramento do IPM na hipótese de indiciado sob custódia/preso é peremptório de 20 dias, contados de forma contínua a partir do dia em que foi executada a ordem de prisão."
+        },
+        {
+          "id": 10,
+          "enunciado": "O Processo Administrativo Disciplinar (PAD) no âmbito do CBMSC é expressamente instaurado para apurar fato que constitua, em tese:",
+          "alternativas": [
+            "A) Contravenção penal.",
+            "B) Transgressão disciplinar.",
+            "C) Crime comum.",
+            "D) Crime militar."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O PAD é o instrumento jurídico decorrente do exercício do poder disciplinar da Administração, vocacionado especificamente a apurar a materialidade e autoria de faltas de natureza estritamente funcional (transgressões disciplinares)."
+        },
+        {
+          "id": 11,
+          "enunciado": "Assinale a alternativa que descreve a sequência cronológica e formal correta das fases do Processo Administrativo Disciplinar (PAD) conforme o rito unificado do CBMSC:",
+          "alternativas": [
+            "A) Instauração, defesa prévia, instrução, alegações finais, relatório circunstanciado da autoridade processante, decisão e recursos.",
+            "B) Relatório circunstanciado, decisão, recursos, defesa prévia, instrução, alegações finais, instauração.",
+            "C) Alegações finais, decisão, instauração, defesa prévia, instrução, relatório e recursos.",
+            "D) Recursos, alegações finais, defesa prévia, instrução, relatório, decisão e instauração."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O rito legal do PAD obedece a uma ordem lógica para preservar o devido processo: inicia com a Portaria de Instauração, abre prazo para Defesa Prévia, realiza a Instrução Probatória, oportuniza as Alegações Finais, emite o Relatório, segue para Decisão da autoridade e encerra com a fase recursal."
+        },
+        {
+          "id": 12,
+          "enunciado": "Nos termos do Regulamento do Processo Administrativo Disciplinar (R-PAD), qual o prazo padrão para conclusão do processo e qual o seu limite crítico de prorrogação acumulada?",
+          "alternativas": [
+            "A) 30 dias, prorrogável até 60 dias.",
+            "B) 45 dias, podendo ser prorrogado em caráter excepcional por até 120 dias no total.",
+            "C) 30 dias, prorrogável até 90 dias.",
+            "D) 60 dias, sem possibilidade de prorrogação."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O R-PAD estipula o prazo regular de 45 dias para o encerramento das atividades correlatas ao processo. Em situações de alta complexidade, a autoridade delegante pode autorizar prorrogações, desde que o cômputo global não exceda o limite de 120 dias."
+        },
+        {
+          "id": 13,
+          "enunciado": "Quais são as três espécies de recursos administrativos regularmente previstos no Regulamento Disciplinar cabíveis em decorrência de penalidades ou atos praticados no PAD?",
+          "alternativas": [
+            "A) Alegações, agravo e queixa.",
+            "B) Reconsideração, apelação e reclamação.",
+            "C) Pedido de reconsideração de ato, queixa e representação.",
+            "D) Contestação, apelação e embargos."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O militar estadual que sofrer sanção disciplinar ou se julgar prejudicado dispõe estritamente dos seguintes instrumentos recursais administrativos: Pedido de Reconsideração de Ato, Queixa e Representação."
+        },
+        {
+          "id": 14,
+          "enunciado": "O Regulamento do Processo Administrativo Disciplinar instituído pela Portaria nº 536/2021 (R-PAD) aplica-se expressamente a qual grupo de destinatários?",
+          "alternativas": [
+            "A) Aos bombeiros comunitários e guarda-vidas civis voluntários do CBMSC.",
+            "B) Aos bombeiros civis profissionais.",
+            "C) Aos servidores civis terceirizados que atuam nas Organizações de Bombeiro Militar.",
+            "D) Os bombeiros militares da ativa, da reserva ou os reformados, bem como aos alunos em curso de formação."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "O R-PAD submete à sua jurisdição correcional todos os integrantes da carreira militar estadual da corporação, englobando o pessoal do serviço ativo, inativos (reserva/reformados) e indivíduos matriculados em cursos de formação."
+        },
+        {
+          "id": 15,
+          "enunciado": "O Código de Conduta e Disciplina do Serviço Voluntário do CBMSC (Portaria nº 379/2025) possui aplicação jurídica estendida a quais categorias?",
+          "alternativas": [
+            "A) Aos militares estaduais da ativa e da reserva remunerada.",
+            "B) Apenas aos Bombeiros Comunitários e Guarda-Vidas Civis Voluntários.",
+            "C) Aos Bombeiros Comunitários, Guarda-Vidas Civis Voluntários, alunos em formação e demais vínculos voluntários, bem como aos Bombeiros Civis.",
+            "D) Somente aos voluntários que desempenham diretamente atividades de cunho operacional."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O diploma regulamentar do serviço voluntário disciplina a conduta dos Bombeiros Comunitários, Guarda-Vidas Civis Voluntários, estudantes nas escolas de formação comunitária e abrange também os Bombeiros Civis vinculados à instituição."
+        },
+        {
+          "id": 16,
+          "enunciado": "No âmbito do processamento de faltas éticas de voluntários, qual é a sequência cronológica correta das fases que compõem o rito do Formulário de Apuração de Conduta (FAC)?",
+          "alternativas": [
+            "A) Comunicação, apuração, defesa, decisão e recurso.",
+            "B) Apuração, comunicação, decisão, defesa e recurso.",
+            "C) Comunicação, defesa, decisão, recurso e apuração.",
+            "D) Comunicação, defesa, apuração, recurso e decisão."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O trâmite administrativo do FAC inaugura-se com a Comunicação formal da alteração, seguida da instrução/Apuração preliminar, concessão de prazo de Defesa (contraditório), prolação da Decisão do comandante e oportunidade de Recurso."
+        },
+        {
+          "id": 17,
+          "enunciado": "Qual das seguintes opções constitui um dos padrões de conduta e serviço expressamente exigidos de todos os voluntários vinculados à estrutura do CBMSC?",
+          "alternativas": [
+            "A) Autonomia para gerir e definir seus próprios horários e escalas de serviço de forma unilateral.",
+            "B) Utilização de viaturas e equipamentos institucionais para fins particulares quando demonstrada necessidade.",
+            "C) Liberdade para se eximir do cumprimento de ordens emanadas que julgar inconvenientes.",
+            "D) Observância estrita às leis, regulamentos e normas internas da Corporação."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "O pilar do serviço comunitário repousa na disciplina, impondo-se ao voluntário o dever irrenunciável de respeitar e observar fielmente as diretrizes e regulamentos administrativos fixados pela corporação."
+        },
+        {
+          "id": 18,
+          "enunciado": "Sobre a natureza jurídica e finalidade do Formulário de Apuração de Conduta (FAC), assinale a alternativa correta:",
+          "alternativas": [
+            "A) Somente pode ter sua instauração determinada por ato exclusivo do Comandante-Geral do CBMSC.",
+            "B) É utilizado como peça inquisitorial restrita à apuração de crimes tipificados na legislação penal.",
+            "C) Trata-se de procedimento sumário que não assegura ao voluntário o direito ao contraditório e ampla defesa.",
+            "D) É o documento administrativo que formaliza a apuração de alterações negativas na conduta do voluntário."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "O FAC consubstancia o instrumento adequado para documentar, apurar e julgar eventuais desvios de comportamento ou faltas éticas praticadas por voluntários, guardando estrita observância aos direitos fundamentais de defesa."
+        }
+      ]
+    }
+  ]
 }
