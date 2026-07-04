@@ -397,6 +397,254 @@
           "justificativa": "O FAC consubstancia o instrumento adequado para documentar, apurar e julgar eventuais desvios de comportamento ou faltas éticas praticadas por voluntários, guardando estrita observância aos direitos fundamentais de defesa."
         }
       ]
+    },
+    {
+      "id": "direito_militar",
+      "nome": "Direito Militar",
+      "descricao": "Estudo das normas constitucionais, responsabilidade civil do Estado, crimes militares e poder de polícia aplicados à corporação.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "Com base no artigo 144 da Constituição Federal de 1988, que trata da segurança pública, assinale a alternativa correta quanto às atribuições dos órgãos que a compõem:",
+          "alternativas": [
+            "A) Às polícias penais cabe a investigação criminal no âmbito das unidades prisionais federais, estaduais e distritais, em parceria com o Ministério Público.",
+            "B) Às polícias civis incumbe a execução de atividades de defesa civil e a preservação da ordem pública nos Estados e no Distrito Federal.",
+            "C) Aos corpos de bombeiros militares incumbe, além das atribuições definidas em lei, a execução de atividades de defesa civil.",
+            "D) Às polícias federais cabe a função de policiamento ostensivo nas ruas e praças públicas dos municípios, atuando como força auxiliar da União."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Aos corpos de bombeiros militares incumbe, além das atribuições definidas em lei, a execução de atividades de defesa civil.."
+        },
+        {
+          "id": 2,
+          "enunciado": "A responsabilidade civil objetiva do Estado é caracterizada por:",
+          "alternativas": [
+            "A) Ser aplicável apenas nos casos em que o agente público agiu com dolo.",
+            "B) Exigir apenas a comprovação do ato/dano e do nexo de causalidade, independentemente de culpa.",
+            "C) Exigir comprovação da culpa do agente público para reparação do dano.",
+            "D) Ser uma teoria ultrapassada, substituída pela responsabilidade subjetiva no Brasil."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Exigir apenas a comprovação do ato/dano e do nexo de causalidade, independentemente de culpa.."
+        },
+        {
+          "id": 3,
+          "enunciado": "Durante o atendimento a uma ocorrência de acidente de trânsito, o 1º Sgt BM Matos, chefe de socorro do dia, foi procurado por um dos motoristas envolvidos, que lhe ofereceu uma quantia em dinheiro para que não fosse informado à autoridade policial o fato de que ele estava dirigindo com a habilitação vencida. O sargento, então, aceitou o valor e deixou de relatar a situação. A conduta do bombeiro militar caracteriza, em tese, o crime de:",
+          "alternativas": [
+            "A) Corrupção ativa, pois foi o motorista quem ofereceu a vantagem indevida.",
+            "B) Corrupção passiva, pois recebeu vantagem indevida para deixar de praticar ato de ofício.",
+            "C) Concussão, pois ele exigiu vantagem indevida em razão da função.",
+            "D) Peculato, pois deixou de cumprir seu dever por sentimento pessoal."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Corrupção passiva, pois recebeu vantagem indevida para deixar de praticar ato de ofício.."
+        },
+        {
+          "id": 4,
+          "enunciado": "A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos:",
+          "alternativas": [
+            "A) Polícia federal; Polícia rodoviária federal; Polícia marítima federal; Polícias civis; Polícias militares e Corpos de bombeiros militares e comunitários. Polícia federal; Polícia rodoviária federal; Polícia ferroviária federal; Polícias",
+            "B) civis; Polícias militares e Corpos de bombeiros militares; polícias penais federal, estaduais e distrital.",
+            "C) Polícia federal; Polícia ferroviária federal; Polícia marítima federal; Polícias civis; Polícias militares e Corpos de bombeiros militares e comunitários.",
+            "D) Polícia federal; Polícia portuária federal; Polícia marítima federal; Polícias civis; Polícias militares e Corpos de bombeiros militares."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Polícia federal; Polícia rodoviária federal; Polícia ferroviária federal; Polícias civis; Polícias militares e Corpos de bombeiros militares; polícias penais federal, estaduais e distrital.."
+        },
+        {
+          "id": 5,
+          "enunciado": "Nos termos do material de estudos, assinale a alternativa correta no que tange o direito de recusa de atendimento por parte da vítima: O Bombeiro Militar deverá, nos casos em que a vítima recusar atendimento, mas que pelas circunstâncias avaliadas no caso existir iminente perigo de vida à",
+          "alternativas": [
+            "A) vítima, realizar o atendimento e conduzi-la ao hospital independente de sua vontade.",
+            "B) O Bombeiro Militar deverá realizar o atendimento compulsoriamente, salvo se a vítima não tiver condições de entender a gravidade da situação.",
+            "C) O Bombeiro Militar deverá obrigar o cidadão a receber o devido atendimento, independente de sua vontade. O Bombeiro Militar deverá, diante da recusa de atendimento, comunicar seu superior",
+            "D) imediato, para que este avalie a necessidade de atendimento ou não, independente da vontade da vítima."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "A resposta correta é a alternativa correspondente a: O Bombeiro Militar deverá, nos casos em que a vítima recusar atendimento, mas que pelas circunstâncias avaliadas no caso existir iminente perigo de vida à vítima, realizar o atendimento e conduzi-la ao hospital independente de sua vontade.."
+        },
+        {
+          "id": 6,
+          "enunciado": "Nos termos do material didático apresentado no Curso de Aperfeiçoamento de Praças 2025, a entidade da Administração Pública Indireta que se caracteriza em pessoa jurídica de direito privado, com participação do Poder Público e de particulares no seu capital (capital misto) e na sua administração é uma:",
+          "alternativas": [
+            "A) Empresa Pública.",
+            "B) Sociedade de Economia Mista.",
+            "C) Fundação Pública.",
+            "D) Autarquia."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Sociedade de Economia Mista.."
+        },
+        {
+          "id": 7,
+          "enunciado": "Considerando a Constituição do Estado de Santa Catarina, são atribuições do Corpo de Bombeiros Militar, entre outras:",
+          "alternativas": [
+            "A) Apenas os itens III e IV estão certos.",
+            "B) Apenas os itens I, III e IV estão certos.",
+            "C) Apenas os itens II e IV estão certos.",
+            "D) Apenas os itens II, III e IV estão certos."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Apenas os itens III e IV estão certos.."
+        },
+        {
+          "id": 8,
+          "enunciado": "No contexto da atuação estatal, as funções de polícia administrativa e polícia judiciária possuem finalidades distintas, ainda que ambas estejam relacionadas à segurança e à ordem pública. Sobre a diferença entre essas duas formas de atuação, assinale a alternativa correta:",
+          "alternativas": [
+            "A) A polícia administrativa atua somente após a prática de um crime, enquanto a polícia judiciária atua preventivamente para evitar infrações.",
+            "B) Ambas são formas de polícia judiciária, sendo a única diferença o fato de uma ser militar e a outra, civil.",
+            "C) A polícia administrativa possui função preponderante repressiva, enquanto a polícia judiciária tem caráter exclusivamente fiscalizatório. A polícia administrativa possui caráter preponderantemente preventivo e atua antes da ocorrência de ilícitos, enquanto a polícia judiciária tem função",
+            "D) preponderantemente repressiva, agindo após o crime para apuração de autoria e materialidade."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A resposta correta é a alternativa correspondente a: A polícia administrativa possui caráter preponderantemente preventivo e atua antes da ocorrência de ilícitos, enquanto a polícia judiciária tem função preponderantemente repressiva, agindo após o crime para apuração de autoria e materialidade.."
+        },
+        {
+          "id": 9,
+          "enunciado": "Sobre a responsabilidade civil do Estado, assinale a alternativa correta: I - São excludentes da responsabilidade civil o caso fortuito e a força maior, a culpa exclusiva da vítima e o fato/culpa de terceiro. II - As pessoas jurídicas de direito público e as de direito privado prestadoras de serviço público responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros. III - É assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.",
+          "alternativas": [
+            "A) Apenas as assertivas I e III estão corretas.",
+            "B) Todas as alternativas estão corretas.",
+            "C) Apenas as assertivas I e II estão corretas.",
+            "D) Apenas a assertivas II e III estão corretas."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Todas as alternativas estão corretas.."
+        },
+        {
+          "id": 10,
+          "enunciado": "Analise o texto: “A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através da Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, Polícias Civis, Polícias Militares, Corpos de Bombeiros Militares e Polícias Penais Federal, Estaduais e Distrital. O texto está:",
+          "alternativas": [
+            "A) Parcialmente correto, porque os corpos de bombeiros militares não integram o sistema de segurança pública.",
+            "B) Totalmente correto.",
+            "C) Parcialmente correto, porque a segurança pública não deve ser exercida para a preservação do patrimônio.",
+            "D) Parcialmente correto, porque a segurança pública é responsabilidade apenas do Estado."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Totalmente correto.."
+        },
+        {
+          "id": 11,
+          "enunciado": "Na esfera pública, a atividade administrativa é regida por princípios básicos. Assinale a alternativa correspondente ao princípio que exige que os agentes públicos desempenhem suas atividades com agilidade, economia, mantendo ou melhorando a qualidade dos serviços.",
+          "alternativas": [
+            "A) Pessoalidade.",
+            "B) Publicidade.",
+            "C) Praticabilidade.",
+            "D) Eficiência."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Eficiência.."
+        },
+        {
+          "id": 12,
+          "enunciado": "São entidades da Administração Indireta, exceto:",
+          "alternativas": [
+            "A) Autarquia.",
+            "B) Sociedade de Economia Mista.",
+            "C) Secretarias de Estado.",
+            "D) Fundação Pública."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Secretarias de Estado.."
+        },
+        {
+          "id": 13,
+          "enunciado": "De acordo com o conteúdo apresentado, Poder de Polícia Administrativa é:",
+          "alternativas": [
+            "A) A Polícia Administrativa tem caráter exclusivamente preventivo e submete-se às regras e princípios de Direito Administrativo. Atividade exclusivamente do Poder Legislativo, baseada na lei e na supremacia geral, consistente no estabelecimento de limitações à liberdade e à propriedade dos",
+            "B) particulares, regulando a prática de ato ou a abstenção de fato, manifestando-se por meio de atos normativos ou concretos, em benefício do interesse público. Atividade da Administração Pública, baseada na lei e na supremacia geral, consistente no estabelecimento de limitações à liberdade e à propriedade dos",
+            "C) particulares, regulando a prática de ato ou a abstenção de fato, manifestandose por meio de atos normativos ou concretos, em benefício do interesse público.",
+            "D) A Polícia Administrativa tem caráter predominantemente repressivo e submete-se às regras e princípios do Direito Processual Penal."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Atividade da Administração Pública, baseada na lei e na supremacia geral, consistente no estabelecimento de limitações à liberdade e à propriedade dos particulares, regulando a prática de ato ou a abstenção de fato, manifestando-se por meio de atos normativos ou concretos, em benefício do interesse público.."
+        },
+        {
+          "id": 14,
+          "enunciado": "São consequências penais aos agentes públicos que cometerem crimes, exceto:",
+          "alternativas": [
+            "A) Declaração de indignidade ou de incompatibilidade para o oficialato.",
+            "B) Aposentadoria compulsória.",
+            "C) Exclusão a bem da disciplina.",
+            "D) Licenciamento a bem da disciplina."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Aposentadoria compulsória.."
+        },
+        {
+          "id": 15,
+          "enunciado": "Nos termos do artigo 37 da Constituição Federal, a administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de:",
+          "alternativas": [
+            "A) Disciplina, segurança, supremacia, eficiência e hierarquia.",
+            "B) Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+            "C) Autonomia, legalidade, liberdade, supremacia e publicidade.",
+            "D) Igualdade, supremacia, eficiência, equidade e hierarquia."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Legalidade, impessoalidade, moralidade, publicidade e eficiência.."
+        },
+        {
+          "id": 16,
+          "enunciado": "Considerando que o Estado tenha sido condenado, com sentença transitada em julgado, a indenizar cidadão por ato cometido por seu agente público durante ato de serviço. Nesse caso, considerando o dolo ou culpa do agente o Estado:",
+          "alternativas": [
+            "A) Não poderá ingressar com ação regressiva contra o agente, pois não há previsão legal para esse procedimento.",
+            "B) Poderá ingressar com ação popular contra o agente.",
+            "C) Não poderá ingressar com ação regressiva contra o agente, em razão do trânsito em julgado da sentença.",
+            "D) Poderá ingressar com ação regressiva contra o agente público."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Poderá ingressar com ação regressiva contra o agente público.."
+        },
+        {
+          "id": 17,
+          "enunciado": "A Administração Pública é dotada de uma série de poderes, que são colocados em prática no desempenho de sua atividade. A atuação de Autoridade Bombeiro Militar ao aplicar uma penalidade de INTERDIÇÃO em estabelecimento comercial em razão de grave risco a coletividade representa exercício do poder:",
+          "alternativas": [
+            "A) Hierárquico.",
+            "B) Discricionário",
+            "C) De Polícia.",
+            "D) Disciplinar.",
+            "E) Regulamentar."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A resposta correta é a alternativa correspondente a: De Polícia.."
+        },
+        {
+          "id": 18,
+          "enunciado": "De acordo com o material de estudos, a Administração Pública se organiza em:",
+          "alternativas": [
+            "A) Direta e indireta.",
+            "B) Pública e mista.",
+            "C) Direta e mista.",
+            "D) Pública e governamental."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Direta e indireta.."
+        },
+        {
+          "id": 19,
+          "enunciado": "Sobre as ordem jurídica brasileira, assinale a alternativa incorreta:",
+          "alternativas": [
+            "A) Lei Ordinária é a espécie normativa mais comum prevista na Constituição Federal e que edita normas de forma geral e abstrata. Decreto Legislativo é o instrumento utilizado para regular matérias de competência exclusiva do Congresso Nacional, tais como: ratificar atos internacionais, sustar atos",
+            "B) normativos do Presidente da República, julgar anualmente as contas prestadas pelo Chefe do Governo, autorizar o Presidente da República e o Vice-Presidente a se ausentar do país por mais de 15 dias, etc. As emendas constitucionais são destinadas a alteração do texto constitucional,",
+            "C) podendo versar sobre cláusulas pétreas, a exemplo do voto direto, secreto, universal e periódico, da separação de poderes.",
+            "D) Medida Provisória é o instrumento com força de lei, adotado pelo Presidente da República, em casos de relevância e urgência."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A resposta correta é a alternativa correspondente a: As emendas constitucionais são destinadas a alteração do texto constitucional, podendo versar sobre cláusulas pétreas, a exemplo do voto direto, secreto, universal e periódico, da separação de poderes.."
+        },
+        {
+          "id": 20,
+          "enunciado": "Suponha que o 3º Sargento Motino, o Cabo Pondero, o Soldado Bravo 1º Tenente Revolto reuniram-se de maneira deliberada para agir contra a ordem recebida de superior hierárquico. Neste caso, é correto afirmar que:",
+          "alternativas": [
+            "A) Não há crime, pois a liberdade de consciência é direito fundamental. Os militares praticaram o crime de revolta, salvo se praticarem o ato armados – ocasião em que se configura o crime de motim. Neste caso, ainda, deve o Soldado",
+            "B) Bravo responder por causa de aumento de pena, na medida em que é considerado cabeça do delito. Os militares praticaram o crime de motim ainda que tenha praticado o ato armados,",
+            "C) respondendo o Oficial ainda por causa de aumento de pena, na medida em que é considerado cabeça do delito. Os militares praticaram o crime de motim, salvo se praticarem o ato armados – ocasião em que se configura o crime de revolta. Neste caso, ainda, deve o",
+            "D) Oficial responder por causa de aumento de pena, na medida em que é considerado cabeça do delito."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A resposta correta é a alternativa correspondente a: Os militares praticaram o crime de motim, salvo se praticarem o ato armados – ocasião em que se configura o crime de revolta. Neste caso, ainda, deve o Oficial responder por causa de aumento de pena, na medida em que é considerado cabeça do delito. Terminar revisão."
+        }
+      ]
     }
   ]
 }
