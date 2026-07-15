@@ -1852,6 +1852,698 @@
           "justificativa": "O crime militar é aquele **definido em lei como tal** (art. 9º do CPM) e que atinge interesses específicos da atividade militar — hierarquia, disciplina, dever militar, autoridade militar e serviço militar — além de eventuais bens jurídicos comuns também afetados."
         }
       ]
+    },
+    {
+      "id": "organizacao_administracao_obm",
+      "nome": "Organização e Administração de OBM",
+      "descricao": "Estudo das funções administrativas, orçamento público, logística, contratos, convênios, licitações, improbidade administrativa e planejamento governamental no âmbito do CBMSC.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "Em relação às funções de Subtenentes e Sargentos, é correto afirmar",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Auxiliam e complementam as atividades dos oficiais, quer no adestramento e no emprego dos meios, quer na instrução e na administração da OBM/OPM, bem como são ainda empregados na execução de serviços operacionais afetos à Policia Militar e ao Corpo de Bombeiros Militar.",
+            "B) São preparados, ao longo da carreira, para o exercício do comando, da chefia e de direção das organizações militares.",
+            "C) São essencialmente elementos de execução.",
+            "D) Dentro da hierarquia das decisões, podemos dizer que as principais decisões que toma no desempenho de suas missões, são as decisões operacionais (ou técnicas)."
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Auxiliam e complementam as atividades dos oficiais, quer no adestramento e no emprego dos meios, quer na instrução e na administração da OBM/OPM, bem como são ainda empregados na execução de serviços operacionais afetos à Policia Militar e ao Corpo de Bombeiros Militar.."
+        },
+        {
+          "id": 2,
+          "enunciado": "As taxas referentes aos órgãos da Secretaria de Estado da Segurança Pública (SSP) são recolhidas em uma conta única. Do montante arrecadado, qual a porcentagem que é destinada ao Fundo de Melhoria do Corpo de Bombeiros Militar (FUMCBM), que é o fundo que praticamente mantém toda a estrutura do CBMSC, conforme prevê o art. 3º da Lei nº 7.541, de 30 de dezembro de 1988, (Lei de taxas estaduais)?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) 7%",
+            "B) 10%",
+            "C) 5%",
+            "D) 14%"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: 7%."
+        },
+        {
+          "id": 3,
+          "enunciado": "Em relação ao conteúdo de orçamento público, classifique cada uma das afirmativas abaixo como verdadeiras (V) ou falsas",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Em relação ao orçamento público, diz-se que, quanto à “arrecadação”, há uma “previsão”",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Em relação ao orçamento público, diz-se que, quanto à “despesa pública”, o que ocorre é uma “fixação da despesa”",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Orçamento público nada mais é que a consubstanciação em lei que, entre outros aspectos, exprime em termos financeiros a alocação de recursos públicos",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Despesa corrente é a despesa que resulta no acréscimo do patrimônio do órgão ou entidade que a realiza, aumentando, dessa forma, sua riqueza patrimonial. Esta despesa é também chamada de investimento",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Despesa de capital é a despesa que não produz acréscimo patrimonial, respondendo assim pela manutenção das atividades de cada órgão ou entidade. Esta despesa é também chamada de custeio",
+              "respostaCorreta": "Falso"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "A classificação correta das assertivas é:\n• Em relação ao orçamento público, diz-se que, quanto à “arrecadação”, há uma “previsão”: Verdadeiro\n• Em relação ao orçamento público, diz-se que, quanto à “despesa pública”, o que ocorre é uma “fixação da despesa”: Verdadeiro\n• Orçamento público nada mais é que a consubstanciação em lei que, entre outros aspectos, exprime em termos financeiros a alocação de recursos públicos: Verdadeiro\n• Despesa corrente é a despesa que resulta no acréscimo do patrimônio do órgão ou entidade que a realiza, aumentando, dessa forma, sua riqueza patrimonial. Esta despesa é também chamada de investimento: Falso\n• Despesa de capital é a despesa que não produz acréscimo patrimonial, respondendo assim pela manutenção das atividades de cada órgão ou entidade. Esta despesa é também chamada de custeio: Falso"
+        },
+        {
+          "id": 4,
+          "enunciado": "Assinale a alternativa que apresenta corretamente os 7 (sete) elementos de uma boa comunicação, conforme o método 5W2H",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) “O quê?”, “Quem?”, “Onde?”, “Quando?”, “Por quê?”, “Como?” e “Quanto?”",
+            "B) “Qual?”, “De que forma?”, “Onde?”, “Quando?”, “Por quê?”, “Como?” e “Quanto?”",
+            "C) “O quê?”, “De quem?”, “Para quem?”, Onde?”, “Por quê?”, “Como?” e “Quanto?”",
+            "D) “O quê?”, “Quem?”, “De que forma?”, “Quando?”, “Qual”, “Como?” e “Quanto?”",
+            "E) “O quê?”, “De quem?”, “Para quem?”, “Quando?”, “Qual”, “Como?” e “Quanto?”"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: “O quê?”, “Quem?”, “Onde?”, “Quando?”, “Por quê?”, “Como?” e “Quanto?”."
+        },
+        {
+          "id": 5,
+          "enunciado": "Dentre os conceitos apresentados de Administração, marque a alternativa que apresenta o conceito correto",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Conjunto de elementos interconectados, de modo a formar um todo relativamente organizado, a fim de atingir um ou mais objetivos.",
+            "B) Arte de liderar pessoas e gerenciar recursos (tecnológicos, materiais, físicos, financeiros, entre outros), visando a busca de resultados superiores para a organização.",
+            "C) Arte de gerenciar administrativamente uma OBM, podendo realizar tudo o que a lei não proíbe.",
+            "D) Conjunto sequencial e peculiar de ações que visam atingir um ou mais objetivos."
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Arte de liderar pessoas e gerenciar recursos (tecnológicos, materiais, físicos, financeiros, entre outros), visando a busca de resultados superiores para a organização.."
+        },
+        {
+          "id": 6,
+          "enunciado": "“É a área da gestão responsável por prover recursos, equipamentos e informações para a execução de todas as atividades de uma empresa”. Estamos falando de",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Logística",
+            "B) Orçamento",
+            "C) Finanças",
+            "D) Administração"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Logística."
+        },
+        {
+          "id": 7,
+          "enunciado": "Assinale a alternativa que apresenta as quatro principais funções administrativas da organização",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Planejamento, organização, direção e controle",
+            "B) Planejamento, execução, controle e direção",
+            "C) Organização, controle, avaliação e revisão",
+            "D) Definição, execução, avaliação e implementação"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Planejamento, organização, direção e controle."
+        },
+        {
+          "id": 8,
+          "enunciado": "“Visam identificar os meios de colocar em prática as decisões estratégicas (envolve os que estão no meio da estrutura hierárquica - no mundo civil são os gerentes médios)”. Este conceito se refere a qual tipo de decisões",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Decisões estratégicas",
+            "B) Decisões táticas (ou administrativas)",
+            "C) Decisões operacionais (ou táticas)",
+            "D) Decisões relativas"
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Decisões táticas (ou administrativas)."
+        },
+        {
+          "id": 9,
+          "enunciado": "O contrato e o convênio têm pontos em comum, mas também divergentes entre si. Convênio e contrato são acordos, mas possuem características próprias. Nos ___________, os interesses das partes são divergentes e opostos. Nos __________, os interesses são comuns e coincidentes, entre os partícipes. Nos ___________, os signatários do documento, denominados partícipes, associam-se, para a execução de um objeto. O ____________ distingue-se pela presença de duas ou mais partes, pretendendo uma delas o objeto e a outra parte, a contraprestação respectiva. No __________ entre partícipes, as pretensões são sempre as mesmas, variando apenas a cooperação entre si. Assinale a alternativa que completa as lacunas em branco",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) contratos – convênios – convênios – contrato – convênio",
+            "B) convênios – contratos – convênios – contrato – convênios",
+            "C) convênios – convênios – contratos – contrato – convênio",
+            "D) contratos – convênios – contratos – contrato – convênio"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: contratos – convênios – convênios – contrato – convênio."
+        },
+        {
+          "id": 10,
+          "enunciado": "Analise as afirmações abaixo, a respeito do conteúdo de orçamento público, e classifique-as como verdadeiras (V) ou falsas",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Despesa de capital é a despesa que não produz acréscimo patrimonial, respondendo assim pela manutenção das atividades de cada órgão ou entidade. Esta despesa é também chamada de custeio",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Orçamento público nada mais é que a consubstanciação em lei que, entre outros aspectos, exprime em termos financeiros a alocação de recursos públicos",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Despesa corrente é a despesa que resulta no acréscimo do patrimônio do órgão ou entidade que a realiza, aumentando, dessa forma, sua riqueza patrimonial. Esta despesa é também chamada de investimento",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Em relação ao orçamento público, diz-se que, quanto à “despesa pública”, o que ocorre é uma “fixação da despesa”",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Em relação ao orçamento público, diz-se que, quanto à “arrecadação”, há uma “previsão”",
+              "respostaCorreta": "Verdadeiro"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "A classificação correta das assertivas é:\n• Despesa de capital é a despesa que não produz acréscimo patrimonial, respondendo assim pela manutenção das atividades de cada órgão ou entidade. Esta despesa é também chamada de custeio: Falso\n• Orçamento público nada mais é que a consubstanciação em lei que, entre outros aspectos, exprime em termos financeiros a alocação de recursos públicos: Verdadeiro\n• Despesa corrente é a despesa que resulta no acréscimo do patrimônio do órgão ou entidade que a realiza, aumentando, dessa forma, sua riqueza patrimonial. Esta despesa é também chamada de investimento: Falso\n• Em relação ao orçamento público, diz-se que, quanto à “despesa pública”, o que ocorre é uma “fixação da despesa”: Verdadeiro\n• Em relação ao orçamento público, diz-se que, quanto à “arrecadação”, há uma “previsão”: Verdadeiro"
+        },
+        {
+          "id": 11,
+          "enunciado": "Assinale a alternativa que apresenta corretamente os 7 (sete) elementos de uma boa comunicação, conforme o método 5W2H",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) “O quê?”, “Quem?”, “Onde?”, “Quando?”, “Por quê?”, “Como?” e “Quanto?”",
+            "B) “Qual?”, “De que forma?”, “Onde?”, “Quando?”, “Por quê?”, “Como?” e “Quanto?”",
+            "C) “O quê?”, “Quem?”, “Onde?”, “Qual”, “Por quê?”, “Como?” e “De que forma?”",
+            "D) “O quê?”, “Quem?”, “De que forma?”, “Quando?”, “Qual”, “Como?” e “Quanto?”"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: “O quê?”, “Quem?”, “Onde?”, “Quando?”, “Por quê?”, “Como?” e “Quanto?”."
+        },
+        {
+          "id": 12,
+          "enunciado": "As taxas referentes aos órgãos da Secretaria de Estado da Segurança Pública (SSP) são recolhidas em uma conta única. Do montante arrecadado, qual a porcentagem que é destinada ao Fundo de Melhoria do Corpo de Bombeiros Militar (FUMCBM), que é o fundo que praticamente mantém toda a estrutura do CBMSC, conforme prevê o art. 3º da Lei nº 7.541, de 30 de dezembro de 1988, (Lei de taxas estaduais)?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) 4%",
+            "B) 5%",
+            "C) 7%",
+            "D) 10%",
+            "E) 14%"
+          ],
+          "respostaCorreta": 2,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: 7%."
+        },
+        {
+          "id": 13,
+          "enunciado": "Órgão central de logística do CBMSC",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Diretoria de Logística e Finanças (DLF)",
+            "B) Diretoria Administrativa (DA)",
+            "C) 6ª Seção do Estado-Maior (BM-6)",
+            "D) 4ª Seção do Estado-Maior (BM-4)"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Diretoria de Logística e Finanças (DLF)."
+        },
+        {
+          "id": 14,
+          "enunciado": "Em relação aos tipos de convênios, associe os textos conforme o conceito correto",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Entrega gratuita de bens, entre a administração privada e a pública, apenas para ser usada e depois restituída (empréstimo)",
+              "respostaCorreta": "Comodato"
+            },
+            {
+              "texto": "Ato de colaboração entre repartições públicas em que aquela que tem bens desnecessários aos seus serviços cede o uso à outra que o está precisando",
+              "respostaCorreta": "Cessão de uso"
+            },
+            {
+              "texto": "É o instrumento jurídico suplementar, que passa a integrar o documento principal, o qual poderá ser um Convênio, Contrato e/ou Protocolo de Cooperação",
+              "respostaCorreta": "Termo aditivo (ou de aditamento)"
+            },
+            {
+              "texto": "Instrumento cuja execução não envolva a transferência de recursos entre os partícipes",
+              "respostaCorreta": "Acordo de Cooperação Técnica"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Acordo de Cooperação Técnica",
+            "Cessão de uso",
+            "Comodato",
+            "Termo aditivo (ou de aditamento)"
+          ],
+          "justificativa": "A associação correta entre os termos é:\n• Entrega gratuita de bens, entre a administração privada e a pública, apenas para ser usada e depois restituída (empréstimo) → Comodato\n• Ato de colaboração entre repartições públicas em que aquela que tem bens desnecessários aos seus serviços cede o uso à outra que o está precisando → Cessão de uso\n• É o instrumento jurídico suplementar, que passa a integrar o documento principal, o qual poderá ser um Convênio, Contrato e/ou Protocolo de Cooperação → Termo aditivo (ou de aditamento)\n• Instrumento cuja execução não envolva a transferência de recursos entre os partícipes → Acordo de Cooperação Técnica"
+        },
+        {
+          "id": 15,
+          "enunciado": "Documento que deve ser enviado anualmente para o Comando-Geral do CBMSC, via canais de comando, pelos Comandantes de OBM/GBM que administram convênios (antigos fumrebons), pois ele orienta os gastos (dos convênios ou fundos) segundo critérios técnicos. Estamos falando de",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Plano de aplicação de recursos",
+            "B) Orçamento municipal",
+            "C) Plano plurianual da OBM",
+            "D) Plano de estimativa de receita"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Plano de aplicação de recursos."
+        },
+        {
+          "id": 16,
+          "enunciado": "O artigo 28 da Lei nº 14.133/21 (lei que revogou a antiga lei de licitações - Lei 8.666/93), estabelece cinco modalidades de licitação. Marque a única alternativa abaixo que NÃO apresenta uma dessas modalidades",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Leilão",
+            "B) Diálogo competitivo",
+            "C) Pregão",
+            "D) Escolha direcionada",
+            "E) Concorrência"
+          ],
+          "respostaCorreta": 3,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Escolha direcionada."
+        },
+        {
+          "id": 17,
+          "enunciado": "A respeito do conteúdo que trata sobre a Administração Pública Estadual, classifique cada uma das afirmativas abaixo como verdadeiras (V) ou falsas",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "A administração pública direta possui órgãos",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "A administração pública indireta possui entidades",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "A administração pública direta é a atividade administrativa, caracterizada como serviço público ou de interesse público, transferida a titularidade ou a execução, por outorga ou delegação, para outra entidade por ele criada ou cuja criação é por ele autorizada",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "A administração pública indireta compreende as seguintes categorias de entidades: Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "O CBMSC integra a administração pública direta. 15/07/2026, 09:24 Questionário Revisional: Revisão da tentativa | ead.cbm.sc.gov.br https://ead.cbm.sc.gov.br/mod/quiz/review.php?attempt=453160&cmid=2891 14/28",
+              "respostaCorreta": "Verdadeiro"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "A classificação correta das assertivas é:\n• A administração pública direta possui órgãos: Verdadeiro\n• A administração pública indireta possui entidades: Verdadeiro\n• A administração pública direta é a atividade administrativa, caracterizada como serviço público ou de interesse público, transferida a titularidade ou a execução, por outorga ou delegação, para outra entidade por ele criada ou cuja criação é por ele autorizada: Falso\n• A administração pública indireta compreende as seguintes categorias de entidades: Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista: Verdadeiro\n• O CBMSC integra a administração pública direta. 15/07/2026, 09:24 Questionário Revisional: Revisão da tentativa | ead.cbm.sc.gov.br https://ead.cbm.sc.gov.br/mod/quiz/review.php?attempt=453160&cmid=2891 14/28: Verdadeiro"
+        },
+        {
+          "id": 18,
+          "enunciado": "Em relação aos atos de improbidade, associe os textos com os conceitos corretos",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Receber, para si ou para outrem, dinheiro, bem móvel ou imóvel, ou qualquer outra vantagem econômica, direta ou indireta, a título de comissão, percentagem, gratificação ou presente de quem tenha interesse, direto ou indireto, que possa ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público",
+              "respostaCorreta": "Atos que importam em enriquecimento ilícito"
+            },
+            {
+              "texto": "permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades estatais",
+              "respostaCorreta": "Atos que causam prejuízo ao erário"
+            },
+            {
+              "texto": "deixar de prestar contas quando esteja obrigado a fazê-lo",
+              "respostaCorreta": "Atos que atentam com os princípios da administração pública"
+            },
+            {
+              "texto": "Facilitar para a incorporação ao patrimônio particular, de pessoa física ou jurídica, de bens, rendas ou valores integrantes do acervo patrimonial do Estado",
+              "respostaCorreta": "Atos que causam prejuízo ao erário"
+            },
+            {
+              "texto": "auferir qualquer tipo de vantagem patrimonial indevida em razão do exercício de cargo, mandato, função ou emprego, ou atividades nas entidades mencionadas no art. 1º da Lei 8.429/92",
+              "respostaCorreta": "Atos que importam em enriquecimento ilícito"
+            },
+            {
+              "texto": "revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo",
+              "respostaCorreta": "Atos que atentam com os princípios da administração pública. Atos que impo Atos que caus Atos que atent Atos que caus Atos que impo Atos que atent 15/07/2026"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Atos que atentam com os princípios da administração pública",
+            "Atos que causam prejuízo ao erário",
+            "Atos que importam em enriquecimento ilícito"
+          ],
+          "justificativa": "A associação correta entre os termos é:\n• Receber, para si ou para outrem, dinheiro, bem móvel ou imóvel, ou qualquer outra vantagem econômica, direta ou indireta, a título de comissão, percentagem, gratificação ou presente de quem tenha interesse, direto ou indireto, que possa ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público → Atos que importam em enriquecimento ilícito\n• permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades estatais → Atos que causam prejuízo ao erário\n• deixar de prestar contas quando esteja obrigado a fazê-lo → Atos que atentam com os princípios da administração pública\n• Facilitar para a incorporação ao patrimônio particular, de pessoa física ou jurídica, de bens, rendas ou valores integrantes do acervo patrimonial do Estado → Atos que causam prejuízo ao erário\n• auferir qualquer tipo de vantagem patrimonial indevida em razão do exercício de cargo, mandato, função ou emprego, ou atividades nas entidades mencionadas no art. 1º da Lei 8.429/92 → Atos que importam em enriquecimento ilícito\n• revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo → Atos que atentam com os princípios da administração pública. Atos que impo Atos que caus Atos que atent Atos que caus Atos que impo Atos que atent 15/07/2026"
+        },
+        {
+          "id": 19,
+          "enunciado": "Analise as afirmações abaixo e marque a opção que apresenta corretamente a sequência de questões verdadeiras (V) e falsas (F), em relação às modalidades de licitação",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "A concorrência é a modalidade de licitação utilizada para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Os valores máximos para a aquisição direta de obras e serviços de engenharia ou manutenção de veículos correspondem a R$ 125.451,15 (conforme atualização pelo Decreto 12.343/24",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "A Lei nº 14.133/21 (nova lei de licitações) que regulamenta as licitações e contratos apresenta exceções a esse procedimento, podendo a licitação ser legalmente dispensada, dispensável ou inexigível, nos casos previstos na própria lei (artigos 74 e 75 da lei nº 14.133/21",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "A modalidade licitatória mais utilizada no CBMSC para aquisição de bens e serviços comuns é o pregão",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Uma das principais desvantagens do pregão é a pouca competição, que dificulta a redução de preços",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "O Sistema de Registro de Preços é o conjunto de procedimentos para registro formal de preços relativos à prestação de serviços e aquisição de bens, para contratações futuras. 15/07/2026, 09:24 Questionário Revisional: Revisão da tentativa | ead.cbm.sc.gov.br https://ead.cbm.sc.gov.br/mod/quiz/review.php?attempt=453160&cmid=2891 17/28",
+              "respostaCorreta": "Verdadeiro"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "A classificação correta das assertivas é:\n• A concorrência é a modalidade de licitação utilizada para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor: Falso\n• Os valores máximos para a aquisição direta de obras e serviços de engenharia ou manutenção de veículos correspondem a R$ 125.451,15 (conforme atualização pelo Decreto 12.343/24: Verdadeiro\n• A Lei nº 14.133/21 (nova lei de licitações) que regulamenta as licitações e contratos apresenta exceções a esse procedimento, podendo a licitação ser legalmente dispensada, dispensável ou inexigível, nos casos previstos na própria lei (artigos 74 e 75 da lei nº 14.133/21: Verdadeiro\n• A modalidade licitatória mais utilizada no CBMSC para aquisição de bens e serviços comuns é o pregão: Verdadeiro\n• Uma das principais desvantagens do pregão é a pouca competição, que dificulta a redução de preços: Falso\n• O Sistema de Registro de Preços é o conjunto de procedimentos para registro formal de preços relativos à prestação de serviços e aquisição de bens, para contratações futuras. 15/07/2026, 09:24 Questionário Revisional: Revisão da tentativa | ead.cbm.sc.gov.br https://ead.cbm.sc.gov.br/mod/quiz/review.php?attempt=453160&cmid=2891 17/28: Verdadeiro"
+        },
+        {
+          "id": 20,
+          "enunciado": "Escolha a alternativa que completa corretamente a seguinte frase; “__________________________ são as formas utilizadas pela Administração Pública para contratar serviços, adquirir bens e realizar obras.",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Licitações e contratos",
+            "B) Aquisições diretas e empenhos",
+            "C) Ordens de serviço e pregões",
+            "D) Planos de aplicação e convênios"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Licitações e contratos."
+        },
+        {
+          "id": 21,
+          "enunciado": "A Administração é compreendida como um conjunto de processos que se integram e se influenciam mutuamente, visando alcançar as metas da organização. Nesse conjunto de processos, qual é quantidade de processos principais interligados no âmbito da organização, os quais são chamados de funções administrativas da organização?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) 3",
+            "B) 4",
+            "C) 5",
+            "D) 6"
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: 4."
+        },
+        {
+          "id": 22,
+          "enunciado": "Qual das afirmativas abaixo está relacionada com as funções desenvolvidas pelos Subtenentes e Sargentos",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) São preparados, ao longo da carreira, para o exercício do comando, da chefia e de direção das organizações militares.",
+            "B) Em relação ao nível de decisão, as habilidades que devem prevalecer são as habilidades técnicas.",
+            "C) São essencialmente elementos de execução.",
+            "D) Dentro da hierarquia das decisões, podemos dizer que as principais decisões que tomam, no desempenho de suas missões, são as decisões operacionais.",
+            "E) Auxiliam e complementam as atividades dos oficiais, quer no adestramento e no emprego dos meios, quer na instrução e na administração da OBM, bem como são ainda empregados na execução de serviços operacionais afetos ao Corpo de Bombeiros Militar."
+          ],
+          "respostaCorreta": 4,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Auxiliam e complementam as atividades dos oficiais, quer no adestramento e no emprego dos meios, quer na instrução e na administração da OBM, bem como são ainda empregados na execução de serviços operacionais afetos ao Corpo de Bombeiros Militar.."
+        },
+        {
+          "id": 23,
+          "enunciado": "Em relação aos instrumentos para a materialização do processo de planejamento governamental, associe corretamente os textos aos conceitos correspondentes",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Compreende as metas e prioridades da administração pública, incluindo as despesas de capital para o exercício financeiro subsequente",
+              "respostaCorreta": "Lei de Diretrizes Orçamentárias (LDO)"
+            },
+            {
+              "texto": "É o documento de planejamento que é instituído por lei, no qual o governo estabelece as diretrizes, os objetivos e metas fixados para serem atingidos no período de quatro anos",
+              "respostaCorreta": "Plano Plurianual (PPA)"
+            },
+            {
+              "texto": "Terá vigência até o final do primeiro exercício financeiro do mandato do Governador subsequente",
+              "respostaCorreta": "Plano Plurianual (PPA)"
+            },
+            {
+              "texto": "Estima as receitas que o governo espera arrecadar durante o ano e fixa os gastos a serem realizados com tais recursos",
+              "respostaCorreta": "Lei Orçamentária Anual (LOA)"
+            },
+            {
+              "texto": "Estabelece as diretrizes para a elaboração e execução do orçamento anual de forma a adequá-lo às diretrizes, objetivos e metas da administração pública, estabelecidas no plano plurianual",
+              "respostaCorreta": "Lei de Diretrizes Orçamentárias (LDO). Lei de Diretrizes Plano Plurianual Plano Plurianual Lei Orçamentária Lei de Diretrizes 15/07/2026"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Lei Orçamentária Anual (LOA)",
+            "Lei de Diretrizes Orçamentárias (LDO)",
+            "Plano Plurianual (PPA)",
+            "Planos Plurianuais (PPA)"
+          ],
+          "justificativa": "A associação correta entre os termos é:\n• Compreende as metas e prioridades da administração pública, incluindo as despesas de capital para o exercício financeiro subsequente → Lei de Diretrizes Orçamentárias (LDO)\n• É o documento de planejamento que é instituído por lei, no qual o governo estabelece as diretrizes, os objetivos e metas fixados para serem atingidos no período de quatro anos → Plano Plurianual (PPA)\n• Terá vigência até o final do primeiro exercício financeiro do mandato do Governador subsequente → Plano Plurianual (PPA)\n• Estima as receitas que o governo espera arrecadar durante o ano e fixa os gastos a serem realizados com tais recursos → Lei Orçamentária Anual (LOA)\n• Estabelece as diretrizes para a elaboração e execução do orçamento anual de forma a adequá-lo às diretrizes, objetivos e metas da administração pública, estabelecidas no plano plurianual → Lei de Diretrizes Orçamentárias (LDO). Lei de Diretrizes Plano Plurianual Plano Plurianual Lei Orçamentária Lei de Diretrizes 15/07/2026"
+        },
+        {
+          "id": 24,
+          "enunciado": "“Significa que a liderança deve buscar meios para influenciar, motivar e estimular as pessoas a participarem e se envolverem com o alcance dos objetivos propostos, ou seja, apontar o caminho a ser trilhado”. Este conceito se refere a",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Planejamento",
+            "B) Organização",
+            "C) Controle",
+            "D) Direção"
+          ],
+          "respostaCorreta": 3,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Direção."
+        },
+        {
+          "id": 25,
+          "enunciado": "“Embora a Lei 8.666/93 tenha sido totalmente revogada pela Lei 14.133/21, o seu art. 2º definia ___________ como todo e qualquer ajuste entre órgãos ou entidades da Administração Pública ou particulares, em que haja um acordo de vontades para a formação de vínculo e a estipulação de obrigações recíprocas, seja qual for a denominação utilizada”, cujo conceito é ainda aceito. Assinale a alternativa que completa a lacuna em branco",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) contrato",
+            "B) convênio",
+            "C) licitação",
+            "D) pregão"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: contrato."
+        },
+        {
+          "id": 26,
+          "enunciado": "___________ é o termo designado para a função exercida pelo servidor que irá acompanhar, fiscalizar, certificar e atestar a execução contratual, desde o início da contratação até o término do contrato. Assinale a alternativa que completa a lacuna em branco",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Gestor/fiscal de contratos",
+            "B) Comandante de OBM",
+            "C) Chefe de logística da OBM",
+            "D) Aprovisionador da OBM"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Gestor/fiscal de contratos."
+        },
+        {
+          "id": 27,
+          "enunciado": "Documento que deve ser enviado anualmente para o Comando-Geral, via canais de comando, pelos Comandantes de OBM/GBM que administram convênios (antigos fumrebons), pois ele orienta os gastos (dos convênios ou fundos) segundo critérios técnicos. Estamos falando de",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Plano de aplicação de recursos",
+            "B) Plano de previsão de gastos",
+            "C) Plano plurianual da OBM",
+            "D) Plano de estimativa de receita",
+            "E) Plano estratégico da OBM"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Plano de aplicação de recursos."
+        },
+        {
+          "id": 28,
+          "enunciado": "Contempla o monitoramento global e detalhado da gestão orçamentária e financeira de todos os órgãos e entidades do Governo do Estado de Santa Catarina. Fornece informações gerenciais para o planejamento da melhor aplicação das receitas, bem como para o controle da despesa. Através deste ambiente, é possível gerar os empenhos, além de inúmeras consultas e geração de relatórios gerenciais que permitem acompanhar a evolução do desembolso do orçamento. Estamos falando de qual aplicativo utilizado no CBMSC",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) SIGEF - Sistema Integrado de Planejamento e Gestão Fiscal",
+            "B) SME - Sistema de Materiais e Estoque",
+            "C) SSE - Sistema de Solicitação de Empenhos",
+            "D) GVE - Gerenciamento de Veículos e Equipamentos"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: SIGEF - Sistema Integrado de Planejamento e Gestão Fiscal."
+        },
+        {
+          "id": 29,
+          "enunciado": "Escolha a alternativa que completa corretamente a seguinte frase: “O exercício da administração implica em tomar _________ e realizar __________”.",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) decisões - ações",
+            "B) atitudes - planejamento",
+            "C) decisões - análises",
+            "D) atitudes - ações"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: decisões - ações."
+        },
+        {
+          "id": 30,
+          "enunciado": "“O ______________ é uma pessoa com personalidade jurídica própria, criado por lei municipal, para receber os recursos advindos das taxas de prestação de serviços que o CBMSC sediado no município presta à sociedade. Está em processo de extinção e, em seu lugar, têm sido celebrados convênios entre o Estado (através do CBMSC) e o município, a fim de que os recursos estaduais oriundos das taxas de bombeiros previstas na Lei de taxas estaduais continuem no município para a manutenção da OBM local”.",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) FUMREBOM",
+            "B) FUMCBM",
+            "C) Termo de Cessão de Uso",
+            "D) Termo de Comodato"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: FUMREBOM."
+        },
+        {
+          "id": 31,
+          "enunciado": "Considerando os conceitos de Eficiência, Eficácia e Efetividade, classifique cada uma das afirmativas abaixo como verdadeiras (V) ou falsas",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Eficiência é fazer as coisas certas",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Eficácia tem a ver com método",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "A soma de eficácia e eficiência gera a efetividade",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Eficácia tem a ver com resultado",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Eficiência é fazer certo as coisas. Falso Falso Verdadeiro Verdadeiro Verdadeiro 15/07/2026, 09:24 Questionário Revisional: Revisão da tentativa | ead.cbm.sc.gov.br https://ead.cbm.sc.gov.br/mod/quiz/review.php?attempt=453160&cmid=2891 25/28",
+              "respostaCorreta": "Verdadeiro"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "A classificação correta das assertivas é:\n• Eficiência é fazer as coisas certas: Falso\n• Eficácia tem a ver com método: Falso\n• A soma de eficácia e eficiência gera a efetividade: Verdadeiro\n• Eficácia tem a ver com resultado: Verdadeiro\n• Eficiência é fazer certo as coisas. Falso Falso Verdadeiro Verdadeiro Verdadeiro 15/07/2026, 09:24 Questionário Revisional: Revisão da tentativa | ead.cbm.sc.gov.br https://ead.cbm.sc.gov.br/mod/quiz/review.php?attempt=453160&cmid=2891 25/28: Verdadeiro"
+        },
+        {
+          "id": 32,
+          "enunciado": "Assinale a alternativa que apresenta as quatro principais funções administrativas da organização",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Planejamento, execução, controle e direção",
+            "B) Planejamento, gestão, controle e execução",
+            "C) Planejamento, controle, avaliação e revisão",
+            "D) Definição, organização, avaliação e implementação",
+            "E) Planejamento, organização, direção e controle"
+          ],
+          "respostaCorreta": 4,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A resposta correta é: Planejamento, organização, direção e controle."
+        },
+        {
+          "id": 33,
+          "enunciado": "Em relação ao conteúdo de orçamento público, classifique cada uma das afirmativas abaixo como verdadeiras (V) ou falsas",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Para que o orçamento seja executado (consumido) é necessário que sejam feitos empenhos",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Empenho é o ato administrativo que cria para o poder público a faculdade de pagar (conforme o art. 58 da lei nº 4.320, de 17 de março de 1964",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Cada “nota de empenho” conterá o nome do credor, a especificação e a importância da despesa, a fonte de recurso, o item orçamentário, entre outros dados",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Ordinário é o empenho usualmente usado para atender ao pagamento a determinado credor em uma única prestação e valor indivisível",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Global é a modalidade utilizada quando não se sabe o valor da despesa, o que só será conhecido posteriormente, por meio de extrato bancário",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Estimativo (ou por estimativa) atende principalmente aos contratos com vencimentos regulares mês a mês; é semelhante ao empenho ordinário quanto à forma e à ordem numérica e quase sempre se refere a pagamentos mensais continuados Seguir para... CBMSC © 2026. Todos os direitos Reservados. Centro Administrativo da Secretaria de Estado da Segurança Pública-SSP Av. Gov. Ivo Silveira, 1521 - Bloco A Capoeiras, Florianópolis - SC, 88085-000 Corpo de Bombeiros Militar de Santa Catarina 15/07/2026, 09:24 Questionário Revisional: Revisão da tentativa | ead.cbm.sc.gov.br https://ead.cbm.sc.gov.br/mod/quiz/review.php?attempt=453160&cmid=2891 28/28",
+              "respostaCorreta": "Falso"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "A classificação correta das assertivas é:\n• Para que o orçamento seja executado (consumido) é necessário que sejam feitos empenhos: Verdadeiro\n• Empenho é o ato administrativo que cria para o poder público a faculdade de pagar (conforme o art. 58 da lei nº 4.320, de 17 de março de 1964: Falso\n• Cada “nota de empenho” conterá o nome do credor, a especificação e a importância da despesa, a fonte de recurso, o item orçamentário, entre outros dados: Verdadeiro\n• Ordinário é o empenho usualmente usado para atender ao pagamento a determinado credor em uma única prestação e valor indivisível: Verdadeiro\n• Global é a modalidade utilizada quando não se sabe o valor da despesa, o que só será conhecido posteriormente, por meio de extrato bancário: Falso\n• Estimativo (ou por estimativa) atende principalmente aos contratos com vencimentos regulares mês a mês; é semelhante ao empenho ordinário quanto à forma e à ordem numérica e quase sempre se refere a pagamentos mensais continuados Seguir para... CBMSC © 2026. Todos os direitos Reservados. Centro Administrativo da Secretaria de Estado da Segurança Pública-SSP Av. Gov. Ivo Silveira, 1521 - Bloco A Capoeiras, Florianópolis - SC, 88085-000 Corpo de Bombeiros Militar de Santa Catarina 15/07/2026, 09:24 Questionário Revisional: Revisão da tentativa | ead.cbm.sc.gov.br https://ead.cbm.sc.gov.br/mod/quiz/review.php?attempt=453160&cmid=2891 28/28: Falso"
+        }
+      ]
     }
   ]
 }
