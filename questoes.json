@@ -2544,6 +2544,386 @@
           "justificativa": "A classificação correta das assertivas é:\n• Para que o orçamento seja executado (consumido) é necessário que sejam feitos empenhos: Verdadeiro\n• Empenho é o ato administrativo que cria para o poder público a faculdade de pagar (conforme o art. 58 da lei nº 4.320, de 17 de março de 1964: Falso\n• Cada “nota de empenho” conterá o nome do credor, a especificação e a importância da despesa, a fonte de recurso, o item orçamentário, entre outros dados: Verdadeiro\n• Ordinário é o empenho usualmente usado para atender ao pagamento a determinado credor em uma única prestação e valor indivisível: Verdadeiro\n• Global é a modalidade utilizada quando não se sabe o valor da despesa, o que só será conhecido posteriormente, por meio de extrato bancário: Falso\n• Estimativo (ou por estimativa) atende principalmente aos contratos com vencimentos regulares mês a mês; é semelhante ao empenho ordinário quanto à forma e à ordem numérica e quase sempre se refere a pagamentos mensais continuados: Falso"
         }
       ]
+    },
+    {
+      "id": "legislacao_regulamentos",
+      "nome": "Lesgilação e Regulamentos",
+      "descricao": "Estudo focado no Estatuto dos Militares Estaduais, regras de promoção das praças (Lei nº 801/2022), concessão de férias, auxílio-alimentação e procedimentos correlatos.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "No Estatuto dos Militares Estaduais, estão previstos afastamentos aos quais os militares estaduais têm direito, com base nisso, assinale a alternativa CORRETA:",
+          "alternativas": [
+            "A) Núpcias: 8 (oito) dias, Luto: 8 (oito) dias;",
+            "B) Nenhuma das alternativas",
+            "C) Instalação 1 (um) dia, Transito 15 (quinze) dias",
+            "D) Trânsito: 6 (seis) dias, Viagem 9 (nove) dias;",
+            "E) Luto: 3 (três) dias, Núpcias: 4 (quatro) dias;"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O Estatuto dos Militares Estaduais prevê o afastamento de 8 dias consecutivos por motivo de núpcias (casamento) e de 8 dias consecutivos por motivo de luto (falecimento de parentes diretos)."
+        },
+        {
+          "id": 2,
+          "enunciado": "Assinale a alternativa que completa corretamente a expressão entre parênteses: “Quando movimentado por período superior a 3 (três) meses e inferior a 6 (seis) meses, cujo desempenho importe em mudança de uma sede para outra, sem desligamento de sua OBM de origem, o militar estadual receberá:”",
+          "alternativas": [
+            "A) Nenhuma das alternativas acima.",
+            "B) Na ida, ajuda de custo integral e, na volta, a metade;",
+            "C) Na ida, não receberá ajuda de custo e, na volta, apenas a metade;",
+            "D) Na ida e na volta receberá ajuda de custo integral;",
+            "E) Na volta, ajuda de custo integral;"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "Conforme a legislação aplicável a movimentações temporárias de média duração (entre 3 e 6 meses) que impliquem mudança de sede sem desligamento da OBM de origem, o militar estadual faz jus à ajuda de custo integral na ida e a 50% (metade) no retorno."
+        },
+        {
+          "id": 3,
+          "enunciado": "Em relação à programação de férias dos militares do CBMSC, assinale a alternativa incorreta:",
+          "alternativas": [
+            "A) As OBMs do litoral podem programar férias apenas entre março e novembro.",
+            "B) A programação deve ser inserida no SIGRH até 31 de outubro.",
+            "C) A escala de férias deve considerar o sincronismo com as escalas de serviço.",
+            "D) A programação de férias pode ser alterada pela OBM antes do início do usufruto.",
+            "E) O Comandante da Unidade é responsável pela inclusão da escala no sistema."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "A afirmativa de que as OBMs do litoral só podem programar férias de março a novembro está incorreta, pois as regras de programação visam à garantia do serviço operacional e não possuem essa limitação fixa e absoluta de exclusão do período de veraneio para toda e qualquer programação."
+        },
+        {
+          "id": 4,
+          "enunciado": "Assinale a alternativa que apresenta, respectivamente os conceitos de proventos e pensão:",
+          "alternativas": [
+            "A) Aquilo que é pago ao servidor falecido. Aquilo que é pago a viúva (o), ou algum outro dependente, em virtude da promoção do servidor;",
+            "B) Aquilo que é pago a viúva (o), ou algum outro dependente, em virtude do falecimento do servidor. Aquilo que é pago ao servidor aposentado;",
+            "C) Aquilo que é pago ao militar na reserva ou reformado. Aquilo que é pago a viúva (o), ou algum outro dependente, em virtude do falecimento do servidor;",
+            "D) Nenhuma das alternativas acima.",
+            "E) Aquilo que não é pago ao servidor aposentado. Aquilo que é pago a vizinha (o), ou algum outro dependente, em virtude do falecimento do servidor;"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Proventos correspondem à remuneração paga ao militar inativo (na reserva remunerada ou reformado). Pensão é o benefício previdenciário pago aos dependentes habilitados em decorrência do falecimento do militar."
+        },
+        {
+          "id": 5,
+          "enunciado": "Limite de tempo necessário para a Corporação conceder férias aos Bombeiros Militares. Estamos falando de:",
+          "alternativas": [
+            "A) Período de usufruto.",
+            "B) Período sustado.",
+            "C) Período de concessão.",
+            "D) Período aquisitivo."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O período de concessão é o limite temporal estabelecido por lei para que a administração pública/corporação conceda o gozo de férias ao militar, após este ter completado o respectivo período aquisitivo."
+        },
+        {
+          "id": 6,
+          "enunciado": "A Portaria que dispõe sobre os períodos de afastamento do serviço, relaciona as pessoas que em caso de falecimento dão direito ao militar de se afastar por luto. Assinale a alternativa que contém APENAS pessoas que geram direito ao afastamento por luto:",
+          "alternativas": [
+            "A) Cônjuge, companheiro(a), pais, sogros, padrastos, filhos.",
+            "B) Padrastos, Companheiro(a), vizinhos, pais, filhos.",
+            "C) Pais, sogros, colegas de trabalho, padrastos, filhos, padrinhos.",
+            "D) Companheiro(a), pais, sogros, padrastos, filhos, padrinhos."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O afastamento por luto é concedido em razão do falecimento de cônjuge/companheiro(a), pais, sogros, padrastos e filhos/enteados. Vizinhos, colegas de trabalho e padrinhos não estão no rol de dependentes e parentes que ensejam este afastamento."
+        },
+        {
+          "id": 7,
+          "enunciado": "É a ordenação da autoridade em níveis diferentes dentro da estrutura. A ordenação se faz por postos ou graduações; e dentro de um mesmo posto ou graduação; se faz pela antiguidade. O respeito é consubstanciado no espírito de acatamento à sequência de autoridade.",
+          "alternativas": [
+            "A) Função.",
+            "B) Cargo.",
+            "C) Hierarquia.",
+            "D) Disciplina."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A hierarquia militar é a ordenação da autoridade em níveis diferentes dentro da estrutura da corporação, baseando-se em postos (oficiais) e graduações (praças)."
+        },
+        {
+          "id": 8,
+          "enunciado": "Assinale a alternativa correta. O militar estadual terá direito à ________________ quando movimentado para cargo ou comissão cujo desempenho importe na obrigação de mudança de ________ para outra, desligado ou não da organização onde serve:",
+          "alternativas": [
+            "A) Gratificação, uma cidade.",
+            "B) Indenização, uma sede.",
+            "C) Um auxílio, uma OBM.",
+            "D) À ajuda de custo, uma sede."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A ajuda de custo destina-se a compensar as despesas de instalação do militar estadual que, por interesse do serviço, for movimentado para outra sede."
+        },
+        {
+          "id": 9,
+          "enunciado": "Um Sargento BM que ingressou em Licença para Tratar de Interesses Particulares (LTIP) por um período de 1 ano. Durante esse mesmo ano, outro Cabo BM permaneceu em serviço ativo, porém com afastamentos esporádicos por Licença para Tratamento de Saúde da Pessoa da Família (LTSPF) e afastamento por luto. Com base nas regras de concessão do Auxílio-Alimentação, assinale a alternativa correta:",
+          "alternativas": [
+            "A) Ambos os militares continuarão recebendo o auxílio, independentemente dos tipos de afastamento.",
+            "B) O Sargento em LTIP continuará recebendo o auxílio normalmente, mas o Cabo terá o benefício suspenso.",
+            "C) Apenas o Sargento manterá o direito ao auxílio, por tratar-se de licença prevista no Estatuto.",
+            "D) Ambos os militares perderão o direito ao auxílio-alimentação durante todo o período de afastamento.",
+            "E) O Cabo permanecerá com direito ao auxílio durante os afastamentos, enquanto o Sargento não terá direito ao benefício durante a LTIP."
+          ],
+          "respostaCorreta": 4,
+          "justificativa": "A LTIP é usufruída com prejuízo total da remuneração e demais vantagens, incluindo o auxílio-alimentação. Já os afastamentos temporários por luto ou LTSPF, por serem considerados como de efetivo serviço para fins remuneratórios, não suspendem a concessão do auxílio-alimentação."
+        },
+        {
+          "id": 10,
+          "enunciado": "Considerando a possibilidade de prorrogação, qual é o prazo máximo para a lavratura do Atestado de Origem?",
+          "alternativas": [
+            "A) 20 (vinte) dias corridos;",
+            "B) 15 (quinze) dias úteis;",
+            "C) 20 (vinte) dias úteis;",
+            "D) 10 (dez) dias corridos;"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "O prazo padrão para a lavratura do Atestado de Origem é de 10 dias úteis, admitindo-se prorrogação motivada por igual período, totalizando o limite de até 20 dias úteis."
+        },
+        {
+          "id": 11,
+          "enunciado": "Assinale a alternativa abaixo que traz a correta definição de atestado de origem:",
+          "alternativas": [
+            "A) Documento administrativo civil destinado à comprovação de acidentes ocorridos com militares, em tempo de paz, que, por sua natureza, possam dar origem, à incapacidade física temporária, dos Militares Estaduais (PM e BM);",
+            "B) Documento administrativo militar destinado à comprovação de acidentes ocorridos em consequência de ato de serviço, em tempo de paz, que, por sua natureza, possam dar origem, à incapacidade física, temporária ou definitiva, dos Militares Estaduais (PM e BM);",
+            "C) Perícia médico-administrativa destinada, indispensavelmente, a apurar se a incapacidade física, temporária ou definitiva, dos militares da Corporação, verificada em inspeção de saúde, depende ou resulta de doença aguda ou crônica, que tenha sido contraída em ato de serviço;",
+            "D) Perícia médico-administrativa destinada, a apurar se a incapacidade física definitiva, dos militares da Corporação, depende ou resulta de doença aguda ou crônica, que tenha sido contraída em ato de serviço;"
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O Atestado de Origem (AO) é o documento formal militar destinado a comprovar a ocorrência de acidentes em consequência de ato de serviço, em tempo de paz, que possam resultar em incapacidade física (seja temporária ou definitiva) do militar estadual."
+        },
+        {
+          "id": 12,
+          "enunciado": "Assinale a alternativa correta. Os valores devido a título de ajuda de custo, para o militar que possuir até dois dependentes é o seguinte:",
+          "alternativas": [
+            "A) valor correspondente ao respectivo subsídio.",
+            "B) 80% do respectivo subsídio.",
+            "C) 75% do respectivo subsídio.",
+            "D) 50% do respectivo subsídio."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A ajuda de custo varia de acordo com o número de dependentes do militar estadual. Para quem possui até dois dependentes, o valor corresponde a 75% do respectivo subsídio."
+        },
+        {
+          "id": 13,
+          "enunciado": "Assinale abaixo a alternativa que corretamente informa um dos motivos que podem proporcionar a sustação de férias:",
+          "alternativas": [
+            "A) Internação hospitalar.",
+            "B) A pedido.",
+            "C) Trabalhar mal.",
+            "D) Licença para tratar da saúde."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "A internação hospitalar de urgência é um dos motivos regulamentares de força maior que interrompem ou sustam o gozo das férias regulamentares do militar estadual."
+        },
+        {
+          "id": 14,
+          "enunciado": "Assinale a alternativa correta. Aquilo que é pago à viúva, viúvo ou outro dependente por conta do falecimento do militar:",
+          "alternativas": [
+            "A) Gratificação.",
+            "B) Indenização.",
+            "C) Pensão.",
+            "D) Proventos."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Pensão Militar é a prestação pecuniária mensal devida aos dependentes do militar estadual após o seu falecimento, visando garantir seu sustento e amparo financeiro."
+        },
+        {
+          "id": 15,
+          "enunciado": "A dispensa para desconto em férias, denominada adiantamento de usufruto de férias, tem um limite máximo de dias contínuos ou não, assinale a alternativa que informa corretamente qual é esse período:",
+          "alternativas": [
+            "A) 15 dias.",
+            "B) 30 dias.",
+            "C) 10 dias.",
+            "D) 1 dia."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O adiantamento de usufruto de férias (dispensa para desconto em férias) é limitado ao prazo máximo de 15 dias, contínuos ou interpolados, por exercício financeiro."
+        },
+        {
+          "id": 16,
+          "enunciado": "Sobre o adiantamento de usufruto de férias, é correto afirmar:",
+          "alternativas": [
+            "A) Pode ser concedido por até 15 dias, contínuos ou não, por exercício.",
+            "B) Só pode ser solicitado após completar 12 meses de serviço.",
+            "C) É registrado exclusivamente pelo Comandante-Geral no SIGRH.",
+            "D) É um direito subjetivo do militar, não podendo ser negado.",
+            "E) Pode ser concedido retroativamente até o exercício anterior."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O adiantamento de usufruto de férias pode ser fracionado e concedido por até 15 dias (contínuos ou intercalados) no âmbito de cada exercício, dependendo da conveniência e oportunidade da chefia administrativa."
+        },
+        {
+          "id": 17,
+          "enunciado": "Nos termos da Lei Complementar nº 801/2022 indique a alternativa correta no que se refere aos requisitos para promoção por antiguidade ou merecimento:",
+          "alternativas": [
+            "A) Para promoção a Subtenente, é facultativo possuir aprovação no Curso de Aperfeiçoamento de Sargentos (CAS).",
+            "B) As praças deverão possuir conceito profissional favorável emitido pelo Comandante-Geral.",
+            "C) As praças deverão possuir interstício mínimo e tempo de arregimentação.",
+            "D) As praças deverão estar classificadas, no mínimo, no comportamento “ótimo”."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A Lei Complementar nº 801/2022 define os requisitos indispensáveis para a promoção das praças, sendo imperioso possuir o interstício mínimo exigido na graduação e cumprir o tempo de arregimentação na atividade-fim."
+        },
+        {
+          "id": 18,
+          "enunciado": "A quem compete regulamentar a concessão de férias anual dos militares estaduais?",
+          "alternativas": [
+            "A) Diretor de Pessoal",
+            "B) Nenhuma das alternativas",
+            "C) Comandante Geral",
+            "D) Governador do Estado",
+            "E) Secretário de Estado da Segurada Pública"
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A competência para fixar e regulamentar a escala, os prazos e o planejamento do gozo de férias dos bombeiros militares cabe ao Comandante-Geral da respectiva corporação."
+        },
+        {
+          "id": 19,
+          "enunciado": "Nos termos da Lei nº 801/2022 que estabelece os critérios e as condições para as promoções das Praças, são interstícios mínimos a serem cumpridos, exceto:",
+          "alternativas": [
+            "A) Cabo: 2 (dois) anos na graduação.",
+            "B) 2º Sargento: 3 (três) anos na graduação.",
+            "C) Soldado 1ª Classe: 7 (sete) anos, a contar da data de formatura no CFP.",
+            "D) 1º Sargento: 4 (quatro) anos na graduação."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A alternativa referente a '1º Sargento: 4 (quatro) anos na graduação' é a exceção (incorreta na lei), pois o interstício fixado para a referida graduação é diferente do listado nas demais opções regulares da lei de promoções."
+        },
+        {
+          "id": 20,
+          "enunciado": "Nos termos da Lei nº 801/2022 que estabelece os critérios e as condições para o acesso na hierarquia militar às praças militares estaduais da ativa do Estado de Santa Catarina, complete a lacuna: \"A incapacidade física pelo prazo de _____________ , devidamente atestada pela junta médica da instituição militar estadual, ____________ que a praça militar estadual concorra à promoção.\"",
+          "alternativas": [
+            "A) até 90 (noventa) dias - impedirá.",
+            "B) até 180 (cento e oitenta) dias - impedirá.",
+            "C) até 90 (noventa) dias - não impedirá.",
+            "D) até 180 (cento e oitenta) dias - não impedirá."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "Segundo a Lei de Promoções, a incapacidade física temporária por prazo de até 90 dias, atestada pela Junta Médica da Corporação, não impedirá que o militar estadual concorra à promoção."
+        },
+        {
+          "id": 21,
+          "enunciado": "Os militares estaduais terão interrompido ou deixarão de gozar na época prevista, o período de férias a que tiverem direito, registrando-se então o fato em seus assentamentos, nos casos relacionados abaixo, assinale a alternativa que indica corretamente um motivo previsto na legislação que possibilita a sustação das férias:",
+          "alternativas": [
+            "A) Movimentação por interesse próprio.",
+            "B) Nenhuma das alternativas acima.",
+            "C) Por vontade própria.",
+            "D) Interesse de Segurança Nacional e manutenção da ordem pública.",
+            "E) Atestado médico recebido após o início das férias."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "O gozo de férias pode ser sustado ou interrompido pela autoridade militar em caráter de absoluta necessidade pública, tais como em casos de preservação ou manutenção da ordem pública e de interesse de Segurança Nacional."
+        },
+        {
+          "id": 22,
+          "enunciado": "Em relação ao Banco de Horas no âmbito do CBMSC, assinale a alternativa correta:",
+          "alternativas": [
+            "A) A utilização do banco de horas deve ocorrer mediante folgas, respeitando o interesse da administração.",
+            "B) O banco de horas permite a acumulação ilimitada de horas extras, sem prazo para compensação, podendo inclusive utilizar para antecipar a Reserva Remunerada.",
+            "C) Não há regulamentação específica sobre banco de horas para os militares estaduais.",
+            "D) As horas excedentes só podem ser compensadas com pagamento em dinheiro, vedada a folga, quanto ultrapassarem 3 meses de acúmulo.",
+            "E) As horas registradas no banco de horas podem ser utilizadas para antecipar promoções."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O banco de horas acumula horas extras trabalhadas que deverão ser usufruídas pelo militar através da concessão de folgas compensatórias, sempre sob a autorização e planejamento administrativo da OBM."
+        },
+        {
+          "id": 23,
+          "enunciado": "Assinale a alternativa que informa na sequência correta as três partes que constituem o Atestado de Origem:",
+          "alternativas": [
+            "A) Prova testemunhal, prova de autenticidade e prova técnica;",
+            "B) Prova cabal, prova técnica e prova de autenticidade;",
+            "C) Prova de autenticidade, prova testemunhal e prova técnica;",
+            "D) Prova testemunhal, prova técnica e prova de autenticidade;"
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "O Atestado de Origem é constituído pelas seguintes partes estruturais e probatórias, nesta exata ordem: 1) Prova testemunhal (relato dos fatos); 2) Prova técnica (laudo médico); 3) Prova de autenticidade (reconhecimento administrativo)."
+        },
+        {
+          "id": 24,
+          "enunciado": "Sobre a indenização por substituição militar, no âmbito do CBMSC, assinale a alternativa correta:",
+          "alternativas": [
+            "A) Não existe previsão de indenização por substituição no CBMSC, apenas compensação em banco de horas.",
+            "B) O militar substituto só terá direito à indenização se permanecer substituindo por no mínimo 90 dias consecutivos.",
+            "C) O direito à indenização por substituição militar só é gerado quando o militar substituído estiver em missão internacional por período superior a 30 dias.",
+            "D) A substituição gera direito automático a promoção por antiguidade, além da indenização.",
+            "E) A substituição deve ser por designação formal, mediante ato publicado, e o valor da indenização corresponde à diferença entre o subsídio do substituto e do substituído."
+          ],
+          "respostaCorreta": 4,
+          "justificativa": "O exercício temporário de cargo de chefia ou comando por substituição exige ato oficial de designação e dá direito ao pagamento de indenização correspondente à diferença remuneratória entre o cargo do substituto e o do substituído."
+        },
+        {
+          "id": 25,
+          "enunciado": "Sobre a Licença para Tratar de Interesses Particulares (LTIP), assinale a alternativa correta:",
+          "alternativas": [
+            "A) Durante a LTIP, o militar continua recebendo sua remuneração integral.",
+            "B) O tempo de LTIP é contado para fins de tempo de serviço e promoção.",
+            "C) Pode ser concedida por qualquer período, desde que solicitado pelo militar.",
+            "D) Só pode ser concedida a militares com mais de 10 anos de efetivo serviço.",
+            "E) A LTIP independe de autorização do Comandante-Geral."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A concessão de Licença para Tratar de Interesses Particulares (LTIP) exige que o militar estadual tenha cumprido o requisito temporal mínimo de 10 (dez) anos de efetivo serviço na corporação, sendo concedida sem remuneração."
+        },
+        {
+          "id": 26,
+          "enunciado": "Assinale a alternativa correta sobre a definição e finalidade do Atestado de Origem:",
+          "alternativas": [
+            "A) O Atestado de Origem é um documento administrativo militar destinado à comprovação de acidentes ocorridos em consequência de ato de serviço, que por sua natureza, possam dar origem, à incapacidade física, temporária ou definitiva, dos militares estaduais;",
+            "B) O Atestado de Origem é um documento administrativo militar destinado à comprovação de acidentes ocorridos em consequência ou não de ato de serviço;",
+            "C) O Atestado de Origem é um documento administrativo militar destinado à comprovação de acidentes ocorridos em consequência de ato de serviço, que por sua natureza, possam dar origem, à incapacidade física somente de caráter definitivo, dos militares estaduais;",
+            "D) Os Alunos dos cursos de formação e de outros cursos da Corporação quando acidentados em instrução militar ou em serviço, não terão direito à lavratura do atestado de origem;"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O Atestado de Origem destina-se a atestar a relação de causa e efeito entre o acidente sofrido em serviço e a eventual incapacidade física resultante (seja temporária ou definitiva) do militar."
+        },
+        {
+          "id": 27,
+          "enunciado": "De acordo com a Lei Complementar nº 801/2022, que trata da promoção das praças militares estaduais de Santa Catarina, assinale a alternativa correta:",
+          "alternativas": [
+            "A) O militar temporário possui os mesmos direitos de promoção que o militar de carreira.",
+            "B) A antiguidade das praças nos graus hierárquicos iniciais (Soldado 3ª Classe e 3º Sargento) é definida exclusivamente pela classificação final no respectivo curso de formação.",
+            "C) A classificação final do curso de formação é considerada apenas em casos de empate na antiguidade.",
+            "D) O interstício para a promoção de Soldado a Cabo é de 10 anos de efetivo serviço.",
+            "E) As promoções por merecimento são vedadas no CBMSC, sendo admitidas apenas por antiguidade."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A classificação obtida pelo militar ao final do respectivo Curso de Formação de Soldados (CFSD) ou de Sargentos (CFS) é o fator exclusivo que estabelece a precedência hierárquica e a antiguidade nas graduações iniciais de ingresso."
+        },
+        {
+          "id": 28,
+          "enunciado": "Considerando os critérios e as condições para o acesso na hierarquia militar às praças militares estaduais da ativa do Estado de Santa Catarina, assinale a alternativa incorreta:",
+          "alternativas": [
+            "A) Poderá ocorrer, também, promoção post mortem, em reconhecimento e homenagem ao militar que tiver falecido em decorrência de ferimento que tenha a sua causa e efeito relacionada com o exercício da atividade operacional, não caracterizada com ato de bravura, comprovado o fato motivador através de sindicância, inquérito policial militar ou por documento sanitário de origem.",
+            "B) Promoção por bravura é aquela que resulta de ato ou atos não comuns de coragem e audácia, que ultrapassando aos limites normais do cumprimento do dever, representam feitos indispensáveis ou úteis ao serviço operacional pelos resultados alcançados ou pelo exemplo positivo deles emanados, independerá da existência de vaga e poderá ocorrer post mortem.",
+            "C) Será promovido à graduação de 1º Sargento da ativa o 2º Sargento pertencente ao QPPM ou ao QPBM que requerer promoção à CPP da instituição militar estadual a qual integra, desde que conte, no mínimo, 30 (trinta) anos de serviço, se for do sexo masculino, e 25 (vinte e cinco) anos de serviço, se for do sexo feminino, até 31 de dezembro de 2021, ou que atenda à regra de transição estabelecida no art. 24-G do Decreto-Lei federal nº 667, de 2 de julho de 1969, ou, para quem ingressar após 16 de dezembro de 2019, que conte, no mínimo, 35 (trinta e cinco) anos de serviço para ambos os sexos, prescindindo de vagas e não sendo exigidas outras condições e outros requisitos previstos na legislação em vigor, com exceção de ter cumprido o interstício mínimo.",
+            "D) A praça militar estadual será ressarcida da preterição, desde que seja reconhecido o seu direito à promoção, quando: I – obtiver decisão favorável ao recurso interposto; II – cessar sua situação de desaparecida ou extraviada; ou III – tiver sido prejudicada por comprovado erro administrativo."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A assertiva C está incorreta porque a regra especial de promoção por tempo de serviço prescinde de vagas e exige requisitos específicos detalhados na legislação de transição e previdência militar, apresentando incoerências em relação aos parâmetros fixados em lei."
+        },
+        {
+          "id": 29,
+          "enunciado": "Com base nos Procedimentos Administrativos Padrão (PAPs), é correto afirmar que:",
+          "alternativas": [
+            "A) Os PAPs padronizam condutas administrativas para assegurar uniformidade de procedimentos.",
+            "B) Não possuem caráter normativo, servindo apenas como sugestão.",
+            "C) Estão vinculados exclusivamente à área médica da corporação.",
+            "D) São utilizados apenas em casos de promoções e licenças.",
+            "E) Sua aplicação é restrita a processos disciplinares."
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "Os Procedimentos Administrativos Padrão (PAPs) têm por finalidade primordial guiar e padronizar o agir administrativo da corporação, garantindo uniformidade, eficiência e legalidade nas ações."
+        },
+        {
+          "id": 30,
+          "enunciado": "Nos termos da Lei nº 801/2022 são formas de promoção, exceto:",
+          "alternativas": [
+            "A) Post Mortem.",
+            "B) Requerimento intelectual.",
+            "C) Bravura.",
+            "D) Ressarcimento de preterição."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "A promoção das praças se dá por antiguidade, merecimento, bravura, post mortem ou ressarcimento de preterição. 'Requerimento intelectual' não é uma modalidade ou forma de promoção prevista na lei."
+        }
+      ]
     }
   ]
 }
