@@ -2924,6 +2924,133 @@
           "justificativa": "A promoção das praças se dá por antiguidade, merecimento, bravura, post mortem ou ressarcimento de preterição. 'Requerimento intelectual' não é uma modalidade ou forma de promoção prevista na lei."
         }
       ]
+    },
+    {
+      "id": "administracao_financeira_aplicada",
+      "nome": "Administração Financeira Aplicada",
+      "descricao": "Conceitos de compras públicas, licitações, convênios municipais, atas de registro de preços, consórcios públicos (CINCATARINA), gerenciamento de riscos e Estudo Técnico Preliminar (ETP) no âmbito do CBMSC.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "As compras públicas no âmbito do CBMSC podem ocorrer de quatro maneiras, assinale a alternativa que não corresponde a uma delas:",
+          "alternativas": [
+            "A) Licitação ou Contratação Direta pela Diretoria de Logística e Finanças do CBMSC;",
+            "B) Adesão ou participação nas atas de registro de preço - ARP do CBMSC e/ou CINCATARINA;",
+            "C) Licitação ou Contratação Direta pelo município conveniado (Convênios Municipais);",
+            "D) Licitação ou Contratação Direta pelo BM-4 do CBMSC;"
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A Diretoria de Logística e Finanças (DLF) é a responsável pelas licitações e contratações diretas centralizadas no âmbito do CBMSC, não sendo essa uma atribuição direta da seção de logística (BM-4) de cada unidade."
+        },
+        {
+          "id": 2,
+          "enunciado": "Sobre as Normas Gerais para compras públicas no CBMSC, assinale a alternativa incorreta:",
+          "alternativas": [
+            "A) O CBMSC buscará ter, tanto na DLF como no CINCATARINA, o máximo de materiais e equipamentos em atas de registro de preços, para padronização e economia.",
+            "B) O CBMSC possui como objetivo nas compras públicas, adquirir equipamentos, materiais, serviços e obras que atendam às suas competências constitucionais para a correta e perfeita prestação de serviços à sociedade.",
+            "C) Não poderá haver centralização de compras para materiais, equipamentos e serviços relacionados a área administrativa.",
+            "D) As compras públicas a que esta diretriz se refere, são dos materiais, equipamentos e serviços relacionados a área operacional do Corpo de Bombeiros Militar de Santa Catarina."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A centralização de compras visa justamente obter economia de escala e padronização de materiais, serviços e equipamentos de uso comum, aplicando-se também aos itens de natureza administrativa, tornando a alternativa incorreta."
+        },
+        {
+          "id": 3,
+          "enunciado": "O \"Mapa de Riscos\", que deve ser revisado à medida que o planejamento avança devido à constante evolução das necessidades e circunstâncias, devendo ser atualizado e incluído nos seguintes momentos, assinale a opção correta:",
+          "alternativas": [
+            "A) Ao final da elaboração do Estudo Técnico Preliminar",
+            "B) Antes de eventos relevantes",
+            "C) Antes da fase de Seleção do Fornecedor",
+            "D) No início da elaboração do Termo de Referência"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "O Mapa de Riscos é um documento dinâmico que deve ser atualizado e incluído ao final da elaboração do Estudo Técnico Preliminar (ETP) para consolidar a análise de riscos antes de avançar para a elaboração do Termo de Referência."
+        },
+        {
+          "id": 4,
+          "enunciado": "Em relação ao CINCATARINA, as licitações compartilhadas tem por objetivo obter a proposta mais vantajosa, a legislação sobre licitação regula que as despesas realizadas no interesse público devem ocorrer de forma ______________, ______________ e ___________.\nAssinale a alternativa correta que preenche as lacunas:",
+          "alternativas": [
+            "A) Racional, Econômica e Eficiente",
+            "B) Célere, Objetiva e Racional",
+            "C) Abrangente, Objetiva e Racional",
+            "D) Eficiente, Racional e Célere"
+          ],
+          "respostaCorreta": 0,
+          "justificativa": "A aplicação dos recursos públicos deve sempre prezar pela eficiência e pela economia, de modo que a legislação e os consórcios públicos orientam que as despesas devem ocorrer de forma racional, econômica e eficiente."
+        },
+        {
+          "id": 5,
+          "enunciado": "Quanto às Normas Gerais para compras públicas no CBMSC, assinale a opção incorreta:",
+          "alternativas": [
+            "A) Os materiais de prioridade 1 devem possuir seus respectivos indicadores no nível BOM antes de considerar a aquisição dos materiais de prioridade 2.",
+            "B) As especificações padrão do CBMSC devem ser disponibilizadas no site da corporação para consulta das OBMs e do efetivo.",
+            "C) Não poderá haver centralização de compras para materiais, equipamentos e serviços relacionados a área administrativa.",
+            "D) As aquisições devem ser realizadas in ordem de prioridade estabelecida no Mapa de Indicadores de Avaliação, disponível no Sistema de Apoio a Gestão – SAG."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "As Normas Gerais do CBMSC permitem a centralização de compras também para itens administrativos com o objetivo de obter maior economia de escala e padronização corporativa."
+        },
+        {
+          "id": 6,
+          "enunciado": "Sobre a adesão de atas de registro de preços no CBMSC é correto afirmar:",
+          "alternativas": [
+            "A) Não há possibilidade de adesão à atas do CBMSC na qualidade de unidade não participante (carona).",
+            "B) A OBM requisitante deve formalmente consultar o fornecedor vencedor do certame (cujo e-mail está na ARP), não necessitando solicitar autorização para adesão à ARP do CBMSC.",
+            "C) O limite máximo de adesões como unidade participante não deve exceder o dobro do quantitativo de cada item registrado na ARP, sendo que cada item por unidade participante pode ultrapassar 50% (cinquenta por cento) do quantitativo registrado.",
+            "D) É permitida a adesão às ARP gerenciadas pelo CBMSC na condição de unidade NÃO participante (carona), desde que essa possibilidade esteja prevista no edital."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A legislação prevê a figura da unidade não participante (carona) que pode aderir às atas de registro de preços de outros órgãos ou entidades, desde que devidamente justificado, haja autorização e previsão explícita no instrumento convocatório."
+        },
+        {
+          "id": 7,
+          "enunciado": "Em relação aos consórcios públicos, assinale a opção incorreta:",
+          "alternativas": [
+            "A) Consórcio Público quando constituído na forma de Associação Pública é uma pessoa jurídica formada exclusivamente por entes federados com a finalidade de cooperação federativa.",
+            "B) Os consórcios públicos podem atuar de forma finalitárias ou multifinalitárias, executando diversas ações conjuntas.",
+            "C) O CINCATARINA busca a verificação de atendimento das marcas para pré qualificação em fase anterior à disputa, de forma a reduzir o tempo de análise após a fase de lances do pregão e garantir maior confiabilidade do produto adquirido.",
+            "D) O CINCATARINA foi constituído com possibilidade de associar municípios catarinenses. A associação ocorre com a aprovação de lei específica pelo Estado."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A associação a um consórcio intermunicipal como o CINCATARINA ocorre por meio de leis autorizativas editadas pelos próprios municípios associados que ratificam o protocolo de intenções, e não por lei específica estadual."
+        },
+        {
+          "id": 8,
+          "enunciado": "Na unidade didática sobre adesão à atas de registro de preço no CBMSC estudamos alguns termos e definições, sobre eles assinale a alternativa correta:",
+          "alternativas": [
+            "A) Sistema de Registro de Preços (SRP) é um conjunto de procedimentos para a realização, mediante contratação indireta ou licitação nas modalidades pregão ou concorrência.",
+            "B) Órgão ou entidade não participante é órgão ou entidade da Administração Pública que participa dos procedimentos iniciais da contratação para registro de preços e integra a ata de registro de preços.",
+            "C) Autorização de fornecimento é um instrumento hábil expedido pela Administração para que o contratado realize os fornecimentos em quantidade, prazo e local definidos no edital.",
+            "D) Ata de Registro de Preços (ARP) é um documento desvinculativo e obrigacional, com característica de compromisso para presente e eventual contratação, no qual são registrados o objeto, os preços, os fornecedores, os órgãos ou às entidades participantes e as condições a serem praticadas."
+          ],
+          "respostaCorreta": 2,
+          "justificativa": "A Autorização de Fornecimento é o instrumento formal emitido pela Administração para requisitar a entrega dos bens ou a prestação dos serviços nas quantidades e condições estabelecidas na ata de registro de preços."
+        },
+        {
+          "id": 9,
+          "enunciado": "Sobre o gerenciamento de riscos apresentado nas normas gerais para compras públicas é incorreto afirmar:",
+          "alternativas": [
+            "A) Visa identificar os principais riscos que podem comprometer a efetividade da contratação ou prejudicar os resultados que atendam às necessidades do órgão.",
+            "B) A etapa de Gerenciamento de Riscos, exceto na fase de gestão do contrato, pode ser dispensada em contratações indiretas.",
+            "C) Gerenciar riscos é avaliar os riscos identificados, mensurando a probabilidade de ocorrência e o seu possível impacto.",
+            "D) Gerenciar riscos é implementar tratamento aos riscos, definindo ações para reduzir a probabilidade de ocorrência dos eventos e consequências (\"ações preventivas\")."
+          ],
+          "respostaCorreta": 1,
+          "justificativa": "O gerenciamento de riscos é uma obrigação essencial de planejamento da contratação, sendo incorreto afirmar que pode ser genericamente dispensada em contratações indiretas."
+        },
+        {
+          "id": 10,
+          "enunciado": "Sobre o Estudo Técnico Preliminar, assinale a alternativa incorreta:",
+          "alternativas": [
+            "A) Em processos de compras considerados estruturantes para o CBMSC pelo Comando-Geral, o Estudo Técnico Preliminar - ETP será elaborado pela BM-4.",
+            "B) Durante a elaboração do ETP, podem ser solicitados testes ou estudos adicionais para complementar a definição da demanda necessária, assim como para determinar qual material ou equipamento é mais vantajoso para a Administração Pública.",
+            "C) Na elaboração das atas de registro de preços do CINCATARINA, a BM-4 será a conexão entre o CBMSC e o Consórcio, atuando na padronização das especificações e consulta técnica.",
+            "D) Se o ETP precisar ser desenvolvido para um material ou equipamento não listado em nenhuma ata de registro de preço do CBMSC ou do CINCATARINA, a responsabilidade é do BM-4."
+          ],
+          "respostaCorreta": 3,
+          "justificativa": "A elaboração do ETP para aquisição de itens específicos não catalogados em atas vigentes é de encargo do órgão ou setor demandante correspondente, e não de responsabilidade automática ou exclusiva da seção BM-4."
+        }
+      ]
     }
   ]
 }
