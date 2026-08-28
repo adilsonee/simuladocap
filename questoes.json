@@ -3051,6 +3051,745 @@
           "justificativa": "A elaboração do ETP para aquisição de itens específicos não catalogados em atas vigentes é de encargo do órgão ou setor demandante correspondente, e não de responsabilidade automática ou exclusiva da seção BM-4."
         }
       ]
+    },
+    {
+      "id": "sistema_recursos_humanos",
+      "nome": "Sistema de Recursos Humanos",
+      "descricao": "Estudo do Sistema Integrado de Gestão de Recursos Humanos (SIGRH) no âmbito do CBMSC.",
+      "questoes": [
+        {
+          "id": 1,
+          "enunciado": "Quanto ao layout mais comum do SiGRH apresentado ao usuário, classifique a afirmativas abaixo em VERDADEIRAS ou FALSAS e posteriormente selecione a opção correta:\n1. A primeira contém as opções para alteração, anulação e exclusão.\n2. A segunda, abaixo dos comandos iniciais (Novo, Listar, Imprimir e Ajuda) serão apresentados os resultados da pesquisa (listagem). Estes resultados podem ser selecionados ou impressos.\n3. A partir da localização de registros temos acesso a terceira parte da tela, com os Filtros de Pesquisa.",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Somente as afirmativas 2 e 3 são verdadeiras.",
+            "B) Somente as afirmativas 1 e 3 são verdadeiras.",
+            "C) Somente a afirmativa 2 é verdadeira.",
+            "D) Todas as afirmativas são verdadeiras."
+          ],
+          "respostaCorreta": 2,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A segunda afirmativa é verdadeira: abaixo dos comandos iniciais (Novo, Listar, Imprimir e Ajuda) serão apresentados os resultados da pesquisa (listagem). A primeira afirmativa está incorreta pois a primeira parte da tela contém os Filtros de Pesquisa, e a terceira afirmativa está incorreta pois a terceira parte contém as opções de alteração, anulação e exclusão (rodapé)."
+        },
+        {
+          "id": 2,
+          "enunciado": "O Menu do Sistema pode variar de acordo com o perfil cadastrado para o usuário. A partir do seu acionamento apresenta ao usuário três partes componentes. Associe os componentes do Menu do Sistema aos seus respectivos locais/funções:",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "CADASTRO, CONTROLE GERENCIAL, ESTRUTURA ORGANIZACIONAL, etc.",
+              "respostaCorreta": "Módulo"
+            },
+            {
+              "texto": "DEPENDENTE, FUNÇÃO, PESSOA, VÍNCULO, etc.",
+              "respostaCorreta": "Submódulo"
+            },
+            {
+              "texto": "01. MAPEAR RELAÇÕES DE VÍNCULO/CONTRATO, 02. EMITIR TRANSCRIÇÃO FUNCIONAL, 03. MANTER DADOS BANCÁRIOS, 04. MANTER DOCUMENTOS DIGITAIS, 08. PESQUISAR SERVIDORES.",
+              "respostaCorreta": "Funcionalidades"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Funcionalidades",
+            "Módulo",
+            "Submódulo"
+          ],
+          "justificativa": "Os três componentes do Menu do Sistema são: Módulo (agrupa submódulos como Cadastro, Controle Gerencial), Submódulo (agrupa funcionalidades como Pessoa, Vínculo, Dependente) e Funcionalidades (as operações em si, como Mapear Relações de Vínculo, Emitir Transcrição Funcional, etc.)."
+        },
+        {
+          "id": 3,
+          "enunciado": "Marque a alternativa CORRETA que apresenta a definição do SiGRH prevista no Decreto 1.181 de 2008:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) SIGRH é a ferramenta tecnológica do Sistema Administrativo de Gestão de Recursos Humanos SAGRH, utilizada para estruturar, organizar e operacionalizar os processos administrativos de recursos humanos, tendo como função facilitar o acesso às informações, tornando-as transparentes e garantindo maior agilidade e qualidade dos serviços públicos.",
+            "B) O SIGRH mantém as bases de dados com informações cadastrais, funcionais e financeiras dos servidores da administração pública estadual.",
+            "C) O conceito de Sistema Integrado consiste em interligar Módulos distintos a uma única base de dados.",
+            "D) O SIGRH informatiza os procedimentos de recursos humanos, tais como: marcação/alteração de férias."
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "O Decreto Estadual nº 1.181/2008 define o SIGRH especificamente como a ferramenta tecnológica do Sistema Administrativo de Gestão de Recursos Humanos (SAGRH), destinada a estruturar, organizar e operacionalizar os processos administrativos de RH."
+        },
+        {
+          "id": 4,
+          "enunciado": "Durante a utilização do SIGRH poderão ser apresentadas mensagens do sistema ou mensagens de alerta orientando o usuário sobre questões relativas à utilização ou para confirmação prévia ou posterior de operações no sistema. Assinale as alternativas que apresentam exemplos de mensagens de alerta ou notificações do SIGRH:",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Preencha pelo menos um dos campos marcados com (*)",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Cuidado, risco de choque elétrico",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "O registro será excluído (Anulado). SIM ou NÃO?",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Atenção, sentido obrigatório",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Atenção, bateria em nível baixo",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Alteração (Anulação, Exclusão) realizada com sucesso",
+              "respostaCorreta": "Verdadeiro"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "As mensagens típicas do SIGRH são relativas à operação do sistema, tais como: 'Alteração (Anulação, Exclusão) realizada com sucesso', 'O registro será excluído (Anulado). SIM ou NÃO?' e alertas de validação de campos obrigatórios como 'Preencha pelo menos um dos campos marcados com (*)'."
+        },
+        {
+          "id": 5,
+          "enunciado": "O SIGRH disponibiliza ao usuário três ambientes para utilização que podem ser acessados com a digitação de endereços específicos no navegador de internet. Faça a correta relação entre os ambientes e seus endereços:",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "SIGRH (Sistema Integrado de Gestão de Recursos Humanos)",
+              "respostaCorreta": "http://sigrh.sea.sc.gov.br"
+            },
+            {
+              "texto": "SIGRH Homologação (Modo Homologação)",
+              "respostaCorreta": "http://sigrhhom.sea.sc.gov.br"
+            },
+            {
+              "texto": "Portal do Servidor Público do Estado de Santa Catarina",
+              "respostaCorreta": "http://sigrhportal.sea.sc.gov.br"
+            }
+          ],
+          "opcoesAssociacao": [
+            "http://sigrh.sea.sc.gov.br",
+            "http://sigrhhom.sea.sc.gov.br",
+            "http://sigrhportal.sea.sc.gov.br"
+          ],
+          "justificativa": "A correspondência correta dos links é: SIGRH de produção (http://sigrh.sea.sc.gov.br), Portal do Servidor (http://sigrhportal.sea.sc.gov.br) e Ambiente de Homologação/Testes (http://sigrhhom.sea.sc.gov.br)."
+        },
+        {
+          "id": 6,
+          "enunciado": "Classifique em VERDADEIRAS ou FALSAS as opções que correspondem aos requisitos necessários para acesso ao SiGRH pelo usuário com atribuições funcionais de manutenção do sistema:",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "O acesso ao SIGRH pode ser feito de qualquer lugar sem necessidade de qualquer conexão especial.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Na barra de endereço do navegador web, deverá ser digitado o endereço público geral (qualquer um).",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Estar conectado a Rede de Governo do estado de Santa Catarina.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Não existe necessidade de ser cadastrado, basta utilizar o mesmo usuário e senha de acesso ao Portal do Servidor.",
+              "respostaCorreta": "Falso"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "1. Falsa (necessita de conexão especial como Rede de Governo). 2. Falsa (o endereço correto é http://sigrh.sea.sc.gov.br). 3. Verdadeira. 4. Falsa (é necessário cadastro junto ao setorial de RH)."
+        },
+        {
+          "id": 7,
+          "enunciado": "São componentes da estrutura padrão das funcionalidades do SiGRH os Controles (objetos visuais nas telas). Faça a correta associação entre os tipos de controles e suas descrições:",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Novo, Listar, Imprimir, Ajuda",
+              "respostaCorreta": "Botões de Comando ou de Ação"
+            },
+            {
+              "texto": "Radio buttons / seleção única",
+              "respostaCorreta": "Botão de Opção"
+            },
+            {
+              "texto": "Dropdown/Menu suspenso",
+              "respostaCorreta": "Caixa de Listagem"
+            },
+            {
+              "texto": "Checkbox / múltipla escolha",
+              "respostaCorreta": "Caixa de Seleção"
+            },
+            {
+              "texto": "Caixa de entrada de texto",
+              "respostaCorreta": "Campo de Texto"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Botão de Opção",
+            "Botões de Comando ou de Ação",
+            "Caixa de Listagem",
+            "Caixa de Seleção",
+            "Campo de Texto"
+          ],
+          "justificativa": "A associação dos controles do SIGRH é: Botões de Ação (Novo, Listar, Imprimir, Ajuda); Botão de Opção (Radio button); Caixa de Listagem (Dropdown); Caixa de Seleção (Checkbox); Campo de Texto (entrada de texto)."
+        },
+        {
+          "id": 8,
+          "enunciado": "Sobre o layout Geral do SIGRH e as ferramentas disponibilizadas no menu superior, selecione a alternativa correta contendo a lista de ícones/rótulos padrões presentes na barra superior:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Suporte, Acesso, Sair, Ajuda, Pesquisa/Busca, Avisos.",
+            "B) Imprimir, Listar, Excluir, Novo, Salvar.",
+            "C) Férias, Afastamentos, Licenças, Promoção, Comportamento.",
+            "D) Cadastro, Vínculo, Pessoa, Dependentes, Histórico."
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "Os ícones da barra superior no layout geral do SIGRH incluem opções de Suporte, Acesso, Sair, Ajuda (?), Pesquisa/Busca e Avisos."
+        },
+        {
+          "id": 9,
+          "enunciado": "Classifique em VERDADEIRAS ou FALSAS as opções relativas aos requisitos de acesso ao SiGRH:",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Não existe necessidade de estar conectado a Rede de Governo do estado de Santa Catarina.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "O acesso ao SiGRH não pode ser feito de qualquer lugar, existe a necessidade de estar conectado à rede de governo do estado.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Não existe necessidade de ser cadastrado, basta utilizar o mesmo usuário e senha de acesso ao Portal do Servidor.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Na barra de endereço do navegador web, deverá ser digitado o seguinte endereço: http://sigrh.sea.sc.gov.br",
+              "respostaCorreta": "Verdadeiro"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "Requisitos de acesso ao SIGRH: 1. Falsa (necessita rede de governo). 2. Verdadeira (acesso restrito à rede de governo). 3. Falsa (exige cadastro no setorial de RH). 4. Verdadeira (o endereço correto é http://sigrh.sea.sc.gov.br)."
+        },
+        {
+          "id": 10,
+          "enunciado": "A partir do Menu do Sistema serão apresentados os módulos, submódulos e funcionalidades do SIGRH de acordo com o perfil de acesso do usuário. Sobre a funcionalidade MANTER PESSOAS, é INCORRETO afirmar:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) É a primeira funcionalidade a ser estudada devido a ser porta de entrada para novos servidores.",
+            "B) A funcionalidade permite apresentar os eventos (capacitações, treinamentos e estágios) que a pessoa tem nos órgãos ou empresas públicas.",
+            "C) Esta funcionalidade permite a consulta, inclusão, alteração, listagem e impressão de registros cadastrais de pessoas que tenham qualquer relação com o estado.",
+            "D) A inclusão de novos registros (novos servidores) é exclusividade dos setoriais de seleção e ingresso de servidores, ou seja, administrativos/gerencial."
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A alternativa B é a incorreta porque a funcionalidade que apresenta eventos de capacitação e treinamentos do servidor é a 'Manter Formação Acadêmica' ou 'Desenvolvimento Funcional', e não a 'Manter Pessoas', que trata dos dados cadastrais básicos da pessoa."
+        },
+        {
+          "id": 11,
+          "enunciado": "A alteração de Dados Cadastrais é possível com a utilização das opções exibidas no campo inferior da funcionalidade Manter Pessoas. Faça a correta associação entre as opções e a sua descrição:",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Link para funcionalidade Documentos Digitais",
+              "respostaCorreta": "Documentos Digitais"
+            },
+            {
+              "texto": "Endereço, Opção de 2º endereço, Telefones para Contato",
+              "respostaCorreta": "Endereço"
+            },
+            {
+              "texto": "Nome, Data e Município de Nascimento, Nomes dos Pais, Nacionalidade, E-mail",
+              "respostaCorreta": "Informações Principais"
+            },
+            {
+              "texto": "Informações biométricas e ficha de fardamento",
+              "respostaCorreta": "Dados Biométricos"
+            },
+            {
+              "texto": "Registro de toda Documentação",
+              "respostaCorreta": "Documentos"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Dados Biométricos",
+            "Documentos",
+            "Documentos Digitais",
+            "Endereço",
+            "Informações Principais"
+          ],
+          "justificativa": "A associação de guias na alteração de dados cadastrais é: Documentos Digitais (link para anexos digitais); Endereço (endereço principal, secundário e telefones); Informações Principais (nome, pais, nascimento, email); Dados Biométricos (biometria e fardamento); Documentos (RG, CPF, CNH, etc.)."
+        },
+        {
+          "id": 12,
+          "enunciado": "Em relação à funcionalidade MAPEAR RELAÇÕES DE VÍNCULO/CONTRATO é CORRETO afirmar:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Usuários de nível operacional possuem a opção de inclusão, alteração e exclusão dos registros de vínculo/contrato.",
+            "B) A funcionalidade permite apresentar as relações de vínculo que a pessoa tem nos órgãos ou empresas públicas.",
+            "C) Informações sobre a funcionalidade estão indisponíveis no Manual Computacional.",
+            "D) Para o acesso a partir do Menu do Sistema, clique em Desenv Funcional, Currículo e em 01 - MANTER FORMAÇÃO ACADÊMICA."
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A funcionalidade 'Mapear Relações de Vínculo/Contrato' permite apresentar as relações de vínculo (como cargo, admissão, regime de trabalho) que a pessoa tem nos órgãos ou empresas públicas."
+        },
+        {
+          "id": 13,
+          "enunciado": "Sobre a funcionalidade MANTER FORMAÇÃO ACADÊMICA, assinale a única alternativa INCORRETA:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) A funcionalidade permite consultar registros de formação, experiência profissional, informação de conhecimento, competências e habilidades profissionais.",
+            "B) A funcionalidade permite a consulta (listagem) e impressão dos eventos registrados para o servidor (cursos, estágios e treinamentos).",
+            "C) Usuários de nível operacional somente possuem a opção de consulta, a inclusão, alteração e exclusão dos registros são exclusividades dos setoriais administrativos do órgão.",
+            "D) Informações detalhadas sobre a funcionalidade estão disponíveis no Manual Computacional."
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A alternativa B é a incorreta porque a consulta e impressão de eventos registrados do servidor (cursos, estágios, treinamentos) é realizada no submódulo Desenvolvimento Funcional / Eventos, e não na funcionalidade 'Manter Formação Acadêmica', que trata da escolaridade do servidor."
+        },
+        {
+          "id": 14,
+          "enunciado": "Sobre a Janela de Impressão no SIGRH, faça a correta associação entre a descrição e a sua respectiva opção:",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Permite indicar o campo de totalização, sendo aplicada uma contagem a partir da informação selecionada.",
+              "respostaCorreta": "Campo para Totalização"
+            },
+            {
+              "texto": "Pode variar de acordo com a funcionalidade (Nome, Matrícula, CPF, Sexo, Data de Nascimento, etc.). É obrigatório adicionar pelo menos uma informação.",
+              "respostaCorreta": "Campo para Impressão"
+            },
+            {
+              "texto": "Permite selecionar o formato do arquivo que será obtido (PDF, Excel, HTML).",
+              "respostaCorreta": "Formato"
+            },
+            {
+              "texto": "Permite indicar a ordem de apresentação dos registros no documento que será fornecido (numérica ou alfabética).",
+              "respostaCorreta": "Campo para Classificação"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Campo para Classificação",
+            "Campo para Impressão",
+            "Campo para Totalização",
+            "Formato"
+          ],
+          "justificativa": "A associação na Janela de Impressão é: Totalização = Campo para Totalização; Impressão = Campo para Impressão; Formato = Formato (PDF/Excel/HTML); Ordem = Campo para Classificação."
+        },
+        {
+          "id": 15,
+          "enunciado": "O usuário que necessita realizar a consulta detalhada das relações de vínculo que a pessoa tem nos órgãos ou empresas públicas deve selecionar qual Módulo, Submódulo e Funcionalidade?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Módulo: CADASTRO | Submódulo: VÍNCULO | Funcionalidade: 01. MAPEAR RELAÇÕES DE VÍNCULO/CONTRATO",
+            "B) Módulo: CADASTRO | Submódulo: PESSOA | Funcionalidade: 01. MANTER PESSOAS",
+            "C) Módulo: AFASTAMENTOS | Submódulo: VÍNCULO | Funcionalidade: 02. MAPEAR VÍNCULOS",
+            "D) Módulo: CONTROLE GERENCIAL | Submódulo: VÍNCULO | Funcionalidade: 01. REGISTRAR CONTRATO"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "Para consultar relações de vínculo, o caminho correto no SIGRH é: Módulo: CADASTRO > Submódulo: VÍNCULO > Funcionalidade: 01. MAPEAR RELAÇÕES DE VÍNCULO/CONTRATO."
+        },
+        {
+          "id": 16,
+          "enunciado": "Na janela de Detalhar Pessoa (com guias como Informações Principais, Endereço, Primeiro Emprego, Documentos, Dados Biométricos, Dependentes), qual tipo de informação é apresentado?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Informações Sociais",
+            "B) Informações Funcionais",
+            "C) Informações Financeiras",
+            "D) Informações Cadastrais"
+          ],
+          "respostaCorreta": 3,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A janela 'Detalhar Pessoa' agrupa as informações de cunho estritamente cadastral (dados civis, filiação, contatos, documentos pessoais e biometria)."
+        },
+        {
+          "id": 17,
+          "enunciado": "Avalie as afirmativas sobre a funcionalidade MANTER FÉRIAS INDIVIDUAIS classificando-as em VERDADEIRAS ou FALSAS:",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "A forma de cumprimento da jornada e escala trabalhada pelo militar deve ser considerada e determina a alteração da programação de férias.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Iniciando o usufruto de férias durante a folga regulamentar decorrente da escala de trabalho, o militar perderá o direito a folga sem opção de reposição.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "A programação de férias deverá ser registrada no SIGRH de acordo com a normatização existente no órgão do usuário.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Permite o gerenciamento das férias dos servidores, possibilitando ao usuário realizar a consulta, alteração, exclusão e anulação dos registros de período aquisitivo, usufruto e adiantamento de férias.",
+              "respostaCorreta": "Verdadeiro"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "Férias individuais: 1. Verdadeira (escala interfere). 2. Falsa (o início do gozo em folga regulamentar não retira o direito à folga, que deve ser preservada/reposta). 3. Verdadeira (respeita regulamentos internos). 4. Verdadeira (escopo da funcionalidade)."
+        },
+        {
+          "id": 18,
+          "enunciado": "Na funcionalidade MANTER FÉRIAS INDIVIDUAIS, qual controle o usuário deve utilizar para realizar a IMPRESSÃO dos registros de férias?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Campo de texto: Matrícula",
+            "B) Botão de Ação: Imprimir",
+            "C) Botão de Ação: Listar",
+            "D) Botão de Ação (Opção): Programação",
+            "E) Botão de Ação: Novo"
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "O controle padrão utilizado para impressão de relatórios/registros nas telas de controle do SIGRH é o Botão de Ação 'Imprimir'."
+        },
+        {
+          "id": 19,
+          "enunciado": "Com relação à funcionalidade MANTER LICENÇA ESPECIAL, assinale a única alternativa CORRETA:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) A funcionalidade permite consultar registros de formação, experiência profissional e escolaridade.",
+            "B) A funcionalidade permite o gerenciamento das Licenças Prêmio e Especiais dos servidores, possuindo um funcionamento muito semelhante à funcionalidade Manter Férias, permitindo a consulta, alteração, exclusão e anulação dos registros de período aquisitivo e usufruto.",
+            "C) Nesta funcionalidade é permitido apresentar as relações de vínculo que a pessoa tem com a administração indireta.",
+            "D) Esta funcionalidade permite a consulta, inclusão, alteração, impressão ou exclusão de dados biográficos de dependentes."
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A funcionalidade 'Manter Licença Especial' é análoga à de Férias, permitindo gerir períodos aquisitivos, usufruto e anulações de licenças especiais/prêmio dos servidores."
+        },
+        {
+          "id": 20,
+          "enunciado": "Sobre a funcionalidade MANTER AFASTAMENTOS, classifique as afirmativas em VERDADEIRA ou FALSA e assinale a opção correta:\n1. Utilizando a tela Pesquisa Auxiliar de Motivos de Afastamento, pode-se utilizar diretamente o campo de Motivo de Afastamento com palavras-chave e caracteres especiais.\n2. A funcionalidade está disponível no seguinte caminho: Menu do Sistema, Afastamentos, Afastamentos Gerais.\n3. Permite adicionar filtros específicos com seleção de tipos, grupos e motivos, assinalar marcadores de período, contribuição e exibição de registros anulados.\n4. A funcionalidade permite o gerenciamento das Licenças Prêmio e Especiais dos servidores, tendo funcionamento muito semelhante à funcionalidade Manter Férias.",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Somente as afirmativas I, II e IV são verdadeiras.",
+            "B) Somente as afirmativas I e III são verdadeiras.",
+            "C) Todas as afirmativas são verdadeiras.",
+            "D) Somente a afirmativa IV é falsa."
+          ],
+          "respostaCorreta": 3,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A afirmativa IV é falsa porque o gerenciamento de Licenças Prêmio e Especiais é feito na funcionalidade 'Manter Licença Especial', e não na 'Manter Afastamentos'. As demais afirmativas (I, II e III) são verdadeiras."
+        },
+        {
+          "id": 21,
+          "enunciado": "Ao realizar o registro de um afastamento na funcionalidade 'Manter Afastamentos', considerando os impactos administrativos previstos na legislação militar, classifique cada afirmação sobre a utilização de um código não regulamentado pela Portaria nº 310/2024 como VERDADEIRA ou FALSA:",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Pode prejudicar o militar porque o sistema bloqueará automaticamente o acesso dele ao SIGRH.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Pode prejudicar o militar porque impede a emissão da Ficha de Conduta pelo submódulo Comportamento.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Pode prejudicar o militar porque pode ocasionar desconto indevido na remuneração e a não contabilização do tempo de serviço.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Pode prejudicar o militar porque ele perderá automaticamente o direito ao usufruto de férias e licença especial.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Pode prejudicar o militar porque o SIGRH anulará todos os elogios registrados no histórico disciplinar do servidor.",
+              "respostaCorreta": "Falso"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "Apenas a afirmação de que pode ocasionar desconto indevido na remuneração e a não contabilização do tempo de serviço é verdadeira. As outras consequências (bloqueio do sistema, impedimento da ficha de conduta, perda de férias ou anulação de elogios) não ocorrem por uso de código incorreto."
+        },
+        {
+          "id": 22,
+          "enunciado": "Na janela de Pesquisa Auxiliar de Motivos de Afastamento, qual o conjunto de caracteres que foi pesquisado e a forma de pesquisa utilizada para retornar os resultados (ex: LICENCA TRATAMENTO DE SAUDE-COVID-19, 1719 LICENCA PARA TRATAMENTO DE SAUDE, etc.)?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) *LICENCA e Pesquisa Direta Simples",
+            "B) *TRATAMENTO e Pesquisa Restrita",
+            "C) *SAUDE e Pesquisa Estendida",
+            "D) LICENCA e Pesquisa por Matrícula"
+          ],
+          "respostaCorreta": 2,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "Para pesquisar por termos no meio do texto, utiliza-se o caractere coringa (*) antes do termo (como *SAUDE) e a modalidade de Pesquisa Estendida."
+        },
+        {
+          "id": 23,
+          "enunciado": "Complete a frase sobre a utilização da tela da funcionalidade Manter Licença Especial / Prêmio:",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Utilize o comando [____] para registrar um período de usufruto.",
+              "respostaCorreta": "Novo"
+            },
+            {
+              "texto": "Para imprimir os registros existe o botão [____].",
+              "respostaCorreta": "Imprimir"
+            },
+            {
+              "texto": "Ainda existe a possibilidade de [____] dos registros existentes, utilizando as opções do rodapé da tela.",
+              "respostaCorreta": "exclusão e anulação"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Imprimir",
+            "Novo",
+            "exclusão e anulação"
+          ],
+          "justificativa": "A sequência lógica para as ações da tela é: 'Novo' para registrar usufruto, 'Imprimir' para gerar relatório, e 'exclusão e anulação' no rodapé da tela."
+        },
+        {
+          "id": 24,
+          "enunciado": "Avalie as afirmativas sobre a funcionalidade MANTER FÉRIAS INDIVIDUAIS:\n1. Permite o gerenciamento das férias dos servidores (consulta, alteração, exclusão e anulação).\n2. A programação de férias deverá ser registrada no SIGRH de acordo com a normatização existente.\n3. A forma de cumprimento da jornada e escala trabalhada pelo militar devem ser consideradas.\n4. Iniciando o usufruto de férias durante a folga regulamentar decorrente da escala de trabalho, o militar perderá o direito a folga sem opção de reposição.",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Todas as afirmativas são verdadeiras.",
+            "B) Todas as alternativas são falsas.",
+            "C) Apenas as afirmativas I e II são verdadeiras.",
+            "D) Apenas a afirmativa IV é falsa."
+          ],
+          "respostaCorreta": 3,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A afirmativa IV é falsa porque o militar não perde o direito à folga regulamentar se iniciar as férias nela; as folgas devem ser preservadas ou compensadas de acordo com as normas da corporação."
+        },
+        {
+          "id": 25,
+          "enunciado": "A partir do Menu do Sistema, indique o caminho correto (Módulo, Submódulo, Funcionalidade) para o gerenciamento de férias dos servidores:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Módulo: AFASTAMENTOS | Submódulo: FÉRIAS | Funcionalidade: 01. MANTER FÉRIAS INDIVIDUAIS",
+            "B) Módulo: CADASTRO | Submódulo: FÉRIAS | Funcionalidade: 02. PROGRAMAR FÉRIAS",
+            "C) Módulo: CONTROLE GERENCIAL | Submódulo: AFASTAMENTOS | Funcionalidade: 01. LANÇAR FÉRIAS",
+            "D) Módulo: AFASTAMENTOS | Submódulo: LICENÇAS | Funcionalidade: 01. MANTER FÉRIAS"
+          ],
+          "respostaCorreta": 0,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "O caminho correto no menu do SIGRH para gerenciar férias é: Módulo: AFASTAMENTOS > Submódulo: FÉRIAS > Funcionalidade: 01. MANTER FÉRIAS INDIVIDUAIS."
+        },
+        {
+          "id": 26,
+          "enunciado": "O submódulo Comportamento disponibiliza aos usuários de nível operacional a funcionalidade 01. MANTER HISTÓRICO DISCIPLINAR. Classifique as afirmativas abaixo como VERDADEIRAS ou FALSAS:",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Possibilita a consulta das punições, elogios, comutações e cancelamento de punições dos militares estaduais.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Permite a emissão da Ficha de Conduta do Militar.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Permite que o sargenteante realize a alteração da classificação do comportamento do militar.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Usuários de nível operacional não possuem permissão para cadastrar ou alterar elogios ou punições na tela da funcionalidade.",
+              "respostaCorreta": "Verdadeiro"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "As afirmativas 1, 2 e 4 estão corretas. A afirmativa 3 está incorreta porque sargenteantes operacionais não alteram a classificação do comportamento discricionariamente no sistema; isso é calculado pelo próprio sistema ou homologado por autoridade delegada."
+        },
+        {
+          "id": 27,
+          "enunciado": "Com relação às funcionalidades do submódulo COMPORTAMENTO (Manter Histórico Disciplinar e Emitir Ficha de Conduta), assinale a única opção INCORRETA:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Na funcionalidade 02. EMITIR FICHA DE CONDUTA é possível consultar a classificação do Comportamento Atual do militar.",
+            "B) A funcionalidade 01. MANTER HISTÓRICO DISCIPLINAR possibilita a consulta das punições, elogios, comutações e cancelamento de punições.",
+            "C) Usuários de nível operacional possuem acesso liberado para cadastrar elogios e punições na funcionalidade 01. MANTER HISTÓRICO DISCIPLINAR.",
+            "D) A emissão da Ficha de Conduta pode ser realizada tanto pela funcionalidade 01. MANTER HISTÓRICO DISCIPLINAR quanto pela 02. EMITIR FICHA DE CONDUTA."
+          ],
+          "respostaCorreta": 2,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A alternativa C é a incorreta (e resposta da questão) porque usuários de nível operacional não possuem permissão para cadastrar ou alterar elogios/punições, apenas para consulta e emissão de relatórios."
+        },
+        {
+          "id": 28,
+          "enunciado": "Para a correta utilização da funcionalidade 01. MANTER PROMOÇÃO MILITAR (Módulo Controle Gerencial > Submódulo Promoção Militar), classifique em VERDADEIRAS ou FALSAS:",
+          "tipo": "verdadeiro_falso",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "A funcionalidade pode ser utilizada por todos os usuários do SIGRH, independente do nível de acesso.",
+              "respostaCorreta": "Falso"
+            },
+            {
+              "texto": "Permite ao usuário cadastrado a inclusão de registros de promoções militares para posterior homologação.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "Permite a consulta e emissão de relatórios de promoção.",
+              "respostaCorreta": "Verdadeiro"
+            },
+            {
+              "texto": "O registro de promoção altera automaticamente a graduação/posto no cadastro do militar.",
+              "respostaCorreta": "Falso"
+            }
+          ],
+          "opcoesAssociacao": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "justificativa": "Promoção militar: 1. Falsa (exige perfil de acesso específico). 2. Verdadeira (permite inclusão para posterior homologação). 3. Verdadeira (permite consulta/relatório). 4. Falsa (depende de homologação/efetivação final)."
+        },
+        {
+          "id": 29,
+          "enunciado": "Sobre o submódulo COMPORTAMENTO, relacione as funcionalidades com suas respectivas atribuições:",
+          "tipo": "associacao",
+          "alternativas": [],
+          "respostaCorreta": -1,
+          "subItens": [
+            {
+              "texto": "Permite consultar punições, elogios e histórico disciplinar completo.",
+              "respostaCorreta": "01. MANTER HISTÓRICO DISCIPLINAR"
+            },
+            {
+              "texto": "Permite consultar a classificação do Comportamento Atual e emitir a Ficha de Conduta do Militar.",
+              "respostaCorreta": "02. EMITIR FICHA DE CONDUTA"
+            }
+          ],
+          "opcoesAssociacao": [
+            "01. MANTER HISTÓRICO DISCIPLINAR",
+            "02. EMITIR FICHA DE CONDUTA"
+          ],
+          "justificativa": "A relação de funcionalidades é: 01. MANTER HISTÓRICO DISCIPLINAR (consulta a punições, elogios, cancelamentos); 02. EMITIR FICHA DE CONDUTA (consulta de comportamento atual e geração do relatório)."
+        },
+        {
+          "id": 30,
+          "enunciado": "Ao emitir a Ficha de Conduta no SIGRH, quais informações são apresentadas no relatório gerado?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Apenas os elogios do militar.",
+            "B) Dados cadastrais, Comportamento Atual, histórico de punições, elogios, alterações e comutações do militar.",
+            "C) Dados bancários e remuneração.",
+            "D) Apenas o tempo de serviço e escala de trabalho."
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "O relatório da Ficha de Conduta reúne dados cadastrais, o Comportamento Atual homologado e o histórico completo de punições, elogios, alterações e comutações disciplinares."
+        },
+        {
+          "id": 31,
+          "enunciado": "No tocante ao registro de cursos e eventos de capacitação no SIGRH (Submódulo Desenvolvimento Funcional / Formação Acadêmica), é correto afirmar:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Qualquer usuário pode validar e homologar seus próprios cursos sem aprovação do setorial de RH.",
+            "B) Os registros de cursos e capacitações exigem comprovação documental e validação pelos setores competentes/setorial de RH.",
+            "C) Cursos externos não podem ser inseridos no SIGRH.",
+            "D) Não há impacto de cursos na carreira ou promoção do militar."
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A inserção e homologação de eventos de capacitação no SIGRH exigem a apresentação de certificado/documento comprobatório e validação pelo respectivo setorial de Recursos Humanos/Ensino."
+        },
+        {
+          "id": 32,
+          "enunciado": "Na funcionalidade MANTER AFASTAMENTOS, para pesquisar um afastamento específico utilizando a Pesquisa Auxiliar, o uso do caractere coringa (*) antes ou depois do texto (ex: *SAUDE) caracteriza qual tipo de pesquisa?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Pesquisa Exata",
+            "B) Pesquisa Estendida / Pesquisa com Caractere Coringa",
+            "C) Pesquisa por Matrícula",
+            "D) Pesquisa Restrita"
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "A utilização de asterisco (*) antes ou depois de termos de pesquisa no SIGRH indica pesquisa com caractere coringa, ou seja, pesquisa estendida."
+        },
+        {
+          "id": 33,
+          "enunciado": "No SIGRH, as alterações cadastrais de dados pessoais do servidor (como nome, estado civil, documentos) que dependem de verificação documental devem ser validadas por:",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Próprio usuário",
+            "B) Setorial de Recursos Humanos / Gestão de Pessoas do órgão",
+            "C) Chefia imediata apenas verbalmente",
+            "D) Qualquer usuário do sistema"
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "Alterações de dados pessoais/civis sensíveis requerem envio de documentação oficial e validação pelo setorial de Recursos Humanos/Gestão de Pessoas do órgão do servidor."
+        },
+        {
+          "id": 34,
+          "enunciado": "Em relação aos botões de ação padrões das telas do SIGRH (Novo, Listar, Imprimir, Ajuda), qual a função do botão 'Listar'?",
+          "tipo": "objetiva",
+          "alternativas": [
+            "A) Excluir permanentemente o registro selecionado.",
+            "B) Executar a pesquisa com base nos filtros informados e exibir o resultado em forma de listagem na tela.",
+            "C) Abrir o manual do usuário em formato PDF.",
+            "D) Gerar diretamente um arquivo Excel com o histórico do sistema."
+          ],
+          "respostaCorreta": 1,
+          "subItens": [],
+          "opcoesAssociacao": [],
+          "justificativa": "O botão 'Listar' realiza a pesquisa no banco de dados a partir dos filtros preenchidos na tela e apresenta os registros resultantes em formato de tabela/lista na interface."
+        }
+      ]
     }
   ]
 }
