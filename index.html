@@ -205,6 +205,24 @@
   .option.selected .option__mark{border-color:var(--gold); background:var(--gold);}
   .option.selected .option__mark::after{content:''; width:8px; height:8px; border-radius:50%; background:var(--bg);}
 
+  .subitem-row{
+    padding:14px 0; border-bottom:1px solid var(--line);
+  }
+  .subitem-row:last-child{border-bottom:none;}
+  .subitem-text{font-size:14.5px; line-height:1.5; margin:0 0 10px;}
+  .vf-btns{display:flex; gap:10px;}
+  .vf-btn{
+    flex:1; padding:10px 14px; border-radius:8px; border:1px solid var(--line);
+    background:var(--bg); color:var(--text); font-size:14px; font-weight:500;
+  }
+  .vf-btn:hover{border-color:var(--gold);}
+  .vf-btn.selected{border-color:var(--gold); background:var(--gold-soft); color:var(--gold);}
+  .assoc-select{
+    width:100%; padding:10px 12px; border-radius:8px; border:1px solid var(--line);
+    background:var(--bg); color:var(--text); font-size:14px; outline:none;
+  }
+  .assoc-select:focus{border-color:var(--gold);}
+
   .quiz-actions{display:flex; justify-content:space-between; gap:12px; max-width:640px; width:100%;}
   .quiz-actions .btn, .quiz-actions .btn-secondary{width:auto; flex:1;}
 
@@ -432,7 +450,8 @@
   function hide(id){ el(id).classList.add('hidden'); }
   function showOnly(id){
     ['screen-loading','screen-login','screen-shell','screen-fatal'].forEach(function(s){
-      s === id ? show(s) : hide(s);
+      if (s === 'screen-shell') { el(s).style.display = (s === id) ? 'flex' : 'none'; }
+      else { s === id ? show(s) : hide(s); }
     });
   }
   function showSub(id){
@@ -570,9 +589,10 @@
   function renderSubjectList(){
     var container = el('subject-list');
     container.innerHTML = state.disciplinas.map(function(d){
+      var validCount = d.questoes.filter(isValidQuestion).length;
       return '<button class="subject-row" data-id="' + d.id + '">' +
         '<div><div class="subject-row__name">' + escapeHtml(d.nome) + '</div>' +
-        '<div class="subject-row__count">' + d.questoes.length + ' questões</div></div>' +
+        '<div class="subject-row__count">' + validCount + ' questões</div></div>' +
         '<span class="chevron">&rsaquo;</span>' +
       '</button>';
     }).join('');
@@ -588,19 +608,32 @@
   // ---------- quantity config ----------
   var QTY_OPTIONS = [10, 20, 30, 40, 60];
 
+  function isValidQuestion(q){
+    var tipo = q.tipo;
+    if (tipo === 'verdadeiro_falso' || tipo === 'associacao'){
+      return Array.isArray(q.subItens) && q.subItens.length > 0 &&
+        q.subItens.every(function(si){ return si && typeof si.texto === 'string' && typeof si.respostaCorreta === 'string'; }) &&
+        Array.isArray(q.opcoesAssociacao) && q.opcoesAssociacao.length > 0;
+    }
+    // any other tipo (missing, "objetiva", "multipla_escolha", etc.) is treated as multiple choice
+    return Array.isArray(q.alternativas) && q.alternativas.length > 0 &&
+      typeof q.respostaCorreta === 'number' && q.respostaCorreta >= 0 &&
+      q.respostaCorreta < q.alternativas.length;
+  }
+
   function poolForCurrentSelection(){
     if (state.mode === 'geral'){
       var all = [];
       state.disciplinas.forEach(function(d){
         d.questoes.forEach(function(q){
-          all.push(Object.assign({}, q, { disciplinaNome: d.nome }));
+          if (isValidQuestion(q)) all.push(Object.assign({}, q, { disciplinaNome: d.nome }));
         });
       });
       return all;
     }
     var disc = state.disciplinas.filter(function(d){ return d.id === state.subjectId; })[0];
     if (!disc) return [];
-    return disc.questoes.map(function(q){
+    return disc.questoes.filter(isValidQuestion).map(function(q){
       return Object.assign({}, q, { disciplinaNome: disc.nome });
     });
   }
@@ -649,7 +682,7 @@
   function startQuiz(pool, qty){
     var shuffled = shuffle(pool);
     state.quizQuestions = shuffled.slice(0, qty);
-    state.answers = state.quizQuestions.map(function(){ return null; });
+    state.answers = state.quizQuestions.map(function(q){ return blankAnswerFor(q); });
     state.currentIndex = 0;
     state.startTime = Date.now();
     startTimer();
@@ -675,7 +708,7 @@
     nav.innerHTML = state.quizQuestions.map(function(q, i){
       var cls = 'nav-dot';
       if (i === state.currentIndex) cls += ' current';
-      else if (state.answers[i] !== null) cls += ' answered';
+      else if (isAnswered(q, state.answers[i])) cls += ' answered';
       return '<button class="' + cls + '" data-idx="' + i + '">' + (i + 1) + '</button>';
     }).join('');
     Array.prototype.forEach.call(nav.querySelectorAll('.nav-dot'), function(btn){
@@ -685,6 +718,26 @@
         renderNavigator();
       });
     });
+  }
+
+  function isMCQuestion(q){
+    return q.tipo !== 'verdadeiro_falso' && q.tipo !== 'associacao';
+  }
+  function isAnswered(q, ans){
+    if (isMCQuestion(q)) return ans !== null && ans !== undefined;
+    return Array.isArray(ans) && ans.some(function(v){ return v !== null && v !== undefined; });
+  }
+  function isFullyAnswered(q, ans){
+    if (isMCQuestion(q)) return ans !== null && ans !== undefined;
+    return Array.isArray(ans) && ans.length === q.subItens.length && ans.every(function(v){ return v !== null && v !== undefined; });
+  }
+  function isCorrectAnswer(q, ans){
+    if (isMCQuestion(q)) return ans === q.respostaCorreta;
+    if (!Array.isArray(ans) || ans.length !== q.subItens.length) return false;
+    return q.subItens.every(function(si, i){ return ans[i] === si.respostaCorreta; });
+  }
+  function blankAnswerFor(q){
+    return isMCQuestion(q) ? null : new Array(q.subItens.length).fill(null);
   }
 
   function renderQuestion(){
@@ -698,21 +751,68 @@
     el('quiz-discipline').textContent = q.disciplinaNome;
     el('quiz-enunciado').textContent = q.enunciado;
 
-    var optionsHtml = q.alternativas.map(function(alt, i){
-      var selected = state.answers[idx] === i;
-      return '<button class="option' + (selected ? ' selected' : '') + '" data-alt="' + i + '">' +
-        '<span class="option__mark"></span><span>' + escapeHtml(alt) + '</span>' +
-      '</button>';
-    }).join('');
-    el('quiz-options').innerHTML = optionsHtml;
+    if (isMCQuestion(q)){
+      var optionsHtml = q.alternativas.map(function(alt, i){
+        var selected = state.answers[idx] === i;
+        return '<button class="option' + (selected ? ' selected' : '') + '" data-alt="' + i + '">' +
+          '<span class="option__mark"></span><span>' + escapeHtml(alt) + '</span>' +
+        '</button>';
+      }).join('');
+      el('quiz-options').innerHTML = optionsHtml;
 
-    Array.prototype.forEach.call(el('quiz-options').querySelectorAll('.option'), function(btn){
-      btn.addEventListener('click', function(){
-        state.answers[idx] = parseInt(btn.getAttribute('data-alt'), 10);
-        renderQuestion();
-        renderNavigator();
+      Array.prototype.forEach.call(el('quiz-options').querySelectorAll('.option'), function(btn){
+        btn.addEventListener('click', function(){
+          state.answers[idx] = parseInt(btn.getAttribute('data-alt'), 10);
+          renderQuestion();
+          renderNavigator();
+        });
       });
-    });
+    } else if (q.tipo === 'verdadeiro_falso'){
+      var currentVF = state.answers[idx];
+      var vfHtml = q.subItens.map(function(si, si_idx){
+        var sel = currentVF[si_idx];
+        var btnsHtml = q.opcoesAssociacao.map(function(opt){
+          var isSel = sel === opt;
+          return '<button class="vf-btn' + (isSel ? ' selected' : '') + '" data-si="' + si_idx + '" data-val="' + escapeHtml(opt) + '">' + escapeHtml(opt) + '</button>';
+        }).join('');
+        return '<div class="subitem-row">' +
+          '<p class="subitem-text">' + escapeHtml(si.texto) + '</p>' +
+          '<div class="vf-btns">' + btnsHtml + '</div>' +
+        '</div>';
+      }).join('');
+      el('quiz-options').innerHTML = vfHtml;
+
+      Array.prototype.forEach.call(el('quiz-options').querySelectorAll('.vf-btn'), function(btn){
+        btn.addEventListener('click', function(){
+          var siIdx = parseInt(btn.getAttribute('data-si'), 10);
+          state.answers[idx][siIdx] = btn.getAttribute('data-val');
+          renderQuestion();
+          renderNavigator();
+        });
+      });
+    } else if (q.tipo === 'associacao'){
+      var currentAssoc = state.answers[idx];
+      var assocHtml = q.subItens.map(function(si, si_idx){
+        var sel = currentAssoc[si_idx];
+        var optsHtml = '<option value="" disabled ' + (sel ? '' : 'selected') + '>Selecione...</option>' +
+          q.opcoesAssociacao.map(function(opt){
+            return '<option value="' + escapeHtml(opt) + '"' + (sel === opt ? ' selected' : '') + '>' + escapeHtml(opt) + '</option>';
+          }).join('');
+        return '<div class="subitem-row">' +
+          '<p class="subitem-text">' + escapeHtml(si.texto) + '</p>' +
+          '<select class="assoc-select" data-si="' + si_idx + '">' + optsHtml + '</select>' +
+        '</div>';
+      }).join('');
+      el('quiz-options').innerHTML = assocHtml;
+
+      Array.prototype.forEach.call(el('quiz-options').querySelectorAll('.assoc-select'), function(sel){
+        sel.addEventListener('change', function(){
+          var siIdx = parseInt(sel.getAttribute('data-si'), 10);
+          state.answers[idx][siIdx] = sel.value;
+          renderNavigator();
+        });
+      });
+    }
 
     el('btn-prev').disabled = (idx === 0);
     if (idx === total - 1){
@@ -746,7 +846,7 @@
     var elapsedSecs = Math.floor((Date.now() - state.startTime) / 1000);
     var correct = 0;
     state.quizQuestions.forEach(function(q, i){
-      if (state.answers[i] === q.respostaCorreta) correct++;
+      if (isCorrectAnswer(q, state.answers[i])) correct++;
     });
     var total = state.quizQuestions.length;
     var pct = total ? Math.round((correct / total) * 100) : 0;
@@ -759,19 +859,34 @@
 
     var reviewHtml = state.quizQuestions.map(function(q, i){
       var userAnswer = state.answers[i];
-      var isCorrect = userAnswer === q.respostaCorreta;
-      var altsHtml = q.alternativas.map(function(alt, altIdx){
-        var cls = '';
-        if (altIdx === q.respostaCorreta) cls = 'review-alt correct-answer';
-        else if (altIdx === userAnswer) cls = 'review-alt wrong-answer';
-        else cls = 'review-alt';
-        return '<div class="' + cls + '">' + escapeHtml(alt) + '</div>';
-      }).join('');
-      var noAnswerNote = (userAnswer === null) ? '<div class="review-just"><strong>Você não respondeu esta questão.</strong></div>' : '';
+      var isCorrect = isCorrectAnswer(q, userAnswer);
+      var bodyHtml;
+      if (isMCQuestion(q)){
+        bodyHtml = q.alternativas.map(function(alt, altIdx){
+          var cls;
+          if (altIdx === q.respostaCorreta) cls = 'review-alt correct-answer';
+          else if (altIdx === userAnswer) cls = 'review-alt wrong-answer';
+          else cls = 'review-alt';
+          return '<div class="' + cls + '">' + escapeHtml(alt) + '</div>';
+        }).join('');
+      } else {
+        bodyHtml = q.subItens.map(function(si, si_idx){
+          var userSel = Array.isArray(userAnswer) ? userAnswer[si_idx] : null;
+          var siCorrect = userSel === si.respostaCorreta;
+          var tag = userSel
+            ? ('<div class="' + (siCorrect ? 'review-alt correct-answer' : 'review-alt wrong-answer') + '">Sua resposta: ' + escapeHtml(userSel) + (siCorrect ? '' : ' — correto: ' + escapeHtml(si.respostaCorreta)) + '</div>')
+            : ('<div class="review-alt wrong-answer">Não respondido — correto: ' + escapeHtml(si.respostaCorreta) + '</div>');
+          return '<div class="subitem-row" style="border:none; padding:10px 0;">' +
+            '<p class="subitem-text" style="margin-bottom:6px;">' + escapeHtml(si.texto) + '</p>' +
+            tag +
+          '</div>';
+        }).join('');
+      }
+      var noAnswerNote = (!isAnswered(q, userAnswer)) ? '<div class="review-just"><strong>Você não respondeu esta questão.</strong></div>' : '';
       return '<div class="review-item ' + (isCorrect ? 'is-correct' : 'is-wrong') + '">' +
         '<div class="review-discipline">' + escapeHtml(q.disciplinaNome) + '</div>' +
         '<p class="review-question">' + escapeHtml(q.enunciado) + '</p>' +
-        altsHtml +
+        bodyHtml +
         noAnswerNote +
         (q.justificativa ? '<div class="review-just"><strong>Justificativa: </strong>' + escapeHtml(q.justificativa) + '</div>' : '') +
       '</div>';
