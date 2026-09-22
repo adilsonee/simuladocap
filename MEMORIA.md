@@ -3,9 +3,18 @@
 ## Status Atual
 Site estático hospedado no GitHub Pages (branch `gh-pages`, repo `adilsonee/simuladocap`), servido em `https://adilsonee.github.io/simuladocap/`. Aplicação single-page em `index.html` (HTML/CSS/JS puro, sem build) que lê as questões de `questoes.json` via `fetch`. Fluxo: login (nome + chave de acesso fixa) → menu (Simulado Geral / por Matéria) → seleção de quantidade → quiz com navegador de questões e cronômetro → tela de resultados com revisão e justificativa. Histórico por nome fica salvo em `localStorage`. App funcionando corretamente após o fix descrito abaixo.
 
+## Versionamento
+- **Versão atual: 1.0.0** — constante `APP_VERSION` em `index.html` (~linha 432), exibida na tela de login (`#login-version`).
+- **Regra obrigatória: incrementar `APP_VERSION` a cada revisão** (todo commit que altere `index.html` e/ou `questoes.json`), seguindo SemVer:
+  - PATCH (x.y.**Z**) — correção de bug, ajuste visual pequeno.
+  - MINOR (x.**Y**.0) — nova funcionalidade, nova matéria/tipo de questão.
+  - MAJOR (**X**.0.0) — mudança estrutural que quebra compatibilidade (schema do JSON, fluxo de telas, etc.).
+- Atualizar também esta linha de "Versão atual" no `MEMORIA.md` junto com a constante, para manterem-se sincronizadas.
+
 ## O que foi feito
 - **2026-09-22** — Corrigido bug que deixava a aplicação inutilizável após o login: `#screen-shell` nascia com `class="hidden"` (`display:none !important` no CSS), e `showOnly()` só alterava `style.display` inline daquele elemento — que o `!important` sempre sobrepunha. Resultado: tela ficava vazia/preta para sempre após "Entrar", mesmo com `questoes.json` carregado corretamente. Corrigido fazendo `showOnly()` usar `classList` (show/hide) para `screen-shell` igual às demais telas. Commit `59a0724`. Validado com Chrome headless simulando login completo (tela do menu aparece com cards e histórico).
 - **2026-09-22** — Adicionadas as matérias SSCI, Combate a Incêndio e APH, além de novos tipos de questão `verdadeiro_falso` e `associacao` (sub-itens com `subItens`/`opcoesAssociacao`), com `isValidQuestion()` filtrando questões malformadas do pool. Commits `bf0f63b`/`54774f5`. **Essa edição reintroduziu por engano o bug do `showOnly()` acima** (voltou a tratar `screen-shell` como caso especial). Identificado ao revisar o diff e confirmado com o mesmo teste headless (tela em branco pós-login). Corrigido novamente em `c5d5ce3`, restaurando o `classList` show/hide simples. **Atenção**: se `showOnly()` for tocado de novo, checar que `screen-shell` não volte a usar `style.display` isolado — a classe `.hidden` com `!important` sempre vai vencer.
+- **2026-09-22** — Implementado número de versão (`APP_VERSION = "1.0.0"`) exibido discretamente na tela de login (`.login-version`), e criada a regra de versionamento acima (incrementar a cada revisão). Início do controle de versão para esta reescrita do app (a versão anterior, Blazor WASM, chegou a v1.4.0 mas foi totalmente substituída pelo commit `537dc80`).
 
 ## Decisões de Arquitetura
 - App sem framework/build step, propositalmente simples para deploy direto via GitHub Pages (`.nojekyll` presente para não filtrar arquivos).
