@@ -450,8 +450,7 @@
   function hide(id){ el(id).classList.add('hidden'); }
   function showOnly(id){
     ['screen-loading','screen-login','screen-shell','screen-fatal'].forEach(function(s){
-      if (s === 'screen-shell') { el(s).style.display = (s === id) ? 'flex' : 'none'; }
-      else { s === id ? show(s) : hide(s); }
+      s === id ? show(s) : hide(s);
     });
   }
   function showSub(id){
