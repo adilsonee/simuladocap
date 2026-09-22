@@ -198,13 +198,16 @@
     background:var(--bg); text-align:left; font-size:14.5px; line-height:1.5; color:var(--text);
   }
   .option:hover{border-color:var(--gold);}
-  .option.selected{border-color:var(--gold); background:var(--gold-soft);}
+  .option{transition:border-color 0.15s ease, background-color 0.15s ease;}
+  .option.correct{border-color:var(--green); background:var(--green-soft);}
+  .option.wrong{border-color:var(--red); background:var(--red-soft);}
   .option__mark{
     width:20px; height:20px; border-radius:50%; border:1.5px solid var(--muted);
     flex-shrink:0; margin-top:1px; display:flex; align-items:center; justify-content:center;
   }
-  .option.selected .option__mark{border-color:var(--gold); background:var(--gold);}
-  .option.selected .option__mark::after{content:''; width:8px; height:8px; border-radius:50%; background:var(--bg);}
+  .option.correct .option__mark{border-color:var(--green); background:var(--green);}
+  .option.wrong .option__mark{border-color:var(--red); background:var(--red);}
+  .option.correct .option__mark::after, .option.wrong .option__mark::after{content:''; width:8px; height:8px; border-radius:50%; background:var(--bg);}
 
   .subitem-row{
     padding:14px 0; border-bottom:1px solid var(--line);
@@ -215,14 +218,22 @@
   .vf-btn{
     flex:1; padding:10px 14px; border-radius:8px; border:1px solid var(--line);
     background:var(--bg); color:var(--text); font-size:14px; font-weight:500;
+    transition:border-color 0.15s ease, background-color 0.15s ease;
   }
   .vf-btn:hover{border-color:var(--gold);}
-  .vf-btn.selected{border-color:var(--gold); background:var(--gold-soft); color:var(--gold);}
+  .vf-btn.correct{border-color:var(--green); background:var(--green-soft); color:var(--green);}
+  .vf-btn.wrong{border-color:var(--red); background:var(--red-soft); color:#E39A97;}
   .assoc-select{
     width:100%; padding:10px 12px; border-radius:8px; border:1px solid var(--line);
     background:var(--bg); color:var(--text); font-size:14px; outline:none;
+    transition:border-color 0.15s ease;
   }
   .assoc-select:focus{border-color:var(--gold);}
+  .assoc-select.correct{border-color:var(--green);}
+  .assoc-select.wrong{border-color:var(--red);}
+  .assoc-select:disabled{opacity:0.85; cursor:default;}
+  .subitem-hint{margin-top:6px; font-size:12.5px; color:var(--muted);}
+  .subitem-hint strong{color:var(--text);}
 
   .quiz-actions{display:flex; justify-content:space-between; gap:12px; max-width:640px; width:100%;}
   .quiz-actions .btn, .quiz-actions .btn-secondary{width:auto; flex:1;}
@@ -380,6 +391,7 @@
           <div class="question-discipline" id="quiz-discipline"></div>
           <p class="question-text" id="quiz-enunciado"></p>
           <div class="options" id="quiz-options"></div>
+          <div class="review-just hidden" id="quiz-justificativa"></div>
         </div>
       </div>
 
@@ -429,7 +441,7 @@
 (function(){
   "use strict";
 
-  var APP_VERSION = "1.1.0";
+  var APP_VERSION = "1.2.0";
   var ACCESS_KEY = "CAP2026";
   var STORAGE_LAST_NAME = "simuladocap:lastName";
   var SESSION_KEY = "simuladocap:session";
@@ -441,10 +453,12 @@
     mode: null,          // 'geral' | 'materia'
     subjectId: null,
     quizQuestions: [],   // [{...questao, disciplinaNome}]
-    answers: [],         // same length as quizQuestions, index or null
+    answers: [],         // same length as quizQuestions, index (or array of sub-answers) or null
     currentIndex: 0,
     startTime: null,
-    timerHandle: null
+    timerHandle: null,
+    autoAdvanceHandle: null,
+    finished: false
   };
 
   // ---------- helpers ----------
@@ -687,10 +701,44 @@
     state.answers = state.quizQuestions.map(function(q){ return blankAnswerFor(q); });
     state.currentIndex = 0;
     state.startTime = Date.now();
+    state.finished = false;
+    clearAutoAdvance();
     startTimer();
     renderNavigator();
     renderQuestion();
     showSub('screen-quiz');
+  }
+
+  var AUTO_ADVANCE_DELAY_MS = 900;
+  function clearAutoAdvance(){
+    if (state.autoAdvanceHandle){ clearTimeout(state.autoAdvanceHandle); state.autoAdvanceHandle = null; }
+  }
+  function scheduleAutoAdvance(answeredIdx){
+    clearAutoAdvance();
+    state.autoAdvanceHandle = setTimeout(function(){
+      state.autoAdvanceHandle = null;
+      if (state.currentIndex !== answeredIdx) return; // user navigated away before the delay elapsed
+      goToNextOrFinish();
+    }, AUTO_ADVANCE_DELAY_MS);
+  }
+  function goToNextOrFinish(){
+    if (state.currentIndex < state.quizQuestions.length - 1){
+      state.currentIndex++;
+      renderQuestion();
+      renderNavigator();
+    } else {
+      finishQuiz();
+    }
+  }
+  function renderJustificativa(q, reveal){
+    var box = el('quiz-justificativa');
+    if (reveal && q.justificativa){
+      box.innerHTML = '<strong>Justificativa: </strong>' + escapeHtml(q.justificativa);
+      box.classList.remove('hidden');
+    } else {
+      box.innerHTML = '';
+      box.classList.add('hidden');
+    }
   }
 
   function startTimer(){
@@ -741,8 +789,16 @@
   function blankAnswerFor(q){
     return isMCQuestion(q) ? null : new Array(q.subItens.length).fill(null);
   }
+  function onSubitemAnswered(q, idx){
+    renderQuestion();
+    renderNavigator();
+    if (isFullyAnswered(q, state.answers[idx]) && isCorrectAnswer(q, state.answers[idx])){
+      scheduleAutoAdvance(idx);
+    }
+  }
 
   function renderQuestion(){
+    clearAutoAdvance();
     var total = state.quizQuestions.length;
     var idx = state.currentIndex;
     var q = state.quizQuestions[idx];
@@ -754,9 +810,14 @@
     el('quiz-enunciado').textContent = q.enunciado;
 
     if (isMCQuestion(q)){
+      var answered = isAnswered(q, state.answers[idx]);
       var optionsHtml = q.alternativas.map(function(alt, i){
-        var selected = state.answers[idx] === i;
-        return '<button class="option' + (selected ? ' selected' : '') + '" data-alt="' + i + '">' +
+        var cls = 'option';
+        if (answered){
+          if (i === q.respostaCorreta) cls += ' correct';
+          else if (i === state.answers[idx]) cls += ' wrong';
+        }
+        return '<button class="' + cls + '" data-alt="' + i + '"' + (answered ? ' style="pointer-events:none;"' : '') + '>' +
           '<span class="option__mark"></span><span>' + escapeHtml(alt) + '</span>' +
         '</button>';
       }).join('');
@@ -764,18 +825,29 @@
 
       Array.prototype.forEach.call(el('quiz-options').querySelectorAll('.option'), function(btn){
         btn.addEventListener('click', function(){
-          state.answers[idx] = parseInt(btn.getAttribute('data-alt'), 10);
+          if (isAnswered(q, state.answers[idx])) return;
+          var choice = parseInt(btn.getAttribute('data-alt'), 10);
+          state.answers[idx] = choice;
+          var correct = choice === q.respostaCorreta;
           renderQuestion();
           renderNavigator();
+          if (correct) scheduleAutoAdvance(idx);
         });
       });
+
+      renderJustificativa(q, answered && state.answers[idx] !== q.respostaCorreta);
     } else if (q.tipo === 'verdadeiro_falso'){
       var currentVF = state.answers[idx];
       var vfHtml = q.subItens.map(function(si, si_idx){
         var sel = currentVF[si_idx];
+        var subAnswered = sel !== null && sel !== undefined;
         var btnsHtml = q.opcoesAssociacao.map(function(opt){
-          var isSel = sel === opt;
-          return '<button class="vf-btn' + (isSel ? ' selected' : '') + '" data-si="' + si_idx + '" data-val="' + escapeHtml(opt) + '">' + escapeHtml(opt) + '</button>';
+          var cls = 'vf-btn';
+          if (subAnswered){
+            if (opt === si.respostaCorreta) cls += ' correct';
+            else if (opt === sel) cls += ' wrong';
+          }
+          return '<button class="' + cls + '" data-si="' + si_idx + '" data-val="' + escapeHtml(opt) + '"' + (subAnswered ? ' style="pointer-events:none;"' : '') + '>' + escapeHtml(opt) + '</button>';
         }).join('');
         return '<div class="subitem-row">' +
           '<p class="subitem-text">' + escapeHtml(si.texto) + '</p>' +
@@ -787,22 +859,31 @@
       Array.prototype.forEach.call(el('quiz-options').querySelectorAll('.vf-btn'), function(btn){
         btn.addEventListener('click', function(){
           var siIdx = parseInt(btn.getAttribute('data-si'), 10);
+          if (state.answers[idx][siIdx] !== null && state.answers[idx][siIdx] !== undefined) return;
           state.answers[idx][siIdx] = btn.getAttribute('data-val');
-          renderQuestion();
-          renderNavigator();
+          onSubitemAnswered(q, idx);
         });
       });
+
+      renderJustificativa(q, isFullyAnswered(q, state.answers[idx]) && !isCorrectAnswer(q, state.answers[idx]));
     } else if (q.tipo === 'associacao'){
       var currentAssoc = state.answers[idx];
       var assocHtml = q.subItens.map(function(si, si_idx){
         var sel = currentAssoc[si_idx];
+        var subAnswered = sel !== null && sel !== undefined;
+        var cls = 'assoc-select';
+        if (subAnswered) cls += (sel === si.respostaCorreta ? ' correct' : ' wrong');
         var optsHtml = '<option value="" disabled ' + (sel ? '' : 'selected') + '>Selecione...</option>' +
           q.opcoesAssociacao.map(function(opt){
             return '<option value="' + escapeHtml(opt) + '"' + (sel === opt ? ' selected' : '') + '>' + escapeHtml(opt) + '</option>';
           }).join('');
+        var hint = (subAnswered && sel !== si.respostaCorreta)
+          ? '<div class="subitem-hint">Correto: <strong>' + escapeHtml(si.respostaCorreta) + '</strong></div>'
+          : '';
         return '<div class="subitem-row">' +
           '<p class="subitem-text">' + escapeHtml(si.texto) + '</p>' +
-          '<select class="assoc-select" data-si="' + si_idx + '">' + optsHtml + '</select>' +
+          '<select class="' + cls + '" data-si="' + si_idx + '"' + (subAnswered ? ' disabled' : '') + '>' + optsHtml + '</select>' +
+          hint +
         '</div>';
       }).join('');
       el('quiz-options').innerHTML = assocHtml;
@@ -811,9 +892,11 @@
         sel.addEventListener('change', function(){
           var siIdx = parseInt(sel.getAttribute('data-si'), 10);
           state.answers[idx][siIdx] = sel.value;
-          renderNavigator();
+          onSubitemAnswered(q, idx);
         });
       });
+
+      renderJustificativa(q, isFullyAnswered(q, state.answers[idx]) && !isCorrectAnswer(q, state.answers[idx]));
     }
 
     el('btn-prev').disabled = (idx === 0);
@@ -844,6 +927,9 @@
 
   // ---------- results ----------
   function finishQuiz(){
+    if (state.finished) return;
+    state.finished = true;
+    clearAutoAdvance();
     stopTimer();
     var elapsedSecs = Math.floor((Date.now() - state.startTime) / 1000);
     var correct = 0;
